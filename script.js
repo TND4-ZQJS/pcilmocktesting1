@@ -28,8 +28,9 @@ function displayQuestion(num) {
 
   document.getElementById('feedback').innerText = '';
   document.getElementById('explanation').style.display = 'none';
-  document.getElementById('toggle-explanation').style.display = 'none';
   document.getElementById('explanation').innerHTML = '';
+  document.getElementById('toggle-explanation').style.display = 'none';
+  document.getElementById('toggle-explanation').innerText = 'Show Explanation'; // ✅ Reset button label
 }
 
 function checkAnswer(button, selected, correct, explanation, textbook, chapter, page) {
@@ -56,12 +57,13 @@ function checkAnswer(button, selected, correct, explanation, textbook, chapter, 
 
 function toggleExplanation() {
   const exp = document.getElementById('explanation');
+  const toggleBtn = document.getElementById('toggle-explanation');
   if (exp.style.display === 'none') {
     exp.style.display = 'block';
-    document.getElementById('toggle-explanation').innerText = 'Hide Explanation';
+    toggleBtn.innerText = 'Hide Explanation';
   } else {
     exp.style.display = 'none';
-    document.getElementById('toggle-explanation').innerText = 'Show Explanation';
+    toggleBtn.innerText = 'Show Explanation';
   }
 }
 
