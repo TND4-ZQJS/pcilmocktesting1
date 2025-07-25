@@ -1,0 +1,116 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  background-color: #f5f5f7;
+  color: #1d1d1f;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+.container {
+  max-width: 600px;
+  background: white;
+  border-radius: 12px;
+  padding: 30px;
+  margin: auto;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.nav-controls {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 30px;
+}
+
+input[type="number"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 60px;
+  font-size: 16px;
+  text-align: center;
+}
+
+button {
+  background: #0071e3;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 5px;
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  background: #005bb5;
+}
+
+button:disabled {
+  background: #cccccc;
+  cursor: not-allowed;
+}
+
+.option {
+  display: block;
+  padding: 12px;
+  margin: 12px 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.option.correct {
+  background-color: #d4f6d2;
+  border-color: #28a745;
+}
+
+.option.incorrect {
+  background-color: #f8d7da;
+  border-color: #dc3545;
+}
+
+.option.selected {
+  transform: scale(1.03);
+  border-width: 2px;
+}
+
+.option.disabled {
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+.feedback {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.explanation {
+  background-color: #f0f0f5;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 15px;
+  font-size: 15px;
+  text-align: left;
+}
+
+@media (max-width: 480px) {
+  .nav-controls {
+    flex-wrap: wrap;
+  }
+
+  .option,
+  button,
+  input[type="number"] {
+    width: 100%;
+  }
+}
