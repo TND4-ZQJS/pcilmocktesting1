@@ -16,39 +16,36 @@ body {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
-#question-number {
-  margin-bottom: 10px;
-  font-weight: bold;
-  font-size: 18px;
+.nav-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 25px;
+  flex-wrap: wrap;
 }
 
-#question-text {
-  margin-bottom: 20px;
-  font-size: 17px;
-  line-height: 1.5;
+.nav-controls button,
+.nav-controls input[type="number"] {
+  padding: 10px 16px;
+  font-size: 14px;
+  border-radius: 6px;
+  border: none;
+  font-weight: 600;
 }
 
-#options-container button {
-  display: block;
-  margin: 12px auto;
-  width: 90%;
-  padding: 12px;
-  font-size: 16px;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: all 0.2s ease;
+.nav-controls input[type="number"] {
+  width: 60px;
+  text-align: center;
+  border: 1px solid #ccc;
 }
 
 button {
   background: #0071e3;
   color: white;
   border: none;
-  padding: 10px 16px;
-  font-size: 14px;
-  font-weight: 600;
-  border-radius: 8px;
   cursor: pointer;
-  margin: 5px;
+  transition: all 0.2s ease;
 }
 
 button:hover {
@@ -56,27 +53,46 @@ button:hover {
 }
 
 button:disabled {
-  background: #ccc;
+  background: #cccccc;
   cursor: not-allowed;
 }
 
-.correct {
-  background-color: #d1e7dd;
-  border-left: 5px solid #198754;
-  color: #1d1d1f;
-  font-weight: 600;
+.option {
+  display: block;
+  padding: 14px;
+  margin: 14px auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  width: 90%;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  font-size: 16px;
+  text-align: left;
 }
 
-.incorrect {
-  background-color: #f8d7da;
-  border-left: 5px solid #dc3545;
-  color: #1d1d1f;
-  font-weight: 600;
+.option.correct {
+  background-color: #c7f5cb;
+  border: 2px solid #28a745;
+  color: #1e4620;
+  font-weight: bold;
+}
+
+.option.incorrect {
+  background-color: #f9c2c4;
+  border: 2px solid #dc3545;
+  color: #842029;
+  font-weight: bold;
+}
+
+.option.disabled {
+  pointer-events: none;
+  opacity: 0.85;
 }
 
 .feedback {
   margin-top: 10px;
   font-weight: bold;
+  font-size: 16px;
 }
 
 .explanation {
@@ -86,40 +102,47 @@ button:disabled {
   margin-top: 15px;
   font-size: 15px;
   text-align: left;
+  display: none;
 }
 
-.nav-controls {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: center;
-  align-items: center;
-  gap: 8px;
-  margin-top: 20px;
-}
-
-.nav-controls button,
-.nav-controls input[type="number"] {
-  padding: 8px 12px;
+#toggle-explanation {
+  margin-top: 12px;
   font-size: 14px;
+  background-color: #0071e3;
+  color: white;
+  padding: 8px 12px;
   border-radius: 6px;
-  width: auto;
-  flex: 0 0 auto;
+  border: none;
+  cursor: pointer;
 }
 
-.nav-controls input[type="number"] {
-  width: 60px;
-  text-align: center;
+#toggle-explanation:hover {
+  background-color: #005bb5;
+}
+
+#question-number {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#question-text {
+  margin-bottom: 20px;
+  font-size: 17px;
+  line-height: 1.5;
 }
 
 @media (max-width: 480px) {
-  .nav-controls {
-    flex-wrap: wrap;
-    gap: 6px;
+  .container {
+    padding: 20px;
   }
 
-  #options-container button,
-  button,
-  input[type="number"] {
+  .option, button, input[type="number"] {
     width: 100%;
+    font-size: 16px;
+  }
+
+  .nav-controls {
+    gap: 6px;
   }
 }
