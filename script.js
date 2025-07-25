@@ -1,6 +1,6 @@
 let currentQuestion = 1;
 let questions = [];
-let userAnswers = {}; // Stores user's selected answer and explanation state
+let userAnswers = {}; // Tracks user's answer and explanation toggle
 
 fetch('set2_full_100.json')
   .then(response => response.json())
@@ -19,6 +19,7 @@ function displayQuestion(num) {
   const optionsContainer = document.getElementById('options-container');
   optionsContainer.innerHTML = '';
 
+  // Create option buttons
   for (let key in q.options) {
     const btn = document.createElement('button');
     btn.innerText = `${key}. ${q.options[key]}`;
@@ -33,33 +34,24 @@ function displayQuestion(num) {
     optionsContainer.appendChild(btn);
   }
 
-  // Clear previous state
+  // Reset feedback and explanation sections
   document.getElementById('feedback').innerText = '';
   document.getElementById('explanation').innerHTML = '';
   document.getElementById('explanation').style.display = 'none';
   document.getElementById('toggle-explanation').style.display = 'none';
+  document.getElementById('toggle-explanation').innerText = 'Show Explanation';
 
-  // Restore user state if exists
+  // If already answered, restore answer and toggle state
   if (userAnswers[num]) {
     const selected = userAnswers[num].selected;
-    const showExplanation = userAnswers[num].showExplanation;
-    checkAnswer(
-      [...optionsContainer.children].find(b => b.innerText.startsWith(selected)),
-      selected,
-      q.answer,
-      q.explanation,
-      q.textbook,
-      q.chapter,
-      q.page,
-      true
-    );
+    const showExp = userAnswers[num].showExplanation;
 
-    if (showExplanation) {
+    const selectedBtn = [...optionsContainer.children].find(b => b.innerText.startsWith(selected));
+    checkAnswer(selectedBtn, selected, q.answer, q.explanation, q.textbook, q.chapter, q.page, true);
+
+    if (showExp) {
       document.getElementById('explanation').style.display = 'block';
       document.getElementById('toggle-explanation').innerText = 'Hide Explanation';
-    } else {
-      document.getElementById('explanation').style.display = 'none';
-      document.getElementById('toggle-explanation').innerText = 'Show Explanation';
     }
   }
 }
@@ -77,7 +69,9 @@ function checkAnswer(button, selected, correct, explanation, textbook, chapter, 
     }
   });
 
-  if (!isRestore) button.classList.add('selected');
+  if (!isRestore) {
+    button.classList.add('selected');
+  }
 
   document.getElementById('feedback').innerText = `Correct answer: ${correct}`;
   document.getElementById('toggle-explanation').style.display = 'inline-block';
@@ -93,7 +87,7 @@ function toggleExplanation() {
   exp.style.display = isVisible ? 'none' : 'block';
   document.getElementById('toggle-explanation').innerText = isVisible ? 'Show Explanation' : 'Hide Explanation';
 
-  // Save explanation toggle state
+  // Update user's toggle preference
   if (userAnswers[currentQuestion]) {
     userAnswers[currentQuestion].showExplanation = !isVisible;
   }
