@@ -26,11 +26,15 @@ function displayQuestion(num) {
     optionsContainer.appendChild(btn);
   }
 
+  // Reset state for feedback and explanation
   document.getElementById('feedback').innerText = '';
   document.getElementById('explanation').style.display = 'none';
   document.getElementById('explanation').innerHTML = '';
-  document.getElementById('toggle-explanation').style.display = 'none';
-  document.getElementById('toggle-explanation').innerText = 'Show Explanation'; // ✅ Reset button label
+  
+  // ✅ Reset explanation toggle button state and label
+  const toggleBtn = document.getElementById('toggle-explanation');
+  toggleBtn.style.display = 'none';
+  toggleBtn.innerText = 'Show Explanation';
 }
 
 function checkAnswer(button, selected, correct, explanation, textbook, chapter, page) {
@@ -48,16 +52,23 @@ function checkAnswer(button, selected, correct, explanation, textbook, chapter, 
 
   button.classList.add('selected');
   document.getElementById('feedback').innerText = `Correct answer: ${correct}`;
-  document.getElementById('toggle-explanation').style.display = 'inline-block';
-  document.getElementById('explanation').innerHTML = `
+
+  const explanationBox = document.getElementById('explanation');
+  explanationBox.innerHTML = `
     <strong>Explanation:</strong><br>${explanation}<br><br>
     <em>Reference: ${textbook}, ${chapter}, page ${page}</em>
   `;
+  explanationBox.style.display = 'none';
+
+  const toggleBtn = document.getElementById('toggle-explanation');
+  toggleBtn.style.display = 'inline-block';
+  toggleBtn.innerText = 'Show Explanation'; // ✅ Reset label
 }
 
 function toggleExplanation() {
   const exp = document.getElementById('explanation');
   const toggleBtn = document.getElementById('toggle-explanation');
+
   if (exp.style.display === 'none') {
     exp.style.display = 'block';
     toggleBtn.innerText = 'Hide Explanation';
