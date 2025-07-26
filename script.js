@@ -46,7 +46,7 @@ function displayQuestion(num) {
     document.getElementById('toggle-explanation').innerText = 'Hide Explanation';
     document.getElementById('explanation').innerHTML = `
       <strong>Explanation:</strong><br>${q.explanation}<br><br>
-      <em>Reference: ${q.textbook}, ${q.chapter}, page ${q.page}</em>
+      <em>Reference: ${q.textbook}</em>
     `;
   }
 }
