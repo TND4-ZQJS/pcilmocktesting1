@@ -35,14 +35,19 @@ body {
 }
 
 .option.correct {
-  background-color: #d4f6d2;
-  border-left: 5px solid #28a745;
+  background-color: #c7f5cb;
+  border: 2px solid #28a745;
+  color: #1e4620;
+  font-weight: bold;
 }
 
 .option.incorrect {
-  background-color: #f8d7da;
-  border-left: 5px solid #dc3545;
+  background-color: #f9c2c4;
+  border: 2px solid #dc3545;
+  color: #842029;
+  font-weight: bold;
 }
+
 
 .option.disabled {
   pointer-events: none;
