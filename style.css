@@ -18,33 +18,44 @@ body {
 
 .nav-controls {
   display: flex;
+  flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
-  gap: 10px;
-  margin-top: 25px;
-  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
 }
 
 .nav-controls button,
 .nav-controls input[type="number"] {
-  padding: 10px 16px;
+  padding: 8px 12px;
   font-size: 14px;
   border-radius: 6px;
-  border: none;
-  font-weight: 600;
+  width: auto;
+  flex: 0 0 auto;
 }
 
 .nav-controls input[type="number"] {
   width: 60px;
   text-align: center;
-  border: 1px solid #ccc;
+}
+
+@media (max-width: 480px) {
+  .nav-controls {
+    flex-wrap: wrap;
+    gap: 6px;
+  }
 }
 
 button {
   background: #0071e3;
   color: white;
   border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px;
   cursor: pointer;
+  margin: 5px;
   transition: all 0.2s ease;
 }
 
@@ -57,31 +68,40 @@ button:disabled {
   cursor: not-allowed;
 }
 
+input[type="number"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 80px;
+  font-size: 16px;
+}
+
 .option {
   display: block;
   padding: 14px;
-  margin: 14px auto;
+  margin: 12px auto;
   border: 1px solid #ccc;
-  border-radius: 10px;
-  width: 90%;
+  border-radius: 8px;
+  width: 80%;
   cursor: pointer;
-  transition: background-color 0.2s ease;
+  transition: all 0.2s ease;
   font-size: 16px;
   text-align: left;
+  background-color: #ffffff;
 }
 
 .option.correct {
-  background-color: #c7f5cb;
+  background-color: #c8f7c5;
   border: 2px solid #28a745;
-  color: #1e4620;
   font-weight: bold;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .option.incorrect {
-  background-color: #f9c2c4;
+  background-color: #f5c6cb;
   border: 2px solid #dc3545;
-  color: #842029;
   font-weight: bold;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .option.disabled {
@@ -89,13 +109,12 @@ button:disabled {
   opacity: 0.85;
 }
 
-.feedback {
+#feedback {
   margin-top: 10px;
   font-weight: bold;
-  font-size: 16px;
 }
 
-.explanation {
+#explanation {
   background-color: #f0f0f5;
   padding: 15px;
   border-radius: 10px;
@@ -105,44 +124,10 @@ button:disabled {
   display: none;
 }
 
-#toggle-explanation {
-  margin-top: 12px;
-  font-size: 14px;
-  background-color: #0071e3;
-  color: white;
-  padding: 8px 12px;
-  border-radius: 6px;
-  border: none;
-  cursor: pointer;
-}
-
-#toggle-explanation:hover {
-  background-color: #005bb5;
-}
-
-#question-number {
-  font-weight: bold;
-  font-size: 18px;
-  margin-bottom: 10px;
-}
-
-#question-text {
-  margin-bottom: 20px;
-  font-size: 17px;
-  line-height: 1.5;
-}
-
 @media (max-width: 480px) {
-  .container {
-    padding: 20px;
-  }
-
-  .option, button, input[type="number"] {
+  .option,
+  button,
+  input[type="number"] {
     width: 100%;
-    font-size: 16px;
-  }
-
-  .nav-controls {
-    gap: 6px;
   }
 }
