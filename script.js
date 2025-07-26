@@ -1,13 +1,12 @@
 let currentQuestion = 1;
 let questions = [];
-let userAnswers = JSON.parse(localStorage.getItem("userAnswers")) || {};
-let explanationStates = JSON.parse(localStorage.getItem("explanationStates")) || {};
+let score = 0;
 
 fetch('set2_full_100.json')
   .then(response => response.json())
   .then(data => {
     questions = data;
-    calculateScore();
+    loadProgress();
     displayQuestion(currentQuestion);
   });
 
@@ -25,67 +24,88 @@ function displayQuestion(num) {
     const btn = document.createElement('button');
     btn.innerText = `${key}. ${q.options[key]}`;
     btn.className = 'option';
-    btn.onclick = () => checkAnswer(btn, key, q.answer, q.explanation, q.textbook, q.chapter, q.page, num);
+    btn.disabled = false;
+
+    const savedAnswer = localStorage.getItem(`answer_${num}`);
+    if (savedAnswer) {
+      btn.disabled = true;
+      btn.classList.add('disabled');
+      if (key === q.answer) btn.classList.add('correct');
+      if (key === savedAnswer && savedAnswer !== q.answer) btn.classList.add('incorrect');
+    }
+
+    btn.onclick = () => checkAnswer(btn, key, q.answer, q.explanation, q.textbook, q.chapter, q.page);
     optionsContainer.appendChild(btn);
   }
 
   document.getElementById('feedback').innerText = '';
+  document.getElementById('explanation').innerHTML = '';
   document.getElementById('explanation').style.display = 'none';
   document.getElementById('toggle-explanation').style.display = 'none';
   document.getElementById('toggle-explanation').innerText = 'Show Explanation';
-  document.getElementById('explanation').innerHTML = '';
 
-  const savedAnswer = userAnswers[num];
+  const savedAnswer = localStorage.getItem(`answer_${num}`);
+  const explanationShown = localStorage.getItem(`explanation_${num}`) === 'true';
+
   if (savedAnswer) {
-    checkAnswer(null, savedAnswer, q.answer, q.explanation, q.textbook, q.chapter, q.page, num, true);
+    showFeedback(q.answer, savedAnswer, q.explanation, q.textbook, q.chapter, q.page);
+    if (explanationShown) {
+      document.getElementById('explanation').style.display = 'block';
+      document.getElementById('toggle-explanation').innerText = 'Hide Explanation';
+    }
+    document.getElementById('toggle-explanation').style.display = 'inline-block';
   }
 
-  if (explanationStates[num]) {
-    document.getElementById('explanation').style.display = 'block';
-    document.getElementById('toggle-explanation').style.display = 'inline-block';
-    document.getElementById('toggle-explanation').innerText = 'Hide Explanation';
-    document.getElementById('explanation').innerHTML = `
-      <strong>Explanation:</strong><br>${q.explanation}<br><br>
-      <em>Reference: ${q.textbook}, ${q.chapter}, page ${q.page}</em>
-    `;
-  }
+  updateScoreDisplay();
 }
 
-function checkAnswer(button, selected, correct, explanation, textbook, chapter, page, qNum, isRestore = false) {
+function checkAnswer(button, selected, correct, explanation, textbook, chapter, page) {
   const buttons = document.querySelectorAll('#options-container button');
   buttons.forEach(btn => {
     btn.classList.add('disabled');
     btn.disabled = true;
-    if (btn.innerText.startsWith(correct)) btn.classList.add('correct');
-    if (btn.innerText.startsWith(selected) && selected !== correct) btn.classList.add('incorrect');
+    if (btn.innerText.startsWith(correct)) {
+      btn.classList.add('correct');
+    }
+    if (btn.innerText.startsWith(selected) && selected !== correct) {
+      btn.classList.add('incorrect');
+    }
   });
 
-  if (button) button.classList.add('selected');
   document.getElementById('feedback').innerText = `Correct answer: ${correct}`;
   document.getElementById('toggle-explanation').style.display = 'inline-block';
-
+  document.getElementById('toggle-explanation').innerText = 'Show Explanation';
+  document.getElementById('explanation').style.display = 'none';
   document.getElementById('explanation').innerHTML = `
     <strong>Explanation:</strong><br>${explanation}<br><br>
     <em>Reference: ${textbook}, ${chapter}, page ${page}</em>
   `;
 
-  if (!isRestore) {
-    userAnswers[qNum] = selected;
-    localStorage.setItem("userAnswers", JSON.stringify(userAnswers));
-    calculateScore();
+  const previous = localStorage.getItem(`answer_${currentQuestion}`);
+  if (!previous) {
+    if (selected === correct) score++;
+    localStorage.setItem('score', score);
   }
+
+  localStorage.setItem(`answer_${currentQuestion}`, selected);
+  localStorage.setItem(`explanation_${currentQuestion}`, 'false');
+
+  updateScoreDisplay();
 }
 
 function toggleExplanation() {
   const exp = document.getElementById('explanation');
-  const button = document.getElementById('toggle-explanation');
+  const isHidden = exp.style.display === 'none';
 
-  const isVisible = exp.style.display === 'block';
-  exp.style.display = isVisible ? 'none' : 'block';
-  button.innerText = isVisible ? 'Show Explanation' : 'Hide Explanation';
-
-  explanationStates[currentQuestion] = !isVisible;
-  localStorage.setItem("explanationStates", JSON.stringify(explanationStates));
+  if (isHidden) {
+    exp.style.display = 'block';
+    document.getElementById('toggle-explanation').innerText = 'Hide Explanation';
+    localStorage.setItem(`explanation_${currentQuestion}`, 'true');
+  } else {
+    exp.style.display = 'none';
+    document.getElementById('toggle-explanation').innerText = 'Show Explanation';
+    localStorage.setItem(`explanation_${currentQuestion}`, 'false');
+  }
 }
 
 function nextQuestion() {
@@ -112,29 +132,25 @@ function goToQuestion() {
   }
 }
 
-function calculateScore() {
-  let total = 0;
-  let correct = 0;
-  for (let num in userAnswers) {
-    const userAns = userAnswers[num];
-    const q = questions[num - 1];
-    if (q && userAns === q.answer) correct++;
-    total++;
+function updateScoreDisplay() {
+  const totalAnswered = questions.filter((_, i) =>
+    localStorage.getItem(`answer_${i + 1}`)
+  ).length;
+  document.getElementById('score-display').innerText = `Score: ${score} / ${totalAnswered}`;
+}
+
+function loadProgress() {
+  const savedScore = localStorage.getItem('score');
+  if (savedScore !== null) {
+    score = parseInt(savedScore);
   }
-  const scoreText = total > 0
-    ? `Score: ${correct}/${total} correct (${Math.round((correct / total) * 100)}%)`
-    : `No questions answered yet`;
-  document.getElementById('score').innerText = scoreText;
 }
 
 function resetProgress() {
-  if (confirm("Are you sure you want to reset all progress?")) {
-    localStorage.removeItem("userAnswers");
-    localStorage.removeItem("explanationStates");
-    userAnswers = {};
-    explanationStates = {};
+  if (confirm('Are you sure you want to clear all your answers and restart?')) {
+    localStorage.clear();
+    score = 0;
     currentQuestion = 1;
-    document.getElementById('score').innerText = '';
     displayQuestion(currentQuestion);
   }
 }
