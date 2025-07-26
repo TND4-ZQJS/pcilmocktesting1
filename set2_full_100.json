@@ -1,1 +1,603 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "General insurance contracts provide cover against the following risks, EXCEPT:",
+    "options": {
+      "A": "fire",
+      "B": "marine",
+      "C": "life",
+      "D": "motor"
+    },
+    "answer": "C",
+    "explanation": "General insurance covers non-life risks such as fire, marine, and motor. Life risks are covered under life insurance contracts.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1: Introduction to Insurance",
+    "page": 2
+  },
+  {
+    "questionNumber": 2,
+    "question": "The principal function of insurance is to:",
+    "options": {
+      "A": "reduce the risks of the insured",
+      "B": "spread risk among a large number of people",
+      "C": "eliminate loss",
+      "D": "guarantee the insured’s profit"
+    },
+    "answer": "B",
+    "explanation": "Insurance operates by pooling risks from many individuals to reduce the financial burden on any one person.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1: Introduction to Insurance",
+    "page": 4
+  },
+  {
+    "questionNumber": 3,
+    "question": "Which of the following statements is TRUE of the concept of risk?",
+    "options": {
+      "A": "Risk is always insurable.",
+      "B": "All risks can be avoided.",
+      "C": "Risk is the chance of loss or gain.",
+      "D": "Pure risk involves the possibility of gain or loss."
+    },
+    "answer": "C",
+    "explanation": "Risk refers to uncertainty of outcome, which includes both the chance of loss and the possibility of gain. Pure risk, however, only involves the possibility of loss.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2: Principles of Risk and Insurance",
+    "page": 8
+  },
+  {
+    "questionNumber": 4,
+    "question": "Which of the following is NOT a requirement for an insurable risk?",
+    "options": {
+      "A": "The loss must be definite and measurable.",
+      "B": "The loss must be intentional.",
+      "C": "The loss must be accidental.",
+      "D": "There must be a large number of similar exposure units."
+    },
+    "answer": "B",
+    "explanation": "Insurance does not cover intentional acts because they do not meet the principle of fortuity or randomness required for insurable risks.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2: Principles of Risk and Insurance",
+    "page": 9
+  },
+  {
+    "questionNumber": 5,
+    "question": "In life insurance, moral hazard arises when:",
+    "options": {
+      "A": "the life assured dies from a terminal illness",
+      "B": "the proposer discloses all material facts",
+      "C": "there is an incentive to commit fraud or misrepresent information",
+      "D": "a claim is submitted after policy lapses"
+    },
+    "answer": "C",
+    "explanation": "Moral hazard refers to the increased risk of loss due to dishonesty or lack of integrity on the part of the insured.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2: Principles of Risk and Insurance",
+    "page": 12
+  },
+  {
+    "questionNumber": 6,
+    "question": "Which principle ensures that the insured has a legal relationship with the subject matter of the insurance?",
+    "options": {
+      "A": "Contribution",
+      "B": "Indemnity",
+      "C": "Insurable Interest",
+      "D": "Utmost Good Faith"
+    },
+    "answer": "C",
+    "explanation": "Insurable interest requires the insured to suffer a financial loss if the insured event occurs. This makes the insurance contract legally enforceable.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3: Legal Principles of Insurance",
+    "page": 16
+  },
+  {
+    "questionNumber": 7,
+    "question": "The duty of utmost good faith in an insurance contract is mainly required from:",
+    "options": {
+      "A": "only the insurer",
+      "B": "only the insured",
+      "C": "both insurer and insured",
+      "D": "third parties"
+    },
+    "answer": "C",
+    "explanation": "Both parties to an insurance contract must disclose all material facts honestly. Failure to do so may render the contract voidable.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3: Legal Principles of Insurance",
+    "page": 17
+  },
+  {
+    "questionNumber": 8,
+    "question": "‘The active efficient cause that sets in motion a chain of events which brings about a result, without intervention of any force started and working actively from a new independent source’. This is the definition of:",
+    "options": {
+      "A": "remote cause",
+      "B": "single cause",
+      "C": "proximate cause",
+      "D": "independent cause"
+    },
+    "answer": "C",
+    "explanation": "Proximate cause refers to the primary cause of loss in an insurance claim and is crucial in determining whether a loss is covered.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3: Legal Principles of Insurance",
+    "page": 19
+  },
+  {
+    "questionNumber": 9,
+    "question": "Which of the following is an example of contribution?",
+    "options": {
+      "A": "Claiming from one insurer only when multiple policies are in force",
+      "B": "Sharing of claim payment by insurers in proportion to their liability",
+      "C": "Refusal to pay due to policy exclusion",
+      "D": "Insurer transferring rights to recover damages from third party"
+    },
+    "answer": "B",
+    "explanation": "The principle of contribution applies when the insured holds multiple policies for the same risk. Insurers share the loss in proportion to their sum insured.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3: Legal Principles of Insurance",
+    "page": 20
+  },
+  {
+    "questionNumber": 10,
+    "question": "Subrogation allows the insurer to:",
+    "options": {
+      "A": "avoid payment of claims",
+      "B": "sue the insured",
+      "C": "recover the loss from a third party after compensating the insured",
+      "D": "cancel the policy unilaterally"
+    },
+    "answer": "C",
+    "explanation": "Subrogation allows the insurer to take over the insured’s rights to recover from a third party after the insurer has paid the claim.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3: Legal Principles of Insurance",
+    "page": 21
+  },
+  {
+    "questionNumber": 11,
+    "question": "Which of the following is NOT a function of insurance?",
+    "options": {
+      "A": "Spreading of risk",
+      "B": "Eliminating risks completely",
+      "C": "Providing peace of mind",
+      "D": "Encouraging savings"
+    },
+    "answer": "B",
+    "explanation": "Insurance cannot eliminate risks but rather provides financial compensation when risks materialize.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1: Introduction to Insurance",
+    "page": 3
+  },
+  {
+    "questionNumber": 12,
+    "question": "Which of the following is NOT a type of insurance classification?",
+    "options": {
+      "A": "Life insurance",
+      "B": "Health insurance",
+      "C": "Education insurance",
+      "D": "General insurance"
+    },
+    "answer": "C",
+    "explanation": "Education insurance is typically a savings or investment-linked product. It is not a major insurance classification like life or general insurance.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 1: Introduction to Insurance",
+    "page": 5
+  },
+  {
+    "questionNumber": 13,
+    "question": "A contract is voidable if one party fails to:",
+    "options": {
+      "A": "disclose immaterial facts",
+      "B": "accept payment",
+      "C": "sign the document",
+      "D": "disclose material facts"
+    },
+    "answer": "D",
+    "explanation": "Failure to disclose material facts allows the other party to void the contract under the principle of utmost good faith.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3: Legal Principles of Insurance",
+    "page": 18
+  },
+  {
+    "questionNumber": 14,
+    "question": "Which principle prevents the insured from profiting from a loss?",
+    "options": {
+      "A": "Utmost Good Faith",
+      "B": "Subrogation",
+      "C": "Indemnity",
+      "D": "Contribution"
+    },
+    "answer": "C",
+    "explanation": "The principle of indemnity ensures that the insured is restored to their financial position before the loss, without gain.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3: Legal Principles of Insurance",
+    "page": 19
+  },
+  {
+    "questionNumber": 15,
+    "question": "Which of the following is NOT part of a standard insurance contract?",
+    "options": {
+      "A": "Proposal Form",
+      "B": "Policy Document",
+      "C": "Premium Receipt",
+      "D": "Bonus Statement"
+    },
+    "answer": "D",
+    "explanation": "A bonus statement is relevant for participating life policies but not a standard component of all insurance contracts.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4: Insurance Documentation",
+    "page": 25
+  },
+  {
+    "questionNumber": 16,
+    "question": "When does an insurance contract become legally binding?",
+    "options": {
+      "A": "When the insurer receives the proposal",
+      "B": "When the premium is paid",
+      "C": "When the insurer issues a cover note or policy",
+      "D": "When the agent signs the proposal"
+    },
+    "answer": "C",
+    "explanation": "The contract becomes binding when the insurer formally accepts the offer and issues a policy or cover note.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3: Legal Principles of Insurance",
+    "page": 17
+  },
+  {
+    "questionNumber": 17,
+    "question": "What is the purpose of a proposal form in insurance?",
+    "options": {
+      "A": "To list terms of coverage",
+      "B": "To capture underwriting information",
+      "C": "To confirm claim payout",
+      "D": "To issue cover note"
+    },
+    "answer": "B",
+    "explanation": "A proposal form collects detailed information about the proposer to help the insurer assess risk and decide on acceptance.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4: Insurance Documentation",
+    "page": 26
+  },
+  {
+    "questionNumber": 18,
+    "question": "An insurance cover note serves as:",
+    "options": {
+      "A": "Proof of claim approval",
+      "B": "Legal evidence of premium paid",
+      "C": "Temporary evidence of cover before policy issuance",
+      "D": "Receipt of full indemnity"
+    },
+    "answer": "C",
+    "explanation": "A cover note is a temporary document issued before the final policy is prepared, confirming provisional insurance coverage.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4: Insurance Documentation",
+    "page": 27
+  },
+  {
+    "questionNumber": 19,
+    "question": "Which party is responsible for interpreting the insurance contract?",
+    "options": {
+      "A": "Agent",
+      "B": "Insured",
+      "C": "Insurer",
+      "D": "Court of law"
+    },
+    "answer": "D",
+    "explanation": "If there is a dispute over the interpretation of a contract, the courts have the final authority to interpret its terms.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3: Legal Principles of Insurance",
+    "page": 22
+  },
+  {
+    "questionNumber": 20,
+    "question": "Which type of insurance provides payment of benefit only upon the happening of the insured event?",
+    "options": {
+      "A": "Participating life policy",
+      "B": "Pure risk policy",
+      "C": "Investment-linked policy",
+      "D": "Term insurance"
+    },
+    "answer": "D",
+    "explanation": "Term insurance provides coverage for a specific period and pays only if the insured event (e.g., death) occurs within that term.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5: Types of Life Insurance",
+    "page": 36
+  },
+  {
+    "questionNumber": 21,
+    "question": "Insurance companies must _________________ in respect of Customer Due Diligence under the Anti Money Laundering and Counter Financing of Terrorism compliance guidelines.",
+    "options": {
+      "A": "conduct assessments and keep proper records",
+      "B": "terminate client relationships with low risk",
+      "C": "avoid establishing business relationships",
+      "D": "report all transactions to Bank Negara Malaysia"
+    },
+    "answer": "A",
+    "explanation": "Insurers are required to conduct Customer Due Diligence (CDD) and maintain proper records to comply with anti-money laundering and counter-terrorism financing requirements.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 9: Regulatory Framework",
+    "page": 208
+  },
+  {
+    "questionNumber": 22,
+    "question": "In the context of insurance, an ‘offer’ is made by the________________ when submitting a completed and signed proposal form to the insurer.",
+    "options": {
+      "A": "agent",
+      "B": "insured",
+      "C": "underwriter",
+      "D": "insurer"
+    },
+    "answer": "B",
+    "explanation": "The insured makes an offer when submitting a completed proposal form. The insurer accepts or rejects this offer, completing the contract.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2: Principles of Insurance",
+    "page": 21
+  },
+  {
+    "questionNumber": 23,
+    "question": "A key characteristic for a contract to be considered legally binding is the",
+    "options": {
+      "A": "benefit of the agent",
+      "B": "existence of regulatory approval",
+      "C": "consent and capacity of parties",
+      "D": "presence of third-party witness"
+    },
+    "answer": "C",
+    "explanation": "A legally binding contract requires mutual consent and legal capacity of the parties involved.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3: Law of Contract",
+    "page": 32
+  },
+  {
+    "questionNumber": 24,
+    "question": "There must be ‘consensus ad idem’ or ‘meeting of the minds’ in the formation of an insurance contract",
+    "options": {
+      "A": "to ensure clear understanding and acceptance of terms",
+      "B": "to comply with taxation laws",
+      "C": "to avoid confusion in insurance marketing",
+      "D": "to enable insurer’s pricing of risks"
+    },
+    "answer": "A",
+    "explanation": "‘Consensus ad idem’ ensures both parties understand and agree to the contract terms, which is crucial for contract validity.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3: Law of Contract",
+    "page": 32
+  },
+  {
+    "questionNumber": 25,
+    "question": "Life Insurance contracts are subject to some formal rules as required by the Financial Services Act 2013. Schedule 8 (2) provides for ‘objection to life policy’",
+    "options": {
+      "A": "within 14 days of policy issue",
+      "B": "within 30 days of policy commencement",
+      "C": "within 15 days from delivery of policy",
+      "D": "within 7 days from agent’s explanation"
+    },
+    "answer": "C",
+    "explanation": "Schedule 8 of the FSA 2013 allows the policyholder to object within 15 days from delivery of the policy document.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5: Insurance Documents",
+    "page": 67
+  },
+  {
+    "questionNumber": 26,
+    "question": "A fundamental condition under a life insurance contract is __________________ before assumption of risk by the insurer.",
+    "options": {
+      "A": "acceptance of offer",
+      "B": "payment of first premium",
+      "C": "submission of ID",
+      "D": "completion of medical test"
+    },
+    "answer": "B",
+    "explanation": "The insurer’s risk commences only after the first premium is paid and the offer is accepted.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 3: Law of Contract",
+    "page": 35
+  },
+  {
+    "questionNumber": 27,
+    "question": "_______________ is a legal contract creating a fiduciary relationship whereby the principal agrees that the actions of the agent bind the principal.",
+    "options": {
+      "A": "Mandate",
+      "B": "Agency",
+      "C": "Consent",
+      "D": "Assignment"
+    },
+    "answer": "B",
+    "explanation": "An agency is a fiduciary relationship where the agent’s actions legally bind the principal in a contract.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4: Law of Agency",
+    "page": 48
+  },
+  {
+    "questionNumber": 28,
+    "question": "When an agency and principal relationship is formed retrospectively, this type of relationship is referred to as agency by",
+    "options": {
+      "A": "ratification",
+      "B": "estoppel",
+      "C": "necessity",
+      "D": "agreement"
+    },
+    "answer": "A",
+    "explanation": "Agency by ratification arises when a principal approves an agent’s past actions retrospectively.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4: Law of Agency",
+    "page": 50
+  },
+  {
+    "questionNumber": 29,
+    "question": "In Malaysia, insurance agencies are created",
+    "options": {
+      "A": "with verbal agreement",
+      "B": "by regulatory license only",
+      "C": "by contract of agency",
+      "D": "without written documentation"
+    },
+    "answer": "C",
+    "explanation": "An insurance agency is created through a formal agency contract between the insurer and the agent.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4: Law of Agency",
+    "page": 49
+  },
+  {
+    "questionNumber": 30,
+    "question": "The following does NOT reflect an act of good faith on the part of an agent when dealing with the principal",
+    "options": {
+      "A": "Providing misleading information",
+      "B": "Acting with due care",
+      "C": "Following the insurer’s instruction",
+      "D": "Maintaining confidentiality"
+    },
+    "answer": "A",
+    "explanation": "Misleading information breaches the duty of good faith owed by the agent to the insurer.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 4: Law of Agency",
+    "page": 53
+  },
+  {
+    "questionNumber": 31,
+    "question": "The principle of _____________ requires both parties to the insurance contract to act honestly and not withhold information",
+    "options": {
+      "A": "utmost good faith",
+      "B": "proximate cause",
+      "C": "insurable interest",
+      "D": "contribution"
+    },
+    "answer": "A",
+    "explanation": "Utmost good faith (uberrima fides) means both insurer and insured must disclose all material facts truthfully.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2: Principles of Insurance",
+    "page": 24
+  },
+  {
+    "questionNumber": 32,
+    "question": "Under the Financial Services Act 2013, a contract of insurance is based on the duty of disclosure applicable to the proposer and",
+    "options": {
+      "A": "the insured",
+      "B": "the nominee",
+      "C": "the insurer",
+      "D": "the adjuster"
+    },
+    "answer": "C",
+    "explanation": "Both the proposer and the insurer are obligated to uphold the duty of disclosure under FSA 2013.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2: Principles of Insurance",
+    "page": 24
+  },
+  {
+    "questionNumber": 33,
+    "question": "A proposer’s duty to disclose extends to all material facts which are known to him or which he could reasonably be expected",
+    "options": {
+      "A": "to conceal from the insurer",
+      "B": "to keep confidential",
+      "C": "to disclose",
+      "D": "to ignore"
+    },
+    "answer": "C",
+    "explanation": "The duty of disclosure requires proposers to disclose all material facts known or reasonably expected to be known.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2: Principles of Insurance",
+    "page": 25
+  },
+  {
+    "questionNumber": 34,
+    "question": "Under the law, when a proposer does not exercise the duty of disclosure, he is said to have made a",
+    "options": {
+      "A": "mistake",
+      "B": "misrepresentation",
+      "C": "recommendation",
+      "D": "reformation"
+    },
+    "answer": "B",
+    "explanation": "Failure to disclose material facts constitutes misrepresentation and can void the insurance contract.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 2: Principles of Insurance",
+    "page": 26
+  },
+  {
+    "questionNumber": 35,
+    "question": "A proposal form is used by the insurer to obtain information on the proposer and the risk. The declaration at the end of the proposal form must be signed",
+    "options": {
+      "A": "by the nominee",
+      "B": "by the agent",
+      "C": "by the proposer",
+      "D": "by the underwriter"
+    },
+    "answer": "C",
+    "explanation": "The proposer must sign the declaration, confirming the accuracy of the disclosed information.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5: Insurance Documents",
+    "page": 64
+  },
+  [
+  {
+    "questionNumber": 36,
+    "question": "Bank Negara Malaysia has issued Guidelines on Medical and Health Insurance Business, and Guidelines on Product Transparency and Disclosure to\nI. increase competition among private health care providers\nII. reduce mis-selling and misrepresentation to consumers\nIII. enhance access to healthcare through private insurance\nIV. contain costs to promote long-term sustainability of the private health insurance sector",
+    "options": {
+      "A": "I and III",
+      "B": "III and IV",
+      "C": "I, II and III",
+      "D": "II, III and IV"
+    },
+    "answer": "D",
+    "explanation": "The guidelines aim to reduce mis-selling and misrepresentation to consumers, enhance access to healthcare, and contain costs in the private insurance sector. Increasing competition among healthcare providers is not the direct intent of the guidelines.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5: Medical and Health Insurance",
+    "page": 101
+  },
+  {
+    "questionNumber": 37,
+    "question": "Identify the risk category under medical and health insurance that will be imposed special terms, higher premiums or limitations in coverage or both",
+    "options": {
+      "A": "Decline risk",
+      "B": "Special risk",
+      "C": "Standard risk",
+      "D": "Sub-standard risk"
+    },
+    "answer": "D",
+    "explanation": "Sub-standard risks are those that do not qualify for standard coverage terms. Insurers impose special terms or limitations due to elevated risk factors such as pre-existing conditions.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5: Medical and Health Insurance",
+    "page": 102
+  },
+  {
+    "questionNumber": 38,
+    "question": "________________ is NOT a method of policy limitation applied to hospital and surgical insurance policies in order to contain rising claims cost.",
+    "options": {
+      "A": "‘AS Charged’ basis",
+      "B": "‘Annual or lifetime’ limits",
+      "C": "‘Cost Sharing’ basis",
+      "D": "Deductibles"
+    },
+    "answer": "A",
+    "explanation": "An 'AS Charged' basis means reimbursement is based on actual expenses incurred, which does not contain rising costs. Deductibles, annual/lifetime limits, and cost sharing are methods to limit liability.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5: Medical and Health Insurance",
+    "page": 104
+  },
+  {
+    "questionNumber": 39,
+    "question": "Which of the following will NOT terminate a policy?",
+    "options": {
+      "A": "Death of the insured",
+      "B": "On the policy anniversary date following the insured’s maximum eligibility age",
+      "C": "Exhaustion of the annual limit or lifetime limit stipulated",
+      "D": "Sudden disappearance of insured for 5 years"
+    },
+    "answer": "C",
+    "explanation": "Exhaustion of benefits does not terminate a policy; it just limits claims for that period. Policies typically remain active unless other terminating conditions are met.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5: Medical and Health Insurance",
+    "page": 106
+  },
+  {
+    "questionNumber": 40,
+    "question": "Occupational hazard increases the chance of work-related injuries and diseases which turn in affect the premium rates, particularly for",
+    "options": {
+      "A": "hospital and surgical insurance",
+      "B": "disability income insurance",
+      "C": "hospital income insurance",
+      "D": "critical illness insurance"
+    },
+    "answer": "B",
+    "explanation": "Disability income insurance is particularly sensitive to occupational hazards as it provides income replacement when an individual cannot work due to illness or injury sustained at work.",
+    "textbook": "PCEIA",
+    "chapter": "Chapter 5: Medical and Health Insurance",
+    "page": 108
+  }
 
