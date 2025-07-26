@@ -1,11 +1,13 @@
 let currentQuestion = 1;
 let questions = [];
-let userAnswers = {}; // Tracks user's answer and explanation toggle
+let userAnswers = JSON.parse(localStorage.getItem("userAnswers")) || {};
+let explanationStates = JSON.parse(localStorage.getItem("explanationStates")) || {};
 
 fetch('set2_full_100.json')
   .then(response => response.json())
   .then(data => {
     questions = data;
+    calculateScore();
     displayQuestion(currentQuestion);
   });
 
@@ -19,78 +21,71 @@ function displayQuestion(num) {
   const optionsContainer = document.getElementById('options-container');
   optionsContainer.innerHTML = '';
 
-  // Create option buttons
   for (let key in q.options) {
     const btn = document.createElement('button');
     btn.innerText = `${key}. ${q.options[key]}`;
     btn.className = 'option';
-    btn.onclick = () => {
-      checkAnswer(btn, key, q.answer, q.explanation, q.textbook, q.chapter, q.page);
-      userAnswers[num] = {
-        selected: key,
-        showExplanation: true
-      };
-    };
+    btn.onclick = () => checkAnswer(btn, key, q.answer, q.explanation, q.textbook, q.chapter, q.page, num);
     optionsContainer.appendChild(btn);
   }
 
-  // Reset feedback and explanation sections
   document.getElementById('feedback').innerText = '';
-  document.getElementById('explanation').innerHTML = '';
   document.getElementById('explanation').style.display = 'none';
   document.getElementById('toggle-explanation').style.display = 'none';
   document.getElementById('toggle-explanation').innerText = 'Show Explanation';
+  document.getElementById('explanation').innerHTML = '';
 
-  // If already answered, restore answer and toggle state
-  if (userAnswers[num]) {
-    const selected = userAnswers[num].selected;
-    const showExp = userAnswers[num].showExplanation;
+  const savedAnswer = userAnswers[num];
+  if (savedAnswer) {
+    checkAnswer(null, savedAnswer, q.answer, q.explanation, q.textbook, q.chapter, q.page, num, true);
+  }
 
-    const selectedBtn = [...optionsContainer.children].find(b => b.innerText.startsWith(selected));
-    checkAnswer(selectedBtn, selected, q.answer, q.explanation, q.textbook, q.chapter, q.page, true);
-
-    if (showExp) {
-      document.getElementById('explanation').style.display = 'block';
-      document.getElementById('toggle-explanation').innerText = 'Hide Explanation';
-    }
+  if (explanationStates[num]) {
+    document.getElementById('explanation').style.display = 'block';
+    document.getElementById('toggle-explanation').style.display = 'inline-block';
+    document.getElementById('toggle-explanation').innerText = 'Hide Explanation';
+    document.getElementById('explanation').innerHTML = `
+      <strong>Explanation:</strong><br>${q.explanation}<br><br>
+      <em>Reference: ${q.textbook}, ${q.chapter}, page ${q.page}</em>
+    `;
   }
 }
 
-function checkAnswer(button, selected, correct, explanation, textbook, chapter, page, isRestore = false) {
+function checkAnswer(button, selected, correct, explanation, textbook, chapter, page, qNum, isRestore = false) {
   const buttons = document.querySelectorAll('#options-container button');
   buttons.forEach(btn => {
     btn.classList.add('disabled');
     btn.disabled = true;
-    if (btn.innerText.startsWith(correct)) {
-      btn.classList.add('correct');
-    }
-    if (btn.innerText.startsWith(selected) && selected !== correct) {
-      btn.classList.add('incorrect');
-    }
+    if (btn.innerText.startsWith(correct)) btn.classList.add('correct');
+    if (btn.innerText.startsWith(selected) && selected !== correct) btn.classList.add('incorrect');
   });
 
-  if (!isRestore) {
-    button.classList.add('selected');
-  }
-
+  if (button) button.classList.add('selected');
   document.getElementById('feedback').innerText = `Correct answer: ${correct}`;
   document.getElementById('toggle-explanation').style.display = 'inline-block';
+
   document.getElementById('explanation').innerHTML = `
     <strong>Explanation:</strong><br>${explanation}<br><br>
     <em>Reference: ${textbook}, ${chapter}, page ${page}</em>
   `;
+
+  if (!isRestore) {
+    userAnswers[qNum] = selected;
+    localStorage.setItem("userAnswers", JSON.stringify(userAnswers));
+    calculateScore();
+  }
 }
 
 function toggleExplanation() {
   const exp = document.getElementById('explanation');
-  const isVisible = exp.style.display !== 'none';
-  exp.style.display = isVisible ? 'none' : 'block';
-  document.getElementById('toggle-explanation').innerText = isVisible ? 'Show Explanation' : 'Hide Explanation';
+  const button = document.getElementById('toggle-explanation');
 
-  // Update user's toggle preference
-  if (userAnswers[currentQuestion]) {
-    userAnswers[currentQuestion].showExplanation = !isVisible;
-  }
+  const isVisible = exp.style.display === 'block';
+  exp.style.display = isVisible ? 'none' : 'block';
+  button.innerText = isVisible ? 'Show Explanation' : 'Hide Explanation';
+
+  explanationStates[currentQuestion] = !isVisible;
+  localStorage.setItem("explanationStates", JSON.stringify(explanationStates));
 }
 
 function nextQuestion() {
@@ -114,5 +109,32 @@ function goToQuestion() {
     displayQuestion(currentQuestion);
   } else {
     alert(`Please enter a valid question number (1–${questions.length})`);
+  }
+}
+
+function calculateScore() {
+  let total = 0;
+  let correct = 0;
+  for (let num in userAnswers) {
+    const userAns = userAnswers[num];
+    const q = questions[num - 1];
+    if (q && userAns === q.answer) correct++;
+    total++;
+  }
+  const scoreText = total > 0
+    ? `Score: ${correct}/${total} correct (${Math.round((correct / total) * 100)}%)`
+    : `No questions answered yet`;
+  document.getElementById('score').innerText = scoreText;
+}
+
+function resetProgress() {
+  if (confirm("Are you sure you want to reset all progress?")) {
+    localStorage.removeItem("userAnswers");
+    localStorage.removeItem("explanationStates");
+    userAnswers = {};
+    explanationStates = {};
+    currentQuestion = 1;
+    document.getElementById('score').innerText = '';
+    displayQuestion(currentQuestion);
   }
 }
