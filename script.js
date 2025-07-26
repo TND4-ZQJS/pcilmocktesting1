@@ -78,7 +78,7 @@ function checkAnswer(button, selected, correct, explanation, textbook, chapter, 
   document.getElementById('explanation').style.display = 'none';
   document.getElementById('explanation').innerHTML = `
     <strong>Explanation:</strong><br>${explanation}<br><br>
-    <em>Reference: ${textbook}, ${chapter}, page ${page}</em>
+    <em>Reference: ${textbook}</em>
   `;
 
   const previous = localStorage.getItem(`answer_${currentQuestion}`);
