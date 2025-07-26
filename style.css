@@ -91,17 +91,17 @@ input[type="number"] {
 }
 
 .option.correct {
-  background-color: #c8f7c5;
+  background-color: #c7f5cb;
   border: 2px solid #28a745;
+  color: #1e4620;
   font-weight: bold;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .option.incorrect {
-  background-color: #f5c6cb;
+  background-color: #f9c2c4;
   border: 2px solid #dc3545;
+  color: #842029;
   font-weight: bold;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .option.disabled {
