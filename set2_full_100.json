@@ -598,5 +598,306 @@
     "textbook": "PCEIA",
     "chapter": "Chapter 5: Medical and Health Insurance",
     "page": 108
+  },
+  {
+    "questionNumber": 41,
+    "question": "A ______________ if known by the insurer, would lead to the refusal to issue a life policy on the life proposed.",
+    "options": {
+      "A": "simple fact",
+      "B": "material fact",
+      "C": "common fact",
+      "D": "special fact"
+    },
+    "answer": "B",
+    "explanation": "A material fact is any fact that would influence the judgment of a prudent insurer in deciding whether to accept a risk and on what terms.",
+    "textbook": "PCEIA",
+    "chapter": "Principles of Insurance",
+    "page": 27
+  },
+  {
+    "questionNumber": 42,
+    "question": "An employer has insurable interest in the life of a key employee (shareholder or partner) whose ______________ could adversely affect the sustainability of the business.",
+    "options": {
+      "A": "premature resignation",
+      "B": "early retirement",
+      "C": "premature death",
+      "D": "immediate termination"
+    },
+    "answer": "C",
+    "explanation": "Insurable interest exists where the employer stands to suffer financial loss from the premature death of a key employee.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 51
+  },
+  {
+    "questionNumber": 43,
+    "question": "Select from the following what a life insurer would do if, after the policy has been in force for three years, it is found the life insured’s age is different from what was stated in the life policy.",
+    "options": {
+      "A": "The life insurer will terminate the policy",
+      "B": "The life insurer will vary sum assured, premium and bonuses to reflect the actual age",
+      "C": "The life insurer will charge the life assured in court",
+      "D": "The life insurer will take no action"
+    },
+    "answer": "B",
+    "explanation": "If age is misstated, the insurer may adjust the sum assured or premium to reflect the correct age.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 50
+  },
+  {
+    "questionNumber": 44,
+    "question": "Identify when insurable interest needs to be present.",
+    "options": {
+      "A": "Before the death of the life assured",
+      "B": "At the inception of the policy",
+      "C": "During the death of the life assured",
+      "D": "At the maturity of the policy"
+    },
+    "answer": "B",
+    "explanation": "In life insurance, insurable interest is required only at the time of policy inception.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 50
+  },
+  {
+    "questionNumber": 45,
+    "question": "Policyholder Mr A decides to surrender his standard life policy after 4 years. He has no outstanding premium and the policy is in force. The surrender value he is entitled to is",
+    "options": {
+      "A": "a sum allocated towards savings and the earnings less a surrender charge",
+      "B": "a sum allocated towards savings and earnings and with no other charges deducted",
+      "C": "the total sum assured with no deductions",
+      "D": "a sum allocated towards savings less a surrender charge"
+    },
+    "answer": "A",
+    "explanation": "Surrender value is the savings element and accrued earnings after deducting surrender charges.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 54
+  },
+  {
+    "questionNumber": 46,
+    "question": "Policy monies payable under a life policy or monies payable on the surrender of a life policy shall be paid",
+    "options": {
+      "A": "without the consent of persons entitled",
+      "B": "only upon death or maturity of the policy",
+      "C": "less deduction for the medical expenses",
+      "D": "without any deduction for monies not due under the policy"
+    },
+    "answer": "D",
+    "explanation": "According to FSA 2013, life policy proceeds must be paid without deduction for any unrelated charges.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 56
+  },
+  {
+    "questionNumber": 47,
+    "question": "With regard to a life insurance proposal, _________________ is a material fact which, if known by the insurer, would have been declined, imposed higher premium loadings or limited policy coverage.",
+    "options": {
+      "A": "engagement in professional sports",
+      "B": "diagnosis of a terminal illness",
+      "C": "suspension of driving license",
+      "D": "active engagement in politics"
+    },
+    "answer": "B",
+    "explanation": "A terminal illness greatly increases the risk to the insurer and must be disclosed.",
+    "textbook": "PCEIA",
+    "chapter": "Principles of Insurance",
+    "page": 27
+  },
+  {
+    "questionNumber": 48,
+    "question": "If a policy owner wants to surrender a life policy, the life insurance company will determine the surrender value entitlement",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "I, III and IV",
+      "D": "II, III and IV"
+    },
+    "answer": "A",
+    "explanation": "Surrender values must follow actuarial principles, fair treatment, and ethical business conduct.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 54
+  },
+  {
+    "questionNumber": 49,
+    "question": "The main purpose of life insurance is to provide________________ for dependents.",
+    "options": {
+      "A": "medical expenses",
+      "B": "emotional protection",
+      "C": "credit facility",
+      "D": "financial protection"
+    },
+    "answer": "D",
+    "explanation": "Life insurance ensures that dependents receive financial support upon the death of the breadwinner.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 48
+  },
+  {
+    "questionNumber": 50,
+    "question": "______________ insurance is the earliest and simplest form of life insurance for a fixed term or period and is not permanent.",
+    "options": {
+      "A": "Endowment",
+      "B": "Whole life",
+      "C": "Term",
+      "D": "Investment-linked"
+    },
+    "answer": "C",
+    "explanation": "Term insurance provides pure protection for a limited time with no savings element.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 49
+  },
+  {
+    "questionNumber": 51,
+    "question": "Non-participating life policyholders have no right to share in the ________________ of the insurer’s life insurance fund.",
+    "options": {
+      "A": "distributable profits",
+      "B": "investment returns",
+      "C": "operating expenses",
+      "D": "divisible surplus"
+    },
+    "answer": "D",
+    "explanation": "Only participating policyholders share in the divisible surplus declared by insurers.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 52
+  },
+  {
+    "questionNumber": 52,
+    "question": "_______________ is/are the investments that a life office has made from the premiums it has received after meeting its outgoes in the form of claims and expenses.",
+    "options": {
+      "A": "Surplus",
+      "B": "The market value",
+      "C": "Liability",
+      "D": "Assets"
+    },
+    "answer": "D",
+    "explanation": "Assets represent what the insurer owns, typically invested premiums after meeting liabilities.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 47
+  },
+  {
+    "questionNumber": 53,
+    "question": "Group term life insurance is a benefit frequently offered by employers either on a contributory or non-contributory basis. ‘Non-contributory basis ’ means premiums are",
+    "options": {
+      "A": "subsidized by the employer",
+      "B": "paid entirely by the employer",
+      "C": "paid by the government",
+      "D": "paid entirely by the employee"
+    },
+    "answer": "B",
+    "explanation": "Under a non-contributory plan, the employer fully pays the premiums.",
+    "textbook": "CEILLI",
+    "chapter": "Group Insurance",
+    "page": 136
+  },
+  {
+    "questionNumber": 54,
+    "question": "Which of the following statements best describes the investment-linked life insurance policy?",
+    "options": {
+      "A": "Protection and investment",
+      "B": "Protection for the whole of life",
+      "C": "Retirement fund and pension",
+      "D": "Saving and protection"
+    },
+    "answer": "A",
+    "explanation": "Investment-linked policies combine insurance protection and unit-linked investments.",
+    "textbook": "CEILLI",
+    "chapter": "Introduction to Investment-linked Insurance",
+    "page": 15
+  },
+  {
+    "questionNumber": 55,
+    "question": "In planning for his retirement, Tom purchased a deferred annuity which guaranteed him a stream of income after retirement. Unfortunately, Tom died midway through the 10-year contribution period. The premiums paid by Tom will be",
+    "options": {
+      "A": "returned with or without interest",
+      "B": "deferred to the next of kin or estate",
+      "C": "converted to an automatic premium loan",
+      "D": "considered as earned by the insurer"
+    },
+    "answer": "A",
+    "explanation": "Deferred annuities return the accumulated value or premium paid if the annuitant dies during the accumulation period, depending on contract terms.",
+    "textbook": "CEILLI",
+    "chapter": "Annuities",
+    "page": 108
+  },
+  {
+    "questionNumber": 56,
+    "question": "The eligibility criteria to automatically add new employees to a group life policy from the date of recruitment is:",
+    "options": {
+      "A": "All employees selected by an internal recruitment process",
+      "B": "Healthy employees under a contract of service regardless of age",
+      "C": "Permanent employees between the ages of 16 and 60",
+      "D": "Permanent and temporary workers with valid work permits"
+    },
+    "answer": "C",
+    "explanation": "Eligibility is usually limited to permanent employees within a specific age range, typically 16–60 years.",
+    "textbook": "CEILLI",
+    "chapter": "Group Insurance",
+    "page": 137
+  },
+  {
+    "questionNumber": 57,
+    "question": "The term “level premium system” as applied to life insurance contracts means premiums are",
+    "options": {
+      "A": "increased to commensurate with the increase in the amount of benefits",
+      "B": "lower initially and then level off at the end of the contract",
+      "C": "guaranteed to remain the same throughout the contract",
+      "D": "levelled to reflect the increase in the risk as policy matures"
+    },
+    "answer": "C",
+    "explanation": "Level premium system means premiums remain unchanged throughout the policy term.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 49
+  },
+  {
+    "questionNumber": 58,
+    "question": "Group life insurance premium is calculated differently compared to individual life insurance premium. It is",
+    "options": {
+      "A": "multiple rated",
+      "B": "lenient rated",
+      "C": "group rated",
+      "D": "experience rated"
+    },
+    "answer": "C",
+    "explanation": "Group life insurance uses group rating based on average risk and demographics.",
+    "textbook": "CEILLI",
+    "chapter": "Group Insurance",
+    "page": 138
+  },
+  {
+    "questionNumber": 59,
+    "question": "Identify why although life insurance companies use the same factors to determine premium rates, premiums differ.",
+    "options": {
+      "A": "Because of different asset valuation methods and provisions for liabilities",
+      "B": "Because of different capital reserve structures and investment methods",
+      "C": "Because of different cost structures, assessment of risk and investment returns",
+      "D": "Because of different distribution channels, branding and target markets"
+    },
+    "answer": "C",
+    "explanation": "Premiums differ due to insurers’ different cost structures, risk assessment practices, and expected returns.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 47
+  },
+  {
+    "questionNumber": 60,
+    "question": "Which of the following is NOT among the sources of information for the life insurer in making a proper assessment of risk?",
+    "options": {
+      "A": "Agents’s report",
+      "B": "Medical examiners report",
+      "C": "Police report",
+      "D": "Proposal form"
+    },
+    "answer": "C",
+    "explanation": "Police reports are not a standard source of underwriting information in life insurance.",
+    "textbook": "PCEIA",
+    "chapter": "Life Insurance",
+    "page": 50
   }
+]
   ]
