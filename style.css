@@ -34,9 +34,11 @@ body {
   font-size: 16px;
 }
 
-.option.correct {
-  background-color: #d4f6d2;
-  border-left: 5px solid #28a745;
+.option.incorrect {
+  background-color: #f9c2c4;
+  border: 2px solid #dc3545;
+  color: #842029;
+  font-weight: bold;
 }
 
 .option.incorrect {
