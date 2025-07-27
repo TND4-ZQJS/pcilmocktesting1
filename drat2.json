@@ -1,0 +1,212 @@
+  {
+    "questionNumber": 87,
+    "question": "“If the company defaults, the investor has no security and thus is in the same position as all the other unsecured creditors of the company. Investors may or may not get back their capital, depending on the company’s performance.” This statement is true of______________ stocks.",
+    "options": {
+      "A": "loan",
+      "B": "ordinary",
+      "C": "debenture",
+      "D": "convertible"
+    },
+    "answer": "A",
+    "explanation": "The provided statement accurately describes characteristics of **ordinary stocks (equities)**, where investors are owners and have no security, standing as unsecured creditors if the company defaults.For ordinary stocks, capital recovery depends entirely on company performance.Loan stocks (debentures) represent debt, where investors are creditors and typically have a higher claim on assets than equity holders. Given the provided answer is 'A. loan', there appears to be a discrepancy with the direct description in the textbook.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": 136
+  },
+  {
+    "questionNumber": 88,
+    "question": "In the discount market, the difference between the discounted price and the par value is represented as the______________.",
+    "options": {
+      "A": "profit",
+      "B": "interest",
+      "C": "coupon",
+      "D": "yield"
+    },
+    "answer": "D",
+    "explanation": "In the discount market, particularly for instruments like Treasury bills, the difference between the discounted price and the par value represents the yield.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": 137
+  },
+  {
+    "questionNumber": 89,
+    "question": "A capital guaranteed fund works in the following way:",
+    "options": {
+      "A": "The fund guarantees the invested capital while on the other hand, the return is decided by the investor at a specific rate",
+      "B": "The fund guarantees a profit while on the other hand, the return is capped at a specific rate although the actual investment experience may be lower",
+      "C": "The fund guarantees the invested capital while on the other hand, the return is decided at a specific rate although the actual investment experience may be lower",
+      "D": "The fund guarantees the invested capital while on the other hand, the return is capped at a specific rate although the actual investment experience may be higher"
+    },
+    "answer": "D",
+    "explanation": "A capital guaranteed fund ensures the invested capital, but the return is typically capped at a specific rate, even if the actual investment performance is higher.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": 139
+  },
+  {
+    "questionNumber": 90,
+    "question": "Commodities, whether related to food, energy or metals, represent an avenue for investors to venture out of stocks or bonds with the objective of gaining from price movements and the popular way to do so is by",
+    "options": {
+      "A": "investing directly into commodities-based stocks",
+      "B": "purchasing stocks listed on Bursa Malaysia",
+      "C": "purchasing a futures contract",
+      "D": "purchasing a company involved in commodities"
+    },
+    "answer": "C",
+    "explanation": "A popular method for investors to gain from commodity price movements is by purchasing a futures contract.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": 139
+  },
+  {
+    "questionNumber": 91,
+    "question": "Which of the following statement is NOT true regarding treasury bills?",
+    "options": {
+      "A": "Institutional investors are the main buyers of treasury bills",
+      "B": "Treasury bills are long-term government funding vehicles",
+      "C": "The difference between the discounted price and the par value represents the yield",
+      "D": "Treasury bills are issued by Bank Negara Malaysia"
+    },
+    "answer": "B",
+    "explanation": "Treasury bills are described as short-term government funding vehicles, making the statement that they are long-term 'NOT true'.Other statements such as institutional investors being main buyers, the yield being the difference between discounted price and par value, and issuance by Bank Negara Malaysia are true characteristics of Treasury bills.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": 137
+  },
+  {
+    "questionNumber": 92,
+    "question": "The main activity of a property fund is",
+    "options": {
+      "A": "buying and selling of property in the secondary market",
+      "B": "buying and selling of property development companies",
+      "C": "investing of all the fund into real estate",
+      "D": "acquiring stocks in development companies"
+    },
+    "answer": "C",
+    "explanation": "The primary activity of a property fund is investing the entire fund into real estate.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": 138
+  },
+  {
+    "questionNumber": 93,
+    "question": "The following statement about equities is correct:",
+    "options": {
+      "A": "Equity prices can be very steady when the stock market faces a downturn over an extended period",
+      "B": "Equity prices can rise against the mainstream when the stock market faces a downturn over an extended period",
+      "C": "Return potentials for equities can be significantly lower, especially during periods of market buoyancy",
+      "D": "Return potentials for equities can be significantly higher, especially during periods of market buoyancy"
+    },
+    "answer": "D",
+    "explanation": "Return potentials for equities can be significantly higher, particularly during periods of strong market performance or buoyancy.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": 136
+  },
+  {
+    "questionNumber": 94,
+    "question": "The BNM Guidelines on Investment-Linked Business state that the initial offer period (of a new fund) must not",
+    "options": {
+      "A": "be less than two months",
+      "B": "exceed one month",
+      "C": "be less than one month",
+      "D": "exceed two months"
+    },
+    "answer": "D",
+    "explanation": "According to the BNM Guidelines on Investment-Linked Business, the initial offer period for a new fund must not exceed two months.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 10: Regulatory Requirements",
+    "page": 143
+  },
+  {
+    "questionNumber": 95,
+    "question": "The following is stated in the BNM Guidelines on Investment-Linked Business regarding the requirement for minimum death benefits and top-up premiums:",
+    "options": {
+      "A": "The requirement for minimum death benefits does not apply to top-up premiums; thus, the whole of the top-up premiums can be used to purchase units",
+      "B": "The requirement for minimum death benefits does not apply to top-up premiums but some of top-up premiums must be used to purchase the leverage premium",
+      "C": "The requirement for minimum death benefits applies to top-up premiums; thus, the whole of the top-up premiums cannot be used to purchase units",
+      "D": "There is a special requirement for minimum death benefits for top-up premiums which is half of the basic requirement; thus, some of the top-up premiums must be used to pay the cost of insurance"
+    },
+    "answer": "A",
+    "explanation": "BNM Guidelines on Investment-Linked Business state that the requirement for minimum death benefits does not apply to top-up premiums, allowing the entire top-up premium to be used for purchasing units.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 10: Regulatory Requirements",
+    "page": 144
+  },
+  {
+    "questionNumber": 96,
+    "question": "When meeting with a prospective policy owner, the first and most important act of the life insurance agent is to",
+    "options": {
+      "A": "share with the prospective policy owner the benefits available if he/she decides to purchase the investment-linked products and the cost involved",
+      "B": "share with the prospective policy owner the disadvantages of competitors’ products",
+      "C": "make it known which insurance company he represents and produce his Registered Intermediary Authorisation Card to identify himself",
+      "D": "make known to the prospect his position in the company, the product he is selling to the prospective policy owner and the cost involved"
+    },
+    "answer": "C",
+    "explanation": "The first and most important act of the agent is to make known the insurance company he represents and produce his Registered Intermediary Authorisation Card to identify himself. Additionally, the agent should inform the prospective policy owner about his position in the company, the product being sold, and its cost",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+    "page": 147
+  },
+  {
+    "questionNumber": 97,
+    "question": "The following is a consequence of replacing a policy of the same type:",
+    "options": {
+      "A": "The insured will enjoy a lower premium",
+      "B": "The new policy will provide better benefits to the policy owner",
+      "C": "Any replacement of the same type of policy will be at a higher premium rate as the insured’s age will have increased",
+      "D": "The new policy will be an improved one and be cheaper, benefitting the policy owner"
+    },
+    "answer": "C",
+    "explanation": "A consequence of replacing a policy of the same type is that the new policy will generally come with a higher premium rate due to the insured's increased age.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+    "page": 149
+  },
+  {
+    "questionNumber": 98,
+    "question": "Select from the following how the objective of satisfying a customer’s requirements can be achieved. I. Conducting a financial needs analysis II. Understanding the sales illustrations provided by the company III. Understanding the product information as provided by the company IV. Showing customers the agent’s income statement to impress them",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "II, III and IV",
+      "D": "I, II,III and IV"
+    },
+    "answer": "A",
+    "explanation": "Satisfying customer requirements involves conducting a financial needs analysis, understanding sales illustrations, and understanding product information provided by the company.Showing an agent's income statement is not a method mentioned for achieving this objective.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+    "page": 147
+  },
+  {
+    "questionNumber": 99,
+    "question": "When an intermediary is supplied with an illustration by the insurer, the intermediary should",
+    "options": {
+      "A": "keep the illustration in the proposal form and only provide a verbal explanation of the illustration to the proposer",
+      "B": "highlight only the part of the illustration that will attract the proposer",
+      "C": "use the whole illustration and show it to the proposer and not add to it or hide any part of it",
+      "D": "be creative and produce an enhanced version of the illustration to attract the proposer"
+    },
+    "answer": "C",
+    "explanation": "Intermediaries are required to use the entire illustration provided by the insurer, present it completely to the proposer, and refrain from adding to or hiding any part of it.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+    "page": 148
+  },
+  {
+    "questionNumber": 100,
+    "question": "Identify what happens if a policy owner lapses a policy and purchases a new one",
+    "options": {
+      "A": "The proposer may opt to transfer the old premium to the new policy",
+      "B": "The suicide clause and incontestable clause begin anew in a new policy",
+      "C": "The suicidal and incontestability clause will not be disrupted as the proposer is the same person",
+      "D": "The new policy may be rejected because the old policy is still active"
+    },
+    "answer": "B",
+    "explanation": "If a policy owner lapses an existing policy and purchases a new one, the suicide clause and incontestable clause in the new policy will begin anew.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+    "page": 149
+  }
+]
+
