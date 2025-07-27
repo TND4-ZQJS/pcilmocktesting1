@@ -266,3 +266,143 @@
     "chapter": "Chapter 8: Investment-Linked Insurance",
     "page": 121
   },
+    {
+    "questionNumber": 78,
+    "question": "The following statement is correct regarding the deduction of the cost of insurance (COI) for single premium investment-linked policies:",
+    "options": {
+      "A": "Deduction of COI is to cover the shortfall between the account value and the sum assured",
+      "B": "The COI will still be deducted even though the account value exceeds the basic sum assured",
+      "C": "Deduction of COI will be made annually in any circumstances",
+      "D": "The COI is used to cover the basic sum assured and future premium in advance"
+    },
+    "answer": "A",
+    "explanation": "The Cost of Insurance (COI) is deducted from the account value to pay for the insurance coverage.[span_25](end_span) [span_26](start_span)The COI charges are calculated based on the net amount at risk, which is the difference between the sum assured and the account value.[span_26](end_span) While COI is for 'insurance coverage', its calculation basis being the 'shortfall' (net amount at risk) can lead to the interpretation that its purpose is related to covering that risk.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": 123
+  },
+  {
+    "questionNumber": 79,
+    "question": "Identify which of the following is NOT benefit of purchasing an investment-linked policy.",
+    "options": {
+      "A": "Less diversification",
+      "B": "Flexibility",
+      "C": "Managed by professional fund managers",
+      "D": "Transparency"
+    },
+    "answer": "A",
+    "explanation": "Key benefits of investment-linked insurance include flexibility, transparency, and the fact that funds are managed by professional fund managers.[span_27](end_span) Investment-linked policies generally offer diversification opportunities through various fund options, so 'less diversification' is not a benefit but rather a potential drawback, or simply not a characteristic benefit.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": 120-121
+  },
+    {
+    "questionNumber": 80,
+    "question": "Select the statement that is true of an investment-linked policy.",
+    "options": {
+      "A": "Premiums paid will only be used for specific investment funds of the policy owner’s choice from the range of funds available",
+      "B": "The cash value is 100% guaranteed by the insurer and any losses incurred during the policy tenure will be borne by the insurer",
+      "C": "Premiums paid provide life insurance cover and are also invested in specific investment funds of the policy owner’s choice",
+      "D": "The maturity benefit is equal to 60 times of the total premium paid during the tenure of the policy"
+    },
+    "answer": "C",
+    "explanation": "Investment-linked insurance policies combine both protection and investment. The premiums paid are used to provide life insurance coverage and are also invested in investment-linked funds chosen by the policy owner.The cash value of an investment-linked policy is not 100% guaranteed, and the investment risk is borne by the policy owner.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": 119, 120
+  },
+    {
+    "questionNumber": 81,
+    "question": "Identify the flexibility offered by an investment-linked policy which is NOT available with a whole life policy.",
+    "options": {
+      "A": "Availability for those aged 16",
+      "B": "Guaranteed cash value",
+      "C": "Policy loan",
+      "D": "Premium holiday"
+    },
+    "answer": "D",
+    "explanation": "Investment-linked policies offer flexibility features such as premium holidays.Whole life policies typically have fixed premiums and do not offer premium holidays.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": 120
+  },
+    {
+    "questionNumber": 82,
+    "question": "The administration fee, insurance charge, fund management fee, etc. of an investment-linked life insurance policy are usually ______________.",
+    "options": {
+      "A": "not guaranteed",
+      "B": "fixed",
+      "C": "decided by Bank Negara Malaysia",
+      "D": "guaranteed"
+    },
+    "answer": "A",
+    "explanation": "The charges associated with investment-linked policies, such as administration fees, insurance charges, and fund management fees, are usually not guaranteed and may be varied by the insurer.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": 123
+  },
+    {
+    "questionNumber": 83,
+    "question": "Investors also have secondary objectives that are closer to their hearts, that are more focused on specific needs, one example is",
+    "options": {
+      "A": "ensuring a comfortable standard of living",
+      "B": "guaranteeing a successful business operation",
+      "C": "ensuring a comfortable annual holiday for the family",
+      "D": "saving up for funds for their children’s future business"
+    },
+    "answer": "A",
+    "explanation": "Secondary objectives for investors are focused on specific needs, including ensuring a comfortable standard of living after retirement, saving for children’s education, or accumulating funds for old age.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": 127
+  },
+  {
+    "questionNumber": 84,
+    "question": "To ascertain the correct mix of objectives that client has and to realise the completion of these objectives, the agent has to make sure that clients are given a sound understanding of how ___________________ .",
+    "options": {
+      "A": "investments work",
+      "B": "to achieve high return",
+      "C": "to do technical analysis",
+      "D": "the expert decides"
+    },
+    "answer": "A",
+    "explanation": "Agents must ensure clients have a sound understanding of how investments work to help ascertain their objectives and facilitate their completion.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": 128
+  },
+  {
+    "questionNumber": 85,
+    "question": "Clients must be told that there is a________________ trade-off and they must be able to accept this before venturing into a high-risk portfolio.",
+    "options": {
+      "A": "offer-acceptance",
+      "B": "buy-sell",
+      "C": "low-high",
+      "D": "risk-return"
+    },
+    "answer": "D",
+    "explanation": "Clients need to understand and accept the risk-return trade-off before investing in a high-risk portfolio.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": 129
+  },
+  {
+    "questionNumber": 86,
+    "question": "Based on Kamal’s cash flow statement as given below, identify his surplus.",
+    "options": {
+      "A": "RM700",
+      "B": "RM800",
+      "C": "RM900",
+      "D": "RM1,000"
+    },
+    "answer": "D",
+    "explanation": "Surplus is calculated as Total Income minus Total Expenditure. Kamal's total income is RM5,000 (Salary) + RM500 (Rental) + RM1,000 (Commissions) + RM1,000 (Others) = RM7,500. His total expenditure is RM1,000 (Rental/Housing Loan) + RM750 (Groceries and Utilities) + RM500 (Childcare/Parent’s allowance) + RM250 (Education Expenses) + RM2,000 (Loan) + RM500 (Insurance Premiums) + RM500 (Savings) + RM1,000 (Misc) = RM6,500. Therefore, the surplus is RM7,500 - RM6,500 = RM1,000.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": 133, "Table 9.4"
+  },
+
+
+
+
+
