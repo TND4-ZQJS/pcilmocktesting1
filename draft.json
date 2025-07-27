@@ -1,5 +1,4 @@
-[
-  {
+{
     "questionNumber": 61,
     "question": "In the assumption of risk by a life insurer, the life insurer",
     "options": {
@@ -12,7 +11,7 @@
     "explanation": "Acceptance takes place when the insurer issues the acceptance letter and receives the first premium, or in some cases, the full yearly premium after the issuance of the acceptance letter.[span_0](end_span)",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 5: Underwriting Life Insurance",
-    "page": 97
+    "page": "97"
   },
   {
     "questionNumber": 62,
@@ -27,7 +26,7 @@
     "explanation": "Methods of charging for substandard lives include charging an extra premium, rating up the age, lien, and charging the same premium but decreasing the death benefit. Declining coverage is also a method. [span_1](start_span)Charging a single premium is a premium payment method, not a method of accepting sub-standard lives for additional risk.[span_1](end_span)",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 5: Underwriting Life Insurance",
-    "page": 99-100
+    "page": "99-100"
   },
   {
     "questionNumber": 63,
@@ -42,7 +41,7 @@
     "explanation": "The claimant must notify the insurance company (or agent) of the insured’s death to begin the claim and pay-out process.[span_2](end_span)",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 6: Claims Management",
-    "page": 105
+    "page": "105"
   },
   {
     "questionNumber": 64,
@@ -57,7 +56,7 @@
     "explanation": "For a maturity claim, proof of age of the life insured is required.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 6: Claims Management",
-    "page": 105
+    "page": "105"
   },
   {
     "questionNumber": 65,
@@ -87,7 +86,7 @@
     "explanation": "When obtaining underwriting information, the agent must ensure that the proposal form is properly completed and that all questions asked are relevant to the risk being underwritten.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 7: The Role of the Agent",
-    "page": 113
+    "page": "113"
   },
   {
     "questionNumber": 67,
@@ -102,7 +101,7 @@
     "explanation": "Agents must ensure that the insurance plans proposed are suitable to the needs and within the financial ability of the prospective policy owner.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 7: The Role of the Agent",
-    "page": 113
+    "page": "113"
   },
   {
     "questionNumber": 68,
@@ -117,7 +116,7 @@
     "explanation": "Agents shall render all reasonable assistance to claimants in filing claims forms and complying with the requirements relating to claim settlement.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 7: The Role of the Agent",
-    "page": 114
+    "page": "114"
   },
   {
     "questionNumber": 69,
@@ -132,7 +131,7 @@
     "explanation": "When a group life insurance is arranged for persons in relation to whom the group policy owner has no insurable interest, the agent must disclose to each of the insured persons the name of the licensed insurer, the premium charged, and his relationship with the insurer. [span_10](start_span)Information about a competitor's policy terms is not a mandatory disclosure in this context.[span_10](end_span)",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 7: The Role of the Agent",
-    "page": 114
+    "page": "114"
   },
   {
     "questionNumber": 70,
@@ -147,7 +146,7 @@
     "explanation": "In drawing attention to the consequences of failure to disclose all material facts, the agent should ensure that all answers given in the proposal form are accurate and no information is hidden.[span_11](end_span)",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 7: The Role of the Agent",
-    "page": 113
+    "page": "113"
   },
   {
     "questionNumber": 71,
@@ -162,7 +161,7 @@
     "explanation": "In the USA, investment-linked life insurance is also known as Variable Life Insurance.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
-    "page": 119
+    "page": "119"
   },
   {
     "questionNumber": 72,
@@ -177,7 +176,7 @@
     "explanation": "The regular premium investment-linked insurance is more inclined towards protection than investment.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
-    "page": 121
+    "page": "121"
   },
   {
     "questionNumber": 73,
@@ -192,7 +191,7 @@
     "explanation": "Bank Negara Malaysia (BNM) does not stipulate the minimum annual premium, however, insurers must follow BNM guidelines on minimum death benefit to determine the minimum annual premium allowed.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
-    "page": 121
+    "page": "121"
   },
   {
     "questionNumber": 74,
@@ -207,7 +206,7 @@
     "explanation": "If the account value is insufficient to cover the cost of insurance and other necessary charges, and the policy is no longer within its no-lapse guarantee period (if applicable), the policy will lapse.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
-    "page": 124
+    "page": "124"
   },
   {
     "questionNumber": 75,
@@ -222,7 +221,7 @@
     "explanation": "A no-lapse guarantee is a condition that ensures the policy will not lapse for a specified period (e.g., 5, 7, or 10 years) as long as the regular premiums have been paid without fail.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
-    "page": 124
+    "page": "124"
   },
   {
     "questionNumber": 76,
@@ -237,7 +236,7 @@
     "explanation": "For regular premium investment-linked policies for lives aged 55 and above, the minimum death benefit is 15 times the basic regular premium. [span_17](start_span)For Donald (aged 56) with a basic regular premium of RM6,000, the minimum coverage would be RM6,000 x 15 = RM90,000.[span_17](end_span)",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
-    "page": 121
+    "page": "121"
   },
   {
     "questionNumber": 77,
@@ -264,7 +263,7 @@
     "explanation": "According to the textbook, for single premium investment-linked life insurance, the death benefit is generally the higher of the basic sum assured or the account value.[span_24](end_span) This would imply that if the account value exceeds the basic sum assured, the death benefit would be the account value. However, your provided answer is 'A. basic sum assured plus account value'. This option suggests an additive calculation that is not explicitly described as the general rule in the provided study material when the account value exceeds the basic sum assured. Some specific product designs might feature such a benefit structure, but it's not the generic rule stated in the textbook for this specific scenario.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
-    "page": 121
+    "page": "121"
   },
     {
     "questionNumber": 78,
@@ -279,7 +278,7 @@
     "explanation": "The Cost of Insurance (COI) is deducted from the account value to pay for the insurance coverage.[span_25](end_span) [span_26](start_span)The COI charges are calculated based on the net amount at risk, which is the difference between the sum assured and the account value.[span_26](end_span) While COI is for 'insurance coverage', its calculation basis being the 'shortfall' (net amount at risk) can lead to the interpretation that its purpose is related to covering that risk.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
-    "page": 123
+    "page": "123"
   },
   {
     "questionNumber": 79,
@@ -294,7 +293,7 @@
     "explanation": "Key benefits of investment-linked insurance include flexibility, transparency, and the fact that funds are managed by professional fund managers.[span_27](end_span) Investment-linked policies generally offer diversification opportunities through various fund options, so 'less diversification' is not a benefit but rather a potential drawback, or simply not a characteristic benefit.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
-    "page": 120-121
+    "page": "120-121"
   },
     {
     "questionNumber": 80,
@@ -309,7 +308,7 @@
     "explanation": "Investment-linked insurance policies combine both protection and investment. The premiums paid are used to provide life insurance coverage and are also invested in investment-linked funds chosen by the policy owner.The cash value of an investment-linked policy is not 100% guaranteed, and the investment risk is borne by the policy owner.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
-    "page": 119, 120
+    "page": "119, 120"
   },
     {
     "questionNumber": 81,
@@ -324,7 +323,7 @@
     "explanation": "Investment-linked policies offer flexibility features such as premium holidays.Whole life policies typically have fixed premiums and do not offer premium holidays.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
-    "page": 120
+    "page": "120"
   },
     {
     "questionNumber": 82,
@@ -339,7 +338,7 @@
     "explanation": "The charges associated with investment-linked policies, such as administration fees, insurance charges, and fund management fees, are usually not guaranteed and may be varied by the insurer.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
-    "page": 123
+    "page": "123"
   },
     {
     "questionNumber": 83,
@@ -354,7 +353,7 @@
     "explanation": "Secondary objectives for investors are focused on specific needs, including ensuring a comfortable standard of living after retirement, saving for children’s education, or accumulating funds for old age.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 9: The Investment Process",
-    "page": 127
+    "page": "127"
   },
   {
     "questionNumber": 84,
@@ -369,7 +368,7 @@
     "explanation": "Agents must ensure clients have a sound understanding of how investments work to help ascertain their objectives and facilitate their completion.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 9: The Investment Process",
-    "page": 128
+    "page": "128"
   },
   {
     "questionNumber": 85,
@@ -399,7 +398,7 @@
     "explanation": "Surplus is calculated as Total Income minus Total Expenditure. Kamal's total income is RM5,000 (Salary) + RM500 (Rental) + RM1,000 (Commissions) + RM1,000 (Others) = RM7,500. His total expenditure is RM1,000 (Rental/Housing Loan) + RM750 (Groceries and Utilities) + RM500 (Childcare/Parent’s allowance) + RM250 (Education Expenses) + RM2,000 (Loan) + RM500 (Insurance Premiums) + RM500 (Savings) + RM1,000 (Misc) = RM6,500. Therefore, the surplus is RM7,500 - RM6,500 = RM1,000.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 9: The Investment Process",
-    "page": 133, "Table 9.4"
+    "page": "133, Table 9.4"
   },
 
 
