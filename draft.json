@@ -54,7 +54,7 @@
       "D": "the name of the beneficiaries"
     },
     "answer": "A",
-    [span_3](start_span)"explanation": "For a maturity claim, proof of age of the life insured is required.[span_3](end_span)",
+    "explanation": "For a maturity claim, proof of age of the life insured is required.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 6: Claims Management",
     "page": 105
@@ -84,7 +84,7 @@
       "D": "relevance of questions"
     },
     "answer": "D",
-    [span_7](start_span)"explanation": "When obtaining underwriting information, the agent must ensure that the proposal form is properly completed and that all questions asked are relevant to the risk being underwritten.[span_7](end_span)",
+    "explanation": "When obtaining underwriting information, the agent must ensure that the proposal form is properly completed and that all questions asked are relevant to the risk being underwritten.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 7: The Role of the Agent",
     "page": 113
@@ -99,7 +99,7 @@
       "D": "resources"
     },
     "answer": "A",
-    [span_8](start_span)"explanation": "Agents must ensure that the insurance plans proposed are suitable to the needs and within the financial ability of the prospective policy owner.[span_8](end_span)",
+    "explanation": "Agents must ensure that the insurance plans proposed are suitable to the needs and within the financial ability of the prospective policy owner.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 7: The Role of the Agent",
     "page": 113
@@ -114,7 +114,7 @@
       "D": "agents shall render all reasonable financial resources to assist clients in all circumstances including paying the life insurance premium"
     },
     "answer": "C",
-    [span_9](start_span)"explanation": "Agents shall render all reasonable assistance to claimants in filing claims forms and complying with the requirements relating to claim settlement.[span_9](end_span)",
+    "explanation": "Agents shall render all reasonable assistance to claimants in filing claims forms and complying with the requirements relating to claim settlement.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 7: The Role of the Agent",
     "page": 114
@@ -159,7 +159,7 @@
       "D": "variable"
     },
     "answer": "D",
-    [span_12](start_span)"explanation": "In the USA, investment-linked life insurance is also known as Variable Life Insurance.[span_12](end_span)",
+    "explanation": "In the USA, investment-linked life insurance is also known as Variable Life Insurance.",
     "textbook": "CEILLI New Edition Textbook (English)",
     "chapter": "Chapter 8: Investment-Linked Insurance",
     "page": 119
