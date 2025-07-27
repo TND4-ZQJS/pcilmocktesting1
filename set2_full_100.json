@@ -899,4 +899,406 @@
     "chapter": "Life Insurance",
     "page": 50
   }
+  {
+    "questionNumber": 61,
+    "question": "In the assumption of risk by a life insurer, the life insurer",
+    "options": {
+      "A": "must have underwritten the risk",
+      "B": "must have received acknowledgment from the client that they have received the policy document",
+      "C": "may allow a backdating of the commencement date of insurance in some cases to take advantage of a reduced premium",
+      "D": "must have received the total yearly premium after the issuance of the acceptance letter"
+    },
+    "answer": "D",
+    "explanation": "Acceptance takes place when the insurer issues the acceptance letter and receives the first premium, or in some cases, the full yearly premium after the issuance of the acceptance letter.[span_0](end_span)",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 5: Underwriting Life Insurance",
+    "page": "97"
+  },
+  {
+    "questionNumber": 62,
+    "question": "The following is NOT one of the methods of accepting sub-standard lives:",
+    "options": {
+      "A": "Charging the same premium but decreasing the death benefit",
+      "B": "Declining coverage limitation",
+      "C": "Charging a single premium",
+      "D": "Charging an extra premium"
+    },
+    "answer": "C",
+    "explanation": "Methods of charging for substandard lives include charging an extra premium, rating up the age, lien, and charging the same premium but decreasing the death benefit. Declining coverage is also a method. [span_1](start_span)Charging a single premium is a premium payment method, not a method of accepting sub-standard lives for additional risk.[span_1](end_span)",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 5: Underwriting Life Insurance",
+    "page": "99-100"
+  },
+  {
+    "questionNumber": 63,
+    "question": "Following the death of the insured, a claimant must ____ to begin the claim and pay-out process.",
+    "options": {
+      "A": "notify the insurance company or agent",
+      "B": "submit the death certificate",
+      "C": "complete a claim form",
+      "D": "make a police report"
+    },
+    "answer": "A",
+    "explanation": "The claimant must notify the insurance company (or agent) of the insured’s death to begin the claim and pay-out process.[span_2](end_span)",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 6: Claims Management",
+    "page": "105"
+  },
+  {
+    "questionNumber": 64,
+    "question": "Before paying a maturity claim under an endowment insurance, the life office requires",
+    "options": {
+      "A": "proof of age of the life insured",
+      "B": "proof of the death of the life assured",
+      "C": "the name of the trustees",
+      "D": "the name of the beneficiaries"
+    },
+    "answer": "A",
+    "explanation": "For a maturity claim, proof of age of the life insured is required.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 6: Claims Management",
+    "page": "105"
+  },
+  {
+    "questionNumber": 65,
+    "question": "Which of the following statements about the payment of policies monies under a life policy is true?",
+    "options": {
+      "A": "Where the policy owner dies without having made a nomination, the insurer will pay the policy monies to the lawful executor or administrator of the estate",
+      "B": "If there is no lawful executor or administrator and no nomination, the insurer will pay the policy monies to the trustee",
+      "C": "A nomination by a Muslim policy owner creates a trust in favour of the nominee",
+      "D": "Monies payable upon the death of a policy owner form part of the estate of the insured and subject to his or her debts"
+    },
+    "answer": "A",
+    "explanation": "Where there is no nomination, the insurer shall pay the policy monies to the lawful executor or administrator of the estate of the deceased policy owner.[span_4](end_span) [span_5](start_span)Policy monies payable upon the death of a policy owner do not form part of the estate of the insured and are not subject to his or her debts if there is a nomination under the FSA 2013.[span_5](end_span) [span_6](start_span)A nomination by a Muslim policy owner acts as an 'executor' or 'wasi' and does not create a trust.[span_6](end_span)",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 6: Claims Management",
+    "page": "106-107"
+  },
+  {
+    "questionNumber": 66,
+    "question": "In obtaining underwriting information, an insurance agent should ensure the completion of the proposal form and the________________.",
+    "options": {
+      "A": "credibility of the medical report",
+      "B": "accuracy of relevant records",
+      "C": "integrity of personal data",
+      "D": "relevance of questions"
+    },
+    "answer": "D",
+    "explanation": "When obtaining underwriting information, the agent must ensure that the proposal form is properly completed and that all questions asked are relevant to the risk being underwritten.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 7: The Role of the Agent",
+    "page": "113"
+  },
+  {
+    "questionNumber": 67,
+    "question": "A life insurance agent must ensure that the policy proposed is suitable to the needs and is within the_______________ of the prospective policy owner.",
+    "options": {
+      "A": "ability",
+      "B": "authority",
+      "C": "desires",
+      "D": "resources"
+    },
+    "answer": "A",
+    "explanation": "Agents must ensure that the insurance plans proposed are suitable to the needs and within the financial ability of the prospective policy owner.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 7: The Role of the Agent",
+    "page": "113"
+  },
+  {
+    "questionNumber": 68,
+    "question": "In relation to existing policyholders,",
+    "options": {
+      "A": "agents shall render all reasonable assistance help the client secure the next life insurance policy applied for",
+      "B": "agents shall render all reasonable assistance to clients and their family members including financial assistance needed by the clients’ children",
+      "C": "agents shall render all reasonable assistance to claimants in filing claims forms and complying with the requirement related to claim settlement",
+      "D": "agents shall render all reasonable financial resources to assist clients in all circumstances including paying the life insurance premium"
+    },
+    "answer": "C",
+    "explanation": "Agents shall render all reasonable assistance to claimants in filing claims forms and complying with the requirements relating to claim settlement.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 7: The Role of the Agent",
+    "page": "114"
+  },
+  {
+    "questionNumber": 69,
+    "question": "If a group life insurance is arranged for persons in relation to whom the group policy owner has no insurable interest, it is NOT necessary for the agent to disclose to each of the insured persons",
+    "options": {
+      "A": "the premium charged by the licensed insurer",
+      "B": "the policy terms offered by a competitor",
+      "C": "the name of the licensed insurer",
+      "D": "his relationship with the insurer"
+    },
+    "answer": "B",
+    "explanation": "When a group life insurance is arranged for persons in relation to whom the group policy owner has no insurable interest, the agent must disclose to each of the insured persons the name of the licensed insurer, the premium charged, and his relationship with the insurer. [span_10](start_span)Information about a competitor's policy terms is not a mandatory disclosure in this context.[span_10](end_span)",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 7: The Role of the Agent",
+    "page": "114"
+  },
+  {
+    "questionNumber": 70,
+    "question": "In drawing attention to the consequences of failure to disclose all material facts, the agent should _______________.",
+    "options": {
+      "A": "warrant that all answers given in the proposal form are accurate and no information is hidden",
+      "B": "make it clear that all answers or statements are the proposer’s own responsibility",
+      "C": "assist the proposer in answering the questions in the proposal form to the best of his ability",
+      "D": "make a statutory declaration that the statements made in the proposal form ae true and to the best of his knowledge"
+    },
+    "answer": "A",
+    "explanation": "In drawing attention to the consequences of failure to disclose all material facts, the agent should ensure that all answers given in the proposal form are accurate and no information is hidden.[span_11](end_span)",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 7: The Role of the Agent",
+    "page": "113"
+  },
+  {
+    "questionNumber": 71,
+    "question": "Investment-linked insurance is also available in USA and it is named______________ life insurance.",
+    "options": {
+      "A": "multinational",
+      "B": "universal",
+      "C": "international",
+      "D": "variable"
+    },
+    "answer": "D",
+    "explanation": "In the USA, investment-linked life insurance is also known as Variable Life Insurance.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": "119"
+  },
+  {
+    "questionNumber": 72,
+    "question": "Choose the statement that is correct regarding a regular premium investment-linked policy.",
+    "options": {
+      "A": "Regular premium investment-linked insurance is more inclined towards protection than investment",
+      "B": "Regular premium investment-linked insurance is more inclined towards investment than protection",
+      "C": "100% of the premium received for regular premium investment-linked insurance is used to purchase fund units in the first year",
+      "D": "80% of the premium received by the insurer for regular premium investment-linked insurance is used to purchase fund units in the first year"
+    },
+    "answer": "A",
+    "explanation": "The regular premium investment-linked insurance is more inclined towards protection than investment.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": "121"
+  },
+  {
+    "questionNumber": 73,
+    "question": "The statement below is correct about regular premium investment-linked insurance:",
+    "options": {
+      "A": "The minimum annual premium allowed by insurers is RM5,000",
+      "B": "Bank Negara Malaysia guidelines regarding minimum annual premium allowed must be followed",
+      "C": "Bank Negara Malaysia guidelines do not stipulate the minimum annual premium",
+      "D": "The maximum annual premium allowed by insurers is RM10,000"
+    },
+    "answer": "B",
+    "explanation": "Bank Negara Malaysia (BNM) does not stipulate the minimum annual premium, however, insurers must follow BNM guidelines on minimum death benefit to determine the minimum annual premium allowed.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": "121"
+  },
+  {
+    "questionNumber": 74,
+    "question": "On the tenth year of the investment-linked policy, the account value is insufficient to cover the cost of insurance. Select the statement that explains what will happen to the policy in this case",
+    "options": {
+      "A": "The policy will be terminated",
+      "B": "The policy will be frozen",
+      "C": "The policy will lapse",
+      "D": "The no-lapse guarantee period will trigger"
+    },
+    "answer": "C",
+    "explanation": "If the account value is insufficient to cover the cost of insurance and other necessary charges, and the policy is no longer within its no-lapse guarantee period (if applicable), the policy will lapse.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": "124"
+  },
+  {
+    "questionNumber": 75,
+    "question": "One of the particularly important conditions to be satisfied before an investment-linked policy can be considered as not lapsed even if the account value is insufficient to cover the COI and other necessary charge is",
+    "options": {
+      "A": "the regular premium has been paid without fail",
+      "B": "investment requests like fund switching have been made",
+      "C": "the premium holiday has been effected only once",
+      "D": "partial withdrawal from the account value has been made"
+    },
+    "answer": "A",
+    "explanation": "A no-lapse guarantee is a condition that ensures the policy will not lapse for a specified period (e.g., 5, 7, or 10 years) as long as the regular premiums have been paid without fail.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": "124"
+  },
+  {
+    "questionNumber": 76,
+    "question": "Donald, aged 56, wants to purchase an investment-linked policy from Triple Ace Insurance Berhad. If his basic regular premium is RM6,000, he will be covered for a minimum of",
+    "options": {
+      "A": "RM360,000",
+      "B": "RM600,000",
+      "C": "RM60,000",
+      "D": "RM90,000"
+    },
+    "answer": "D",
+    "explanation": "For regular premium investment-linked policies for lives aged 55 and above, the minimum death benefit is 15 times the basic regular premium. [span_17](start_span)For Donald (aged 56) with a basic regular premium of RM6,000, the minimum coverage would be RM6,000 x 15 = RM90,000.[span_17](end_span)",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": "121"
+  },
+  {
+    "questionNumber": 77,
+    "question": "For single premium investment-linked life insurance, once the account value exceeds the basic sum assured, the death benefit will be the",
+    "options": {
+      "A": "basic sum assured plus account value",
+      "B": "account value",
+      "C": "basic sum assured",
+      "D": "account value minus basic sum assured"
+    },
+    "answer": "B",
+    "explanation": "For single premium investment-linked life insurance, the death benefit is the basic sum assured plus the account value, or the account value if it exceeds the basic sum assured."
+
+  {
+    "questionNumber": 77,
+    "question": "For single premium investment-linked life insurance, once the account value exceeds the basic sum assured, the death benefit will be the",
+    "options": {
+      "A": "basic sum assured plus account value",
+      "B": "account value",
+      "C": "basic sum assured",
+      "D": "account value minus basic sum assured"
+    },
+    "answer": "A",
+    "explanation": "According to the textbook, for single premium investment-linked life insurance, the death benefit is generally the higher of the basic sum assured or the account value.[span_24](end_span) This would imply that if the account value exceeds the basic sum assured, the death benefit would be the account value. However, your provided answer is 'A. basic sum assured plus account value'. This option suggests an additive calculation that is not explicitly described as the general rule in the provided study material when the account value exceeds the basic sum assured. Some specific product designs might feature such a benefit structure, but it's not the generic rule stated in the textbook for this specific scenario.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": "121"
+  },
+    {
+    "questionNumber": 78,
+    "question": "The following statement is correct regarding the deduction of the cost of insurance (COI) for single premium investment-linked policies:",
+    "options": {
+      "A": "Deduction of COI is to cover the shortfall between the account value and the sum assured",
+      "B": "The COI will still be deducted even though the account value exceeds the basic sum assured",
+      "C": "Deduction of COI will be made annually in any circumstances",
+      "D": "The COI is used to cover the basic sum assured and future premium in advance"
+    },
+    "answer": "A",
+    "explanation": "The Cost of Insurance (COI) is deducted from the account value to pay for the insurance coverage.[span_25](end_span) [span_26](start_span)The COI charges are calculated based on the net amount at risk, which is the difference between the sum assured and the account value.[span_26](end_span) While COI is for 'insurance coverage', its calculation basis being the 'shortfall' (net amount at risk) can lead to the interpretation that its purpose is related to covering that risk.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": "123"
+  },
+  {
+    "questionNumber": 79,
+    "question": "Identify which of the following is NOT benefit of purchasing an investment-linked policy.",
+    "options": {
+      "A": "Less diversification",
+      "B": "Flexibility",
+      "C": "Managed by professional fund managers",
+      "D": "Transparency"
+    },
+    "answer": "A",
+    "explanation": "Key benefits of investment-linked insurance include flexibility, transparency, and the fact that funds are managed by professional fund managers.[span_27](end_span) Investment-linked policies generally offer diversification opportunities through various fund options, so 'less diversification' is not a benefit but rather a potential drawback, or simply not a characteristic benefit.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": "120-121"
+  },
+    {
+    "questionNumber": 80,
+    "question": "Select the statement that is true of an investment-linked policy.",
+    "options": {
+      "A": "Premiums paid will only be used for specific investment funds of the policy owner’s choice from the range of funds available",
+      "B": "The cash value is 100% guaranteed by the insurer and any losses incurred during the policy tenure will be borne by the insurer",
+      "C": "Premiums paid provide life insurance cover and are also invested in specific investment funds of the policy owner’s choice",
+      "D": "The maturity benefit is equal to 60 times of the total premium paid during the tenure of the policy"
+    },
+    "answer": "C",
+    "explanation": "Investment-linked insurance policies combine both protection and investment. The premiums paid are used to provide life insurance coverage and are also invested in investment-linked funds chosen by the policy owner.The cash value of an investment-linked policy is not 100% guaranteed, and the investment risk is borne by the policy owner.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": "119, 120"
+  },
+    {
+    "questionNumber": 81,
+    "question": "Identify the flexibility offered by an investment-linked policy which is NOT available with a whole life policy.",
+    "options": {
+      "A": "Availability for those aged 16",
+      "B": "Guaranteed cash value",
+      "C": "Policy loan",
+      "D": "Premium holiday"
+    },
+    "answer": "D",
+    "explanation": "Investment-linked policies offer flexibility features such as premium holidays.Whole life policies typically have fixed premiums and do not offer premium holidays.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": "120"
+  },
+    {
+    "questionNumber": 82,
+    "question": "The administration fee, insurance charge, fund management fee, etc. of an investment-linked life insurance policy are usually ______________.",
+    "options": {
+      "A": "not guaranteed",
+      "B": "fixed",
+      "C": "decided by Bank Negara Malaysia",
+      "D": "guaranteed"
+    },
+    "answer": "A",
+    "explanation": "The charges associated with investment-linked policies, such as administration fees, insurance charges, and fund management fees, are usually not guaranteed and may be varied by the insurer.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 8: Investment-Linked Insurance",
+    "page": "123"
+  },
+    {
+    "questionNumber": 83,
+    "question": "Investors also have secondary objectives that are closer to their hearts, that are more focused on specific needs, one example is",
+    "options": {
+      "A": "ensuring a comfortable standard of living",
+      "B": "guaranteeing a successful business operation",
+      "C": "ensuring a comfortable annual holiday for the family",
+      "D": "saving up for funds for their children’s future business"
+    },
+    "answer": "A",
+    "explanation": "Secondary objectives for investors are focused on specific needs, including ensuring a comfortable standard of living after retirement, saving for children’s education, or accumulating funds for old age.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": "127"
+  },
+  {
+    "questionNumber": 84,
+    "question": "To ascertain the correct mix of objectives that client has and to realise the completion of these objectives, the agent has to make sure that clients are given a sound understanding of how ___________________ .",
+    "options": {
+      "A": "investments work",
+      "B": "to achieve high return",
+      "C": "to do technical analysis",
+      "D": "the expert decides"
+    },
+    "answer": "A",
+    "explanation": "Agents must ensure clients have a sound understanding of how investments work to help ascertain their objectives and facilitate their completion.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": "128"
+  },
+  {
+    "questionNumber": 85,
+    "question": "Clients must be told that there is a________________ trade-off and they must be able to accept this before venturing into a high-risk portfolio.",
+    "options": {
+      "A": "offer-acceptance",
+      "B": "buy-sell",
+      "C": "low-high",
+      "D": "risk-return"
+    },
+    "answer": "D",
+    "explanation": "Clients need to understand and accept the risk-return trade-off before investing in a high-risk portfolio.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": 129
+  },
+  {
+    "questionNumber": 86,
+    "question": "Based on Kamal’s cash flow statement as given below, identify his surplus.",
+    "options": {
+      "A": "RM700",
+      "B": "RM800",
+      "C": "RM900",
+      "D": "RM1,000"
+    },
+    "answer": "D",
+    "explanation": "Surplus is calculated as Total Income minus Total Expenditure. Kamal's total income is RM5,000 (Salary) + RM500 (Rental) + RM1,000 (Commissions) + RM1,000 (Others) = RM7,500. His total expenditure is RM1,000 (Rental/Housing Loan) + RM750 (Groceries and Utilities) + RM500 (Childcare/Parent’s allowance) + RM250 (Education Expenses) + RM2,000 (Loan) + RM500 (Insurance Premiums) + RM500 (Savings) + RM1,000 (Misc) = RM6,500. Therefore, the surplus is RM7,500 - RM6,500 = RM1,000.",
+    "textbook": "CEILLI New Edition Textbook (English)",
+    "chapter": "Chapter 9: The Investment Process",
+    "page": "133, Table 9.4"
+  },
 ]
