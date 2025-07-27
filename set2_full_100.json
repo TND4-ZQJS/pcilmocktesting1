@@ -909,7 +909,7 @@
             "D": "must have received the total yearly premium after the issuance of the acceptance letter"
         },
         "answer": "D",
-        "explanation": "Acceptance takes place when the insurer issues the acceptance letter and receives the first premium, or in some cases, the full yearly premium after the issuance of the acceptance letter.[span_0](end_span)",
+        "explanation": "Acceptance takes place when the insurer issues the acceptance letter and receives the first premium, or in some cases, the full yearly premium after the issuance of the acceptance letter.",
         "textbook": "CEILLI New Edition Textbook (English)",
         "chapter": "Chapter 5: Underwriting Life Insurance",
         "page": "97"
@@ -924,7 +924,7 @@
             "D": "Charging an extra premium"
         },
         "answer": "C",
-        "explanation": "Methods of charging for substandard lives include charging an extra premium, rating up the age, lien, and charging the same premium but decreasing the death benefit. Declining coverage is also a method. [span_1](start_span)Charging a single premium is a premium payment method, not a method of accepting sub-standard lives for additional risk.[span_1](end_span)",
+        "explanation": "Methods of charging for substandard lives include charging an extra premium, rating up the age, lien, and charging the same premium but decreasing the death benefit. Declining coverage is also a method. Charging a single premium is a premium payment method, not a method of accepting sub-standard lives for additional risk.",
         "textbook": "CEILLI New Edition Textbook (English)",
         "chapter": "Chapter 5: Underwriting Life Insurance",
         "page": "99-100"
@@ -939,7 +939,7 @@
             "D": "make a police report"
         },
         "answer": "A",
-        "explanation": "The claimant must notify the insurance company (or agent) of the insured’s death to begin the claim and pay-out process.[span_2](end_span)",
+        "explanation": "The claimant must notify the insurance company (or agent) of the insured’s death to begin the claim and pay-out process.",
         "textbook": "CEILLI New Edition Textbook (English)",
         "chapter": "Chapter 6: Claims Management",
         "page": "105"
@@ -969,7 +969,7 @@
             "D": "Monies payable upon the death of a policy owner form part of the estate of the insured and subject to his or her debts"
         },
         "answer": "A",
-        "explanation": "Where there is no nomination, the insurer shall pay the policy monies to the lawful executor or administrator of the estate of the deceased policy owner.[span_4](end_span) [span_5](start_span)Policy monies payable upon the death of a policy owner do not form part of the estate of the insured and are not subject to his or her debts if there is a nomination under the FSA 2013.[span_5](end_span) [span_6](start_span)A nomination by a Muslim policy owner acts as an 'executor' or 'wasi' and does not create a trust.[span_6](end_span)",
+        "explanation": "Where there is no nomination, the insurer shall pay the policy monies to the lawful executor or administrator of the estate of the deceased policy owner.Policy monies payable upon the death of a policy owner do not form part of the estate of the insured and are not subject to his or her debts if there is a nomination under the FSA 2013.A nomination by a Muslim policy owner acts as an 'executor' or 'wasi' and does not create a trust.",
         "textbook": "CEILLI New Edition Textbook (English)",
         "chapter": "Chapter 6: Claims Management",
         "page": "106-107"
@@ -1029,7 +1029,7 @@
             "D": "his relationship with the insurer"
         },
         "answer": "B",
-        "explanation": "When a group life insurance is arranged for persons in relation to whom the group policy owner has no insurable interest, the agent must disclose to each of the insured persons the name of the licensed insurer, the premium charged, and his relationship with the insurer. [span_10](start_span)Information about a competitor's policy terms is not a mandatory disclosure in this context.[span_10](end_span)",
+        "explanation": "When a group life insurance is arranged for persons in relation to whom the group policy owner has no insurable interest, the agent must disclose to each of the insured persons the name of the licensed insurer, the premium charged, and his relationship with the insurer. Information about a competitor's policy terms is not a mandatory disclosure in this context.",
         "textbook": "CEILLI New Edition Textbook (English)",
         "chapter": "Chapter 7: The Role of the Agent",
         "page": "114"
@@ -1044,7 +1044,7 @@
             "D": "make a statutory declaration that the statements made in the proposal form ae true and to the best of his knowledge"
         },
         "answer": "A",
-        "explanation": "In drawing attention to the consequences of failure to disclose all material facts, the agent should ensure that all answers given in the proposal form are accurate and no information is hidden.[span_11](end_span)",
+        "explanation": "In drawing attention to the consequences of failure to disclose all material facts, the agent should ensure that all answers given in the proposal form are accurate and no information is hidden."
         "textbook": "CEILLI New Edition Textbook (English)",
         "chapter": "Chapter 7: The Role of the Agent",
         "page": "113"
