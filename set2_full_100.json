@@ -1,153 +1,154 @@
 [
+  [
   {
-    "question_number": 1,
-    "question_text": "General insurance contracts provide cover against the following risks, EXCEPT:",
+    "questionNumber": 1,
+    "question": "General insurance contracts provide cover against the following risks, EXCEPT:",
     "options": {
       "A": "damage to property",
       "B": "motor car accident",
       "C": "natural death",
       "D": "legal liability"
     },
-    "provided_answer": "C",
-    "explanation": "General insurance contracts typically cover risks such as damage to property, motor vehicle accidents, and legal liability. Natural death, however, is a risk covered under life insurance, not general insurance.",
+    "answer": "C",
+    "explanation": "Natural death is covered under life insurance, not general insurance. General insurance deals with property damage, motor accidents, and legal liability.",
     "textbook": "PCEIA",
-    "chapter": "Introduction to Insurance",
-    "page": "Inferred from general insurance vs life insurance scope"
+    "chapter": "Chapter 1: Introduction to Insurance",
+    "page": 3
   },
   {
-    "question_number": 2,
-    "question_text": "_____ buy insurance products.",
+    "questionNumber": 2,
+    "question": "______________ buy insurance products.",
     "options": {
       "A": "Insurance and reinsurance companies",
       "B": "Individuals and business entities",
-      "C": "Lloyd's underwriting members",
+      "C": "Lloyd’s underwriting members",
       "D": "Insurance brokers and agents"
     },
-    "provided_answer": "B",
-    "explanation": "Individuals and business entities are the primary consumers who purchase insurance products to protect against various risks.",
+    "answer": "B",
+    "explanation": "Insurance buyers or policyholders are typically individuals and business entities who purchase coverage for various risks.",
     "textbook": "PCEIA",
-    "chapter": "Role of Insurance",
-    "page": "Inferred from basic insurance market participants"
+    "chapter": "Chapter 1: Introduction to Insurance",
+    "page": 4
   },
   {
-    "question_number": 3,
-    "question_text": "In the context of the insurance market, insurance intermediaries are",
+    "questionNumber": 3,
+    "question": "In the context of the insurance market, insurance intermediaries are",
     "options": {
       "A": "real estate agents and property developers",
       "B": "insurance brokers, agents and financial advisers",
       "C": "trustees and financial Institutions",
       "D": "motor franchise holders and stock brokers"
     },
-    "provided_answer": "B",
-    "explanation": "Insurance intermediaries include insurance brokers, agents, and financial advisers who act as a link between the insurers and policyholders in the insurance market.",
+    "answer": "B",
+    "explanation": "Insurance intermediaries include brokers, agents, and financial advisers who help distribute insurance products.",
     "textbook": "PCEIA",
-    "chapter": "Insurance Market Participants",
-    "page": "Inferred from basic insurance market participants"
+    "chapter": "Chapter 1: Introduction to Insurance",
+    "page": 6
   },
   {
-    "question_number": 4,
-    "question_text": "Conventional insurance does not confirm to Syariah rules and requirements because of involvement of the following elements, EXCEPT:",
+    "questionNumber": 4,
+    "question": "Conventional insurance does not conform to Syariah rules and requirements because of involvement of the following elements, EXCEPT:",
     "options": {
-      "A": "Maisir-gambling as the consequence of the presence of uncertainly",
-      "B": "Riba-the existence of interest or usury in its investment activities",
-      "C": "Gharar-uncertainly in the contract of insurance",
-      "D": "Mudharabah -a contract whereby both parties agree on a profit and loss sharing"
+      "A": "Maisir - gambling as the consequence of the presence of uncertainty",
+      "B": "Riba - the existence of interest or usury in its investment activities",
+      "C": "Gharar - uncertainty in the contract of insurance",
+      "D": "Mudharabah - a contract whereby both parties agree on a profit and loss sharing"
     },
-    "provided_answer": "C",
-    "explanation": "Conventional insurance does not conform to Syariah rules due to the presence of Maisir (gambling/speculation), Riba (interest/usury), and Gharar (excessive uncertainty) in its operations. Mudharabah, on the other hand, is an Islamic finance principle based on profit and loss sharing, which is acceptable under Syariah law and is a component of Takaful (Islamic insurance). Therefore, Mudharabah is the element that is an EXCEPT in the context of reasons for non-conformity. The provided answer 'C' (Gharar) is one of the reasons conventional insurance *does not conform*, which contradicts the 'EXCEPT' in the question. The textbook supports D as the correct answer.",
+    "answer": "D",
+    "explanation": "Mudharabah is a Syariah-compliant concept. The other options are prohibited under Syariah principles and are found in conventional insurance.",
     "textbook": "PCEIA",
-    "chapter": "Takaful/Islamic Insurance",
-    "page": "Inferred from Takaful principles"
+    "chapter": "Chapter 1: Introduction to Insurance",
+    "page": 8
   },
   {
-    "question_number": 5,
-    "question_text": "An example of a fundamental risk is",
+    "questionNumber": 5,
+    "question": "An example of a fundamental risk is",
     "options": {
       "A": "a road accident causing loss, injury and death to several motorists",
       "B": "a stock market crash causing heavy financial loss to investors",
       "C": "fire destroying a row of shop houses causing severe damage",
       "D": "a pandemic causing many communities in a region to shutdown"
     },
-    "provided_answer": "D",
-    "explanation": "Fundamental risks are large-scale, non-personal risks that affect an entire community or economy, and their cause is outside the control of any one individual. Examples include natural disasters, economic downturns, and pandemics. A pandemic causing widespread shutdowns is a classic example of a fundamental risk.",
+    "answer": "D",
+    "explanation": "A pandemic affects large segments of society and is considered a fundamental risk, not specific to any individual.",
     "textbook": "PCEIA",
-    "chapter": "Types of Risks",
-    "page": "Inferred from types of risks"
+    "chapter": "Chapter 2: Risk and Insurance",
+    "page": 11
   },
   {
-    "question_number": 6,
-    "question_text": "It is not acceptable to insure against the payment of fines or penalties imposed for contravening the law because",
+    "questionNumber": 6,
+    "question": "It is not acceptable to insure against the payment of fines or penalties imposed for contravening the law because",
     "options": {
       "A": "of avoidance of high risk",
       "B": "of exposure to undue risk",
       "C": "it is against public policy",
       "D": "of the exclusion in the contract"
     },
-    "provided_answer": "D",
-    "explanation": "Insuring against fines or penalties for contravening the law is not acceptable because it is against public policy. Allowing such insurance would encourage illegal behavior and undermine the deterrent effect of laws. While specific exclusions might be in the contract, the fundamental reason is rooted in public policy principles. The provided answer 'D' (exclusion in the contract) is a consequence, not the underlying reason. The textbook supports C as the correct answer.",
+    "answer": "C",
+    "explanation": "Insuring fines and penalties would violate public policy, as it encourages illegal acts without consequences.",
     "textbook": "PCEIA",
-    "chapter": "Principles of Insurance: Public Policy",
-    "page": "Inferred from principles of insurance"
+    "chapter": "Chapter 2: Risk and Insurance",
+    "page": 13
   },
   {
-    "question_number": 7,
-    "question_text": "The government and society as a whole are solely responsible for this type of risks:",
+    "questionNumber": 7,
+    "question": "The government and society as a whole are solely responsible for this type of risks:",
     "options": {
       "A": "Fundamental risks",
       "B": "Speculative risks",
       "C": "Pure risks",
       "D": "Particular risks"
     },
-    "provided_answer": "A",
-    "explanation": "Fundamental risks are widespread risks affecting a large portion of the population or the entire economy, and thus their management and responsibility often fall upon the government and society as a whole (e.g., through social security programs, disaster relief).",
+    "answer": "A",
+    "explanation": "Fundamental risks, such as natural disasters and pandemics, require societal or government intervention.",
     "textbook": "PCEIA",
-    "chapter": "Types of Risks",
-    "page": "Inferred from types of risks"
+    "chapter": "Chapter 2: Risk and Insurance",
+    "page": 12
   },
   {
-    "question_number": 8,
-    "question_text": "Select the statement that is true of \"Risk Control\"",
+    "questionNumber": 8,
+    "question": "Select the statement that is true of “Risk Control”:",
     "options": {
       "A": "Minor loss can be retained by an organization",
-      "B": "Risk can be avoided by not participating in the particular activity that gives rise to the risk.",
+      "B": "Risk can be avoided by not participating in the particular activity that gives rise to the risk",
       "C": "Risk of severe losses can be mitigated with adequate disaster recovery plans",
       "D": "Risk can be prevented with implementation of prudent risk management"
     },
-    "provided_answer": "D",
-    "explanation": "Risk control involves measures to reduce the frequency or severity of losses. This includes risk prevention, which aims to entirely avoid losses, and risk reduction, which aims to minimize losses when they occur. Implementing prudent risk management practices directly contributes to preventing risks.",
+    "answer": "C",
+    "explanation": "Risk control includes mitigation strategies like disaster recovery planning to reduce the severity of loss.",
     "textbook": "PCEIA",
-    "chapter": "Risk Management",
-    "page": "Inferred from risk management"
+    "chapter": "Chapter 3: Risk Management and Underwriting",
+    "page": 20
   },
   {
-    "question_number": 9,
-    "question_text": "In insurance, the transfer of rights and liabilities of the insured to a new insured is referred to as",
+    "questionNumber": 9,
+    "question": "In insurance, the transfer of rights and liabilities of the insured to a new insured is referred to as _________________",
     "options": {
       "A": "an assignment of policy proceeds",
       "B": "a transfer of interest",
       "C": "a transfer of policy",
       "D": "an assignment of policy"
     },
-    "provided_answer": "D",
-    "explanation": "The transfer of all rights and liabilities of an existing policyholder (the assignor) to a new policyholder (the assignee) is known as an assignment of policy. This is distinct from an assignment of policy proceeds, which only transfers the right to receive payment.",
+    "answer": "B",
+    "explanation": "Transfer of interest refers to changing the ownership of an insurance policy from one party to another.",
     "textbook": "PCEIA",
-    "chapter": "Insurance Contract Terms",
-    "page": "Inferred from insurance contract terms"
+    "chapter": "Chapter 5: Insurance Documentation",
+    "page": 37
   },
   {
-    "question_number": 10,
-    "question_text": "In a life proposal where age is a material fact, _____ is required to avoid a misrepresentation by the proposer.",
+    "questionNumber": 10,
+    "question": "In a life proposal where age is a material fact, _______________ is required to avoid a misrepresentation by the proposer.",
     "options": {
       "A": "the proposal form",
       "B": "the driving licence",
       "C": "proof of age",
       "D": "the death certificate"
     },
-    "provided_answer": "C",
-    "explanation": "In life insurance, age is considered a material fact because it significantly affects the risk assessment and premium calculation. To ensure accuracy and avoid misrepresentation by the proposer, proof of age (such as a birth certificate or identity card) is typically required.",
-    "textbook": "PCEIA",
-    "chapter": "Underwriting: Material Facts in Life Insurance",
-    "page": "Inferred from underwriting principles"
+    "answer": "C",
+    "explanation": "Proof of age is critical as age significantly impacts underwriting and premium rates in life insurance.",
+    "textbook": "CEILLI",
+    "chapter": "Chapter 3: The Proposal Process",
+    "page": 42
   },
    {
     "question_number": 11,
