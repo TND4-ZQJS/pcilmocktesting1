@@ -149,162 +149,156 @@
     "chapter": "Chapter 3: The Proposal Process",
     "page": 42
   },
-   {
-    "question_number": 11,
-    "question_text": "Which of the following describes the difference between an 'insurance agent' and an 'insurance broker'?",
-    "options": {
-      "A": "An insurance agent represents the client; an insurance broker represents the insurer.",
-      "B": "An insurance agent is employed by the insurer; an insurance broker is an independent contractor.",
-      "C": "An insurance agent represents the insurer; an insurance broker represents the client.",
-      "D": "An insurance agent is paid by commission only; an insurance broker is paid by salary only."
-    },
-    "provided_answer": "C",
-    "explanation": "An insurance agent acts on behalf of one or more insurance companies (the insurer), while an insurance broker acts on behalf of the client, seeking the best coverage from various insurers.",
-    "textbook": "PCEIA",
-    "chapter": "Insurance Market Participants",
-    "page": "Inferred from roles of intermediaries"
-  },
   {
-    "question_number": 12,
-    "question_text": "Which of the following is NOT an advantage of insurance to society?",
+    "questionNumber": 11,
+    "question": "The requirement of insurable interest is merely to ensure that insurance is not abused for the purpose of speculation, wagering or",
     "options": {
-      "A": "Encourages saving and investment",
-      "B": "Increases competition among industries",
-      "C": "Promotes loss prevention",
-      "D": "Provides capital for economic development"
+      "A": "profiteering",
+      "B": "investing",
+      "C": "gambling",
+      "D": "gaming"
     },
-    "provided_answer": "B",
-    "explanation": "While insurance can contribute to a stable economic environment that indirectly fosters competition, increasing competition among industries is not a direct advantage or primary function of insurance to society. Insurance directly encourages saving/investment, promotes loss prevention, and provides capital.",
-    "textbook": "PCEIA",
-    "chapter": "Social and Economic Benefits of Insurance",
-    "page": "Inferred from benefits of insurance"
-  },
-  {
-    "question_number": 13,
-    "question_text": "Which of the following is TRUE about the 'principle of indemnity' in insurance?",
-    "options": {
-      "A": "It allows the insured to make a profit from a loss.",
-      "B": "It ensures the insured is returned to the same financial position as before the loss.",
-      "C": "It applies to all types of insurance contracts.",
-      "D": "It requires the insured to have an insurable interest only at the time of claim."
-    },
-    "provided_answer": "B",
-    "explanation": "The principle of indemnity aims to ensure that the insured is compensated for their actual loss, putting them back in the same financial position they were in immediately before the loss occurred, without making a profit. It primarily applies to general insurance and not typically to life or personal accident insurance.",
-    "textbook": "PCEIA",
-    "chapter": "Principles of Insurance: Indemnity",
-    "page": "Inferred from principles of insurance"
-  },
-  {
-    "question_number": 14,
-    "question_text": "A 'material fact' in an insurance contract is a fact that:",
-    "options": {
-      "A": "is known to both the insurer and the insured.",
-      "B": "is irrelevant to the insurer's decision to accept the risk.",
-      "C": "would influence a prudent insurer in deciding whether to accept a risk and on what terms.",
-      "D": "only needs to be disclosed if specifically asked by the insurer."
-    },
-    "provided_answer": "C",
-    "explanation": "A material fact is any information that would influence a prudent insurer's decision regarding whether to accept an insurance risk, and if so, on what terms and premium. Both the insured and the insurer have a duty to disclose all material facts.",
-    "textbook": "PCEIA",
-    "chapter": "Principles of Insurance: Utmost Good Faith",
-    "page": "Inferred from principles of insurance"
-  },
-  {
-    "question_number": 15,
-    "question_text": "The doctrine of 'utmost good faith' (uberrimae fidei) requires:",
-    "options": {
-      "A": "the insurer to treat all claims equally.",
-      "B": "both parties to an insurance contract to disclose all material facts.",
-      "C": "the insured to prove their loss beyond reasonable doubt.",
-      "D": "the insurer to pay all claims regardless of the circumstances."
-    },
-    "provided_answer": "B",
-    "explanation": "The principle of utmost good faith (uberrimae fidei) dictates that both the insurer and the insured must honestly disclose all material facts relevant to the insurance contract to each other before the contract is formed.",
-    "textbook": "PCEIA",
-    "chapter": "Principles of Insurance: Utmost Good Faith",
-    "page": "Inferred from principles of insurance"
-  },
-  {
-    "question_number": 16,
-    "question_text": "What is the primary purpose of 'subrogation' in insurance?",
-    "options": {
-      "A": "To allow the insured to recover more than their actual loss.",
-      "B": "To prevent double recovery by the insured.",
-      "C": "To allow the insurer to recover from a third party responsible for the loss.",
-      "D": "To facilitate the transfer of risk from the insured to the insurer."
-    },
-    "provided_answer": "C",
-    "explanation": "Subrogation is a legal principle where, after paying a claim to the insured, the insurer steps into the shoes of the insured to pursue recovery from any third party responsible for the loss. Its primary purpose is to allow the insurer to recover the amount paid to the insured from the at-fault party and to prevent the insured from profiting from the loss.",
-    "textbook": "PCEIA",
-    "chapter": "Principles of Insurance: Subrogation",
-    "page": "Inferred from principles of insurance"
-  },
-  {
-    "question_number": 17,
-    "question_text": "An insurable interest exists when the insured would:",
-    "options": {
-      "A": "benefit financially from the non-occurrence of a loss.",
-      "B": "suffer a financial loss if the insured event occurs.",
-      "C": "have no financial connection to the subject matter of insurance.",
-      "D": "be able to choose the insurer of their preference."
-    },
-    "provided_answer": "B",
-    "explanation": "An insurable interest is a financial or economic stake in the subject matter of insurance. It exists when the insured would suffer a direct financial loss if the insured event (peril) occurs, or would benefit financially from its continued existence. Without an insurable interest, an insurance contract is merely a wager and unenforceable.",
+    "answer": "C",
+    [cite_start]"explanation": "The principle of insurable interest is a fundamental concept in insurance that ensures the policyholder has a genuine financial or legal stake in the subject matter of insurance. This requirement prevents the use of insurance contracts for illegal or unethical purposes such as speculation, wagering, or gambling, as without a genuine interest, the contract would be a mere bet. [cite: 476]",
     "textbook": "PCEIA",
     "chapter": "Principles of Insurance: Insurable Interest",
     "page": "Inferred from principles of insurance"
   },
   {
-    "question_number": 18,
-    "question_text": "The 'proximate cause' in insurance refers to the:",
+    "questionNumber": 12,
+    "question": "_____ are the subject matter of insurance in a life or personal accident policy.",
     "options": {
-      "A": "first event in a chain of events leading to a loss.",
-      "B": "dominant and efficient cause of the loss, not necessarily the first or last.",
-      "C": "most recent event that immediately precedes the loss.",
-      "D": "only cause of the loss that is explicitly mentioned in the policy."
+      "A": "Funeral expenses",
+      "B": "Life and limb",
+      "C": "Medical cost and expenses",
+      "D": "Salaries and wages"
     },
-    "provided_answer": "B",
-    "explanation": "The principle of proximate cause states that for a loss to be covered by an insurance policy, the loss must be directly and predominantly caused by an insured peril. It is the dominant, effective, or efficient cause of the loss, even if other minor causes are present.",
+    "answer": "B",
+    "explanation": "In life and personal accident insurance, the subject matter of insurance is essentially the life and physical well-being (limb) of the insured individual. [cite_start]The policy provides cover against events affecting the insured's life (death) or physical integrity (disability, loss of limb), not typically specific expenses like funeral costs or salaries directly. [cite: 482]",
+    "textbook": "PCEIA",
+    "chapter": "Life and Personal Accident Insurance",
+    "page": "Inferred from subject matter of life/personal accident insurance"
+  },
+  {
+    "questionNumber": 13,
+    "question": "In the absence of any specific questions in the proposal form, an insured is not required to disclose a fact that",
+    "options": {
+      "A": "increases the risk to the insurer",
+      "B": "diminishes the risk to the insurer",
+      "C": "affects insurer's rating of the risk",
+      "D": "influences the decision in acceptance of the risk"
+    },
+    "answer": "B",
+    "explanation": "Under the principle of utmost good faith, the insured is generally required to disclose all material facts that would influence a prudent insurer's decision. However, if a fact diminishes the risk to the insurer (e.g., improved health, safer conditions), and is not specifically asked, there is no duty to disclose it as it does not negatively impact the insurer's assessment. [cite_start]Facts that increase risk, affect rating, or influence acceptance *must* be disclosed. [cite: 487]",
+    "textbook": "PCEIA",
+    "chapter": "Principles of Insurance: Utmost Good Faith",
+    "page": "Inferred from principles of insurance"
+  },
+  {
+    "questionNumber": 14,
+    "question": "Proximate cause is a key principle of insurance and is concerned with how the loss or damage actually occurred and whether it is a direct result of",
+    "options": {
+      "A": "an exceptional peril",
+      "B": "an uninsured peril",
+      "C": "an insured peril",
+      "D": "an excluded peril"
+    },
+    "answer": "C",
+    "explanation": "The principle of proximate cause establishes that for a loss to be covered, it must be the direct and dominant result of an 'insured peril' – a peril that is covered by the policy. [cite_start]If the loss is caused by an uninsured or excluded peril, the insurer is not liable. [cite: 492]",
     "textbook": "PCEIA",
     "chapter": "Principles of Insurance: Proximate Cause",
     "page": "Inferred from principles of insurance"
   },
   {
-    "question_number": 19,
-    "question_text": "What is the purpose of a 'deductible' (or excess) in an insurance policy?",
+    "questionNumber": 15,
+    "question": "A mountain climber broke his leg and was hospitalized but died in hospital due to SARS contracted from another patient. The insurer will decline the death claim under his personal accident policy due to the application of the principle of",
     "options": {
-      "A": "To increase the premium paid by the insured.",
-      "B": "To ensure the insurer pays for all losses, regardless of size.",
-      "C": "To discourage small claims and reduce moral hazard.",
-      "D": "To allow the insured to choose their preferred repairer."
+      "A": "indemnity",
+      "B": "proximate cause",
+      "C": "insurable interest",
+      "D": "contribution"
     },
-    "provided_answer": "C",
-    "explanation": "A deductible (or excess) is the amount of loss that the insured must bear before the insurer begins to pay for the remaining loss. Its purpose is to discourage small claims, reduce administrative costs for the insurer, and reduce moral hazard by ensuring the insured has some financial stake in preventing losses.",
+    "answer": "B",
+    "explanation": "In this scenario, the direct and dominant cause of death was SARS, a disease, not the broken leg from the mountain climbing accident. Personal accident policies typically cover death or injury resulting directly from an accident. [cite_start]Since the proximate cause of death (SARS) was a disease and not the accident itself, the insurer would decline the claim based on the principle of 'proximate cause'. [cite: 497, 498]",
     "textbook": "PCEIA",
-    "chapter": "Insurance Policy Terms",
-    "page": "Inferred from policy terms"
+    "chapter": "Principles of Insurance: Proximate Cause",
+    "page": "Inferred from principles of insurance"
   },
   {
-    "question_number": 20,
-    "question_text": "Which of the following is an example of 'moral hazard' in insurance?",
+    "questionNumber": 16,
+    "question": "Consumers are required to submit their complaints to Financial Mediation Bureau within _____ from the date of the final decision of the financial service provider.",
     "options": {
-      "A": "An increase in house fires due to a heatwave.",
-      "B": "A driver becoming more careful after installing a tracking device.",
-      "C": "An insured person intentionally damaging their car to claim insurance.",
-      "D": "A factory implementing new safety measures to reduce accidents."
+      "A": "one month",
+      "B": "three months",
+      "C": "six months",
+      "D": "nine months"
     },
-    "provided_answer": "C",
-    "explanation": "Moral hazard refers to the increased risk or likelihood of loss due to a change in behavior by an insured person, often occurring after obtaining insurance. This change is typically driven by the fact that the insured no longer bears the full cost of the loss. Intentionally damaging property to claim insurance is a direct example of moral hazard.",
+    "answer": "C",
+    "explanation": "Consumers are generally required to submit their complaints to the Financial Mediation Bureau (now FMB, but its successor is the Ombudsman for Financial Services - OFS) within a specific timeframe after receiving the final decision from the financial service provider. [cite_start]This period is typically six months. [cite: 503]",
     "textbook": "PCEIA",
-    "chapter": "Risk and Insurance",
-    "page": "Inferred from risk concepts"
-  }
-  "answer": "D",
-        "explanation": "Term insurance provides coverage for a specific period and pays only if the insured event (e.g., death) occurs within that term.",
-        "textbook": "PCEIA",
-        "chapter": "Chapter 5: Types of Life Insurance",
-        "page": 36
+    "chapter": "Consumer Protection and Financial Ombudsman",
+    "page": "Inferred from consumer protection guidelines"
+  },
+  {
+    "questionNumber": 17,
+    "question": "Members of the Financial Mediation Bureau do NOT include",
+    "options": {
+      "A": "takaful operators",
+      "B": "licensed insurance brokers",
+      "C": "licensed banking institutions",
+      "D": "licensed insurance companies"
     },
+    "answer": "B",
+    "explanation": "The Financial Mediation Bureau (FMB), or its successor the Ombudsman for Financial Services (OFS), typically covers financial service providers such as takaful operators, licensed banking institutions, and licensed insurance companies. [cite_start]Licensed insurance brokers, while intermediaries, are generally not direct 'members' or subject to the FMB's jurisdiction in the same way as the primary financial institutions. [cite: 509]",
+    "textbook": "PCEIA",
+    "chapter": "Consumer Protection and Financial Ombudsman",
+    "page": "Inferred from consumer protection guidelines"
+  },
+  {
+    "questionNumber": 18,
+    "question": "Identify which is the following are NOT covered by the provisions of Perbadanan Insurans Deposit Malaysia (PIDM).",
+    "options": {
+      "A": "Islamic banks",
+      "B": "Reinsurance companies",
+      "C": "Takaful companies",
+      "D": "Commercial banks"
+    },
+    "answer": "B",
+    "explanation": "Perbadanan Insurans Deposit Malaysia (PIDM) provides deposit insurance for banks and takaful benefits protection for takaful operators in Malaysia. This typically covers commercial banks, Islamic banks, and takaful companies. [cite_start]Reinsurance companies, which deal with insurers rather than directly with policyholders/depositors, are generally NOT covered by PIDM's provisions. [cite: 514]",
+    "textbook": "PCEIA",
+    "chapter": "Regulatory Bodies: PIDM",
+    "page": "Inferred from PIDM scope"
+  },
+  {
+    "questionNumber": 19,
+    "question": "An insurance company can be wound up",
+    "options": {
+      "A": "by making a public declaration",
+      "B": "by filing an application to the high court",
+      "C": "voluntarily by applying to the Companies Commission of Malaysia",
+      "D": "by getting the prior written approval of Bank Negara Malaysia"
+    },
+    "answer": "C",
+    "explanation": "While an insurance company can be wound up by a court order, a voluntary winding-up process typically involves applying to the Companies Commission of Malaysia (SSM) and following the procedures outlined in the Companies Act. However, due to the nature of insurance business and public interest, the winding up of an insurance company would also involve stringent oversight and approval from the financial regulator, Bank Negara Malaysia, as stated in D. The provided answer 'C' focuses on the Companies Commission of Malaysia which handles company registrations and general winding-up procedures, but for regulated financial institutions like insurance companies, BNM's approval is paramount. [cite_start]The question asks *how* it can be wound up, and 'voluntarily by applying to the Companies Commission of Malaysia' is a method, even if BNM's approval is also required for a regulated entity. [cite: 519]",
+    "textbook": "PCEIA",
+    "chapter": "Regulatory Framework for Insurers",
+    "page": "Inferred from regulatory and corporate law"
+  },
+  {
+    "questionNumber": 20,
+    "question": "Insurance companies in Malaysia are required to be incorporated as",
+    "options": {
+      "A": "private companies",
+      "B": "mutual companies",
+      "C": "public companies",
+      "D": "large corporations"
+    },
+    "answer": "C",
+    "explanation": "Insurance companies in Malaysia, due to their significant public interest and regulatory requirements, are typically required to be incorporated as 'public companies' under the Companies Act. [cite_start]This ensures a higher level of corporate governance, transparency, and accountability compared to private companies. [cite: 524]",
+    "textbook": "PCEIA",
+    "chapter": "Regulatory Framework for Insurers",
+    "page": "Inferred from regulatory framework"
+  }，
     {
         "questionNumber": 21,
         "question": "Insurance companies must _________________ in respect of Customer Due Diligence under the Anti Money Laundering and Counter Financing of Terrorism compliance guidelines.",
