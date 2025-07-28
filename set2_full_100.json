@@ -1,304 +1,304 @@
 [
-  {
-    "questionNumber": 1,
-    "question": "General insurance contracts provide cover against the following risks, EXCEPT:",
-    "options": {
-      "A": "damage to property",
-      "B": "motor car accident",
-      "C": "natural death",
-      "D": "legal liability"
+    {
+        "questionNumber": 1,
+        "question": "General insurance contracts provide cover against the following risks, EXCEPT:",
+        "options": {
+            "A": "damage to property",
+            "B": "motor car accident",
+            "C": "natural death",
+            "D": "legal liability"
+        },
+        "answer": "C",
+        "explanation": "Natural death is covered under life insurance, not general insurance. General insurance deals with property damage, motor accidents, and legal liability.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 1: Introduction to Insurance",
+        "page": 3
     },
-    "answer": "C",
-    "explanation": "Natural death is covered under life insurance, not general insurance. General insurance deals with property damage, motor accidents, and legal liability.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1: Introduction to Insurance",
-    "page": 3
-  },
-  {
-    "questionNumber": 2,
-    "question": "______________ buy insurance products.",
-    "options": {
-      "A": "Insurance and reinsurance companies",
-      "B": "Individuals and business entities",
-      "C": "Lloyd’s underwriting members",
-      "D": "Insurance brokers and agents"
+    {
+        "questionNumber": 2,
+        "question": "______________ buy insurance products.",
+        "options": {
+            "A": "Insurance and reinsurance companies",
+            "B": "Individuals and business entities",
+            "C": "Lloyd’s underwriting members",
+            "D": "Insurance brokers and agents"
+        },
+        "answer": "B",
+        "explanation": "Insurance buyers or policyholders are typically individuals and business entities who purchase coverage for various risks.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 1: Introduction to Insurance",
+        "page": 4
     },
-    "answer": "B",
-    "explanation": "Insurance buyers or policyholders are typically individuals and business entities who purchase coverage for various risks.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1: Introduction to Insurance",
-    "page": 4
-  },
-  {
-    "questionNumber": 3,
-    "question": "In the context of the insurance market, insurance intermediaries are",
-    "options": {
-      "A": "real estate agents and property developers",
-      "B": "insurance brokers, agents and financial advisers",
-      "C": "trustees and financial Institutions",
-      "D": "motor franchise holders and stock brokers"
+    {
+        "questionNumber": 3,
+        "question": "In the context of the insurance market, insurance intermediaries are",
+        "options": {
+            "A": "real estate agents and property developers",
+            "B": "insurance brokers, agents and financial advisers",
+            "C": "trustees and financial Institutions",
+            "D": "motor franchise holders and stock brokers"
+        },
+        "answer": "B",
+        "explanation": "Insurance intermediaries include brokers, agents, and financial advisers who help distribute insurance products.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 1: Introduction to Insurance",
+        "page": 6
     },
-    "answer": "B",
-    "explanation": "Insurance intermediaries include brokers, agents, and financial advisers who help distribute insurance products.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1: Introduction to Insurance",
-    "page": 6
-  },
-  {
-    "questionNumber": 4,
-    "question": "Conventional insurance does not conform to Syariah rules and requirements because of involvement of the following elements, EXCEPT:",
-    "options": {
-      "A": "Maisir - gambling as the consequence of the presence of uncertainty",
-      "B": "Riba - the existence of interest or usury in its investment activities",
-      "C": "Gharar - uncertainty in the contract of insurance",
-      "D": "Mudharabah - a contract whereby both parties agree on a profit and loss sharing"
+    {
+        "questionNumber": 4,
+        "question": "Conventional insurance does not conform to Syariah rules and requirements because of involvement of the following elements, EXCEPT:",
+        "options": {
+            "A": "Maisir - gambling as the consequence of the presence of uncertainty",
+            "B": "Riba - the existence of interest or usury in its investment activities",
+            "C": "Gharar - uncertainty in the contract of insurance",
+            "D": "Mudharabah - a contract whereby both parties agree on a profit and loss sharing"
+        },
+        "answer": "D",
+        "explanation": "Mudharabah is a Syariah-compliant concept. The other options are prohibited under Syariah principles and are found in conventional insurance.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 1: Introduction to Insurance",
+        "page": 8
     },
-    "answer": "D",
-    "explanation": "Mudharabah is a Syariah-compliant concept. The other options are prohibited under Syariah principles and are found in conventional insurance.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1: Introduction to Insurance",
-    "page": 8
-  },
-  {
-    "questionNumber": 5,
-    "question": "An example of a fundamental risk is",
-    "options": {
-      "A": "a road accident causing loss, injury and death to several motorists",
-      "B": "a stock market crash causing heavy financial loss to investors",
-      "C": "fire destroying a row of shop houses causing severe damage",
-      "D": "a pandemic causing many communities in a region to shutdown"
+    {
+        "questionNumber": 5,
+        "question": "An example of a fundamental risk is",
+        "options": {
+            "A": "a road accident causing loss, injury and death to several motorists",
+            "B": "a stock market crash causing heavy financial loss to investors",
+            "C": "fire destroying a row of shop houses causing severe damage",
+            "D": "a pandemic causing many communities in a region to shutdown"
+        },
+        "answer": "D",
+        "explanation": "A pandemic affects large segments of society and is considered a fundamental risk, not specific to any individual.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 2: Risk and Insurance",
+        "page": 11
     },
-    "answer": "D",
-    "explanation": "A pandemic affects large segments of society and is considered a fundamental risk, not specific to any individual.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2: Risk and Insurance",
-    "page": 11
-  },
-  {
-    "questionNumber": 6,
-    "question": "It is not acceptable to insure against the payment of fines or penalties imposed for contravening the law because",
-    "options": {
-      "A": "of avoidance of high risk",
-      "B": "of exposure to undue risk",
-      "C": "it is against public policy",
-      "D": "of the exclusion in the contract"
+    {
+        "questionNumber": 6,
+        "question": "It is not acceptable to insure against the payment of fines or penalties imposed for contravening the law because",
+        "options": {
+            "A": "of avoidance of high risk",
+            "B": "of exposure to undue risk",
+            "C": "it is against public policy",
+            "D": "of the exclusion in the contract"
+        },
+        "answer": "C",
+        "explanation": "Insuring fines and penalties would violate public policy, as it encourages illegal acts without consequences.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 2: Risk and Insurance",
+        "page": 13
     },
-    "answer": "C",
-    "explanation": "Insuring fines and penalties would violate public policy, as it encourages illegal acts without consequences.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2: Risk and Insurance",
-    "page": 13
-  },
-  {
-    "questionNumber": 7,
-    "question": "The government and society as a whole are solely responsible for this type of risks:",
-    "options": {
-      "A": "Fundamental risks",
-      "B": "Speculative risks",
-      "C": "Pure risks",
-      "D": "Particular risks"
+    {
+        "questionNumber": 7,
+        "question": "The government and society as a whole are solely responsible for this type of risks:",
+        "options": {
+            "A": "Fundamental risks",
+            "B": "Speculative risks",
+            "C": "Pure risks",
+            "D": "Particular risks"
+        },
+        "answer": "A",
+        "explanation": "Fundamental risks, such as natural disasters and pandemics, require societal or government intervention.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 2: Risk and Insurance",
+        "page": 12
     },
-    "answer": "A",
-    "explanation": "Fundamental risks, such as natural disasters and pandemics, require societal or government intervention.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2: Risk and Insurance",
-    "page": 12
-  },
-  {
-    "questionNumber": 8,
-    "question": "Select the statement that is true of “Risk Control”:",
-    "options": {
-      "A": "Minor loss can be retained by an organization",
-      "B": "Risk can be avoided by not participating in the particular activity that gives rise to the risk",
-      "C": "Risk of severe losses can be mitigated with adequate disaster recovery plans",
-      "D": "Risk can be prevented with implementation of prudent risk management"
+    {
+        "questionNumber": 8,
+        "question": "Select the statement that is true of “Risk Control”:",
+        "options": {
+            "A": "Minor loss can be retained by an organization",
+            "B": "Risk can be avoided by not participating in the particular activity that gives rise to the risk",
+            "C": "Risk of severe losses can be mitigated with adequate disaster recovery plans",
+            "D": "Risk can be prevented with implementation of prudent risk management"
+        },
+        "answer": "C",
+        "explanation": "Risk control includes mitigation strategies like disaster recovery planning to reduce the severity of loss.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 3: Risk Management and Underwriting",
+        "page": 20
     },
-    "answer": "C",
-    "explanation": "Risk control includes mitigation strategies like disaster recovery planning to reduce the severity of loss.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3: Risk Management and Underwriting",
-    "page": 20
-  },
-  {
-    "questionNumber": 9,
-    "question": "In insurance, the transfer of rights and liabilities of the insured to a new insured is referred to as _________________",
-    "options": {
-      "A": "an assignment of policy proceeds",
-      "B": "a transfer of interest",
-      "C": "a transfer of policy",
-      "D": "an assignment of policy"
+    {
+        "questionNumber": 9,
+        "question": "In insurance, the transfer of rights and liabilities of the insured to a new insured is referred to as _________________",
+        "options": {
+            "A": "an assignment of policy proceeds",
+            "B": "a transfer of interest",
+            "C": "a transfer of policy",
+            "D": "an assignment of policy"
+        },
+        "answer": "B",
+        "explanation": "Transfer of interest refers to changing the ownership of an insurance policy from one party to another.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 5: Insurance Documentation",
+        "page": 37
     },
-    "answer": "B",
-    "explanation": "Transfer of interest refers to changing the ownership of an insurance policy from one party to another.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5: Insurance Documentation",
-    "page": 37
-  },
-  {
-    "questionNumber": 10,
-    "question": "In a life proposal where age is a material fact, _______________ is required to avoid a misrepresentation by the proposer.",
-    "options": {
-      "A": "the proposal form",
-      "B": "the driving licence",
-      "C": "proof of age",
-      "D": "the death certificate"
+    {
+        "questionNumber": 10,
+        "question": "In a life proposal where age is a material fact, _______________ is required to avoid a misrepresentation by the proposer.",
+        "options": {
+            "A": "the proposal form",
+            "B": "the driving licence",
+            "C": "proof of age",
+            "D": "the death certificate"
+        },
+        "answer": "C",
+        "explanation": "Proof of age is critical as age significantly impacts underwriting and premium rates in life insurance.",
+        "textbook": "CEILLI",
+        "chapter": "Chapter 3: The Proposal Process",
+        "page": 42
     },
-    "answer": "C",
-    "explanation": "Proof of age is critical as age significantly impacts underwriting and premium rates in life insurance.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 3: The Proposal Process",
-    "page": 42
-  },
-  {
-    "questionNumber": 11,
-    "question": "The requirement of insurable interest is merely to ensure that insurance is not abused for the purpose of speculation, wagering or ____________",
-    "options": {
-      "A": "profiteering",
-      "B": "investing",
-      "C": "gambling",
-      "D": "gaming"
+    {
+        "questionNumber": 11,
+        "question": "The requirement of insurable interest is merely to ensure that insurance is not abused for the purpose of speculation, wagering or ____________",
+        "options": {
+            "A": "profiteering",
+            "B": "investing",
+            "C": "gambling",
+            "D": "gaming"
+        },
+        "answer": "C",
+        "explanation": "The principle of insurable interest is a fundamental concept in insurance that ensures the policyholder has a genuine financial or legal stake in the subject matter of insurance. This requirement prevents the use of insurance contracts for illegal or unethical purposes such as speculation, wagering, or gambling, as without a genuine interest, the contract would be a mere bet.",
+        "textbook": "PCEIA",
+        "chapter": "Principles of Insurance: Insurable Interest",
+        "page": "Inferred from principles of insurance"
     },
-    "answer": "C",
-    "explanation": "The principle of insurable interest is a fundamental concept in insurance that ensures the policyholder has a genuine financial or legal stake in the subject matter of insurance. This requirement prevents the use of insurance contracts for illegal or unethical purposes such as speculation, wagering, or gambling, as without a genuine interest, the contract would be a mere bet.",
-    "textbook": "PCEIA",
-    "chapter": "Principles of Insurance: Insurable Interest",
-    "page": "Inferred from principles of insurance"
-  },
-  {
-    "questionNumber": 12,
-    "question": "_____ are the subject matter of insurance in a life or personal accident policy.",
-    "options": {
-      "A": "Funeral expenses",
-      "B": "Life and limb",
-      "C": "Medical cost and expenses",
-      "D": "Salaries and wages"
+    {
+        "questionNumber": 12,
+        "question": "_____ are the subject matter of insurance in a life or personal accident policy.",
+        "options": {
+            "A": "Funeral expenses",
+            "B": "Life and limb",
+            "C": "Medical cost and expenses",
+            "D": "Salaries and wages"
+        },
+        "answer": "B",
+        "explanation": "In life and personal accident insurance, the subject matter of insurance is essentially the life and physical well-being (limb) of the insured individual. [cite_start]The policy provides cover against events affecting the insured's life (death) or physical integrity (disability, loss of limb), not typically specific expenses like funeral costs or salaries directly. [cite: 482]",
+        "textbook": "PCEIA",
+        "chapter": "Life and Personal Accident Insurance",
+        "page": "Inferred from subject matter of life/personal accident insurance"
     },
-    "answer": "B",
-    "explanation": "In life and personal accident insurance, the subject matter of insurance is essentially the life and physical well-being (limb) of the insured individual. [cite_start]The policy provides cover against events affecting the insured's life (death) or physical integrity (disability, loss of limb), not typically specific expenses like funeral costs or salaries directly. [cite: 482]",
-    "textbook": "PCEIA",
-    "chapter": "Life and Personal Accident Insurance",
-    "page": "Inferred from subject matter of life/personal accident insurance"
-  },
-  {
-    "questionNumber": 13,
-    "question": "In the absence of any specific questions in the proposal form, an insured is not required to disclose a fact that",
-    "options": {
-      "A": "increases the risk to the insurer",
-      "B": "diminishes the risk to the insurer",
-      "C": "affects insurer's rating of the risk",
-      "D": "influences the decision in acceptance of the risk"
+    {
+        "questionNumber": 13,
+        "question": "In the absence of any specific questions in the proposal form, an insured is not required to disclose a fact that",
+        "options": {
+            "A": "increases the risk to the insurer",
+            "B": "diminishes the risk to the insurer",
+            "C": "affects insurer's rating of the risk",
+            "D": "influences the decision in acceptance of the risk"
+        },
+        "answer": "B",
+        "explanation": "Under the principle of utmost good faith, the insured is generally required to disclose all material facts that would influence a prudent insurer's decision. However, if a fact diminishes the risk to the insurer (e.g., improved health, safer conditions), and is not specifically asked, there is no duty to disclose it as it does not negatively impact the insurer's assessment. [cite_start]Facts that increase risk, affect rating, or influence acceptance *must* be disclosed. [cite: 487]",
+        "textbook": "PCEIA",
+        "chapter": "Principles of Insurance: Utmost Good Faith",
+        "page": "Inferred from principles of insurance"
     },
-    "answer": "B",
-    "explanation": "Under the principle of utmost good faith, the insured is generally required to disclose all material facts that would influence a prudent insurer's decision. However, if a fact diminishes the risk to the insurer (e.g., improved health, safer conditions), and is not specifically asked, there is no duty to disclose it as it does not negatively impact the insurer's assessment. [cite_start]Facts that increase risk, affect rating, or influence acceptance *must* be disclosed. [cite: 487]",
-    "textbook": "PCEIA",
-    "chapter": "Principles of Insurance: Utmost Good Faith",
-    "page": "Inferred from principles of insurance"
-  },
-  {
-    "questionNumber": 14,
-    "question": "Proximate cause is a key principle of insurance and is concerned with how the loss or damage actually occurred and whether it is a direct result of",
-    "options": {
-      "A": "an exceptional peril",
-      "B": "an uninsured peril",
-      "C": "an insured peril",
-      "D": "an excluded peril"
+    {
+        "questionNumber": 14,
+        "question": "Proximate cause is a key principle of insurance and is concerned with how the loss or damage actually occurred and whether it is a direct result of",
+        "options": {
+            "A": "an exceptional peril",
+            "B": "an uninsured peril",
+            "C": "an insured peril",
+            "D": "an excluded peril"
+        },
+        "answer": "C",
+        "explanation": "The principle of proximate cause establishes that for a loss to be covered, it must be the direct and dominant result of an 'insured peril' – a peril that is covered by the policy. [cite_start]If the loss is caused by an uninsured or excluded peril, the insurer is not liable. [cite: 492]",
+        "textbook": "PCEIA",
+        "chapter": "Principles of Insurance: Proximate Cause",
+        "page": "Inferred from principles of insurance"
     },
-    "answer": "C",
-    "explanation": "The principle of proximate cause establishes that for a loss to be covered, it must be the direct and dominant result of an 'insured peril' – a peril that is covered by the policy. [cite_start]If the loss is caused by an uninsured or excluded peril, the insurer is not liable. [cite: 492]",
-    "textbook": "PCEIA",
-    "chapter": "Principles of Insurance: Proximate Cause",
-    "page": "Inferred from principles of insurance"
-  },
-  {
-    "questionNumber": 15,
-    "question": "A mountain climber broke his leg and was hospitalized but died in hospital due to SARS contracted from another patient. The insurer will decline the death claim under his personal accident policy due to the application of the principle of",
-    "options": {
-      "A": "indemnity",
-      "B": "proximate cause",
-      "C": "insurable interest",
-      "D": "contribution"
+    {
+        "questionNumber": 15,
+        "question": "A mountain climber broke his leg and was hospitalized but died in hospital due to SARS contracted from another patient. The insurer will decline the death claim under his personal accident policy due to the application of the principle of",
+        "options": {
+            "A": "indemnity",
+            "B": "proximate cause",
+            "C": "insurable interest",
+            "D": "contribution"
+        },
+        "answer": "B",
+        "explanation": "In this scenario, the direct and dominant cause of death was SARS, a disease, not the broken leg from the mountain climbing accident. Personal accident policies typically cover death or injury resulting directly from an accident. [cite_start]Since the proximate cause of death (SARS) was a disease and not the accident itself, the insurer would decline the claim based on the principle of 'proximate cause'. [cite: 497, 498]",
+        "textbook": "PCEIA",
+        "chapter": "Principles of Insurance: Proximate Cause",
+        "page": "Inferred from principles of insurance"
     },
-    "answer": "B",
-    "explanation": "In this scenario, the direct and dominant cause of death was SARS, a disease, not the broken leg from the mountain climbing accident. Personal accident policies typically cover death or injury resulting directly from an accident. [cite_start]Since the proximate cause of death (SARS) was a disease and not the accident itself, the insurer would decline the claim based on the principle of 'proximate cause'. [cite: 497, 498]",
-    "textbook": "PCEIA",
-    "chapter": "Principles of Insurance: Proximate Cause",
-    "page": "Inferred from principles of insurance"
-  },
-  {
-    "questionNumber": 16,
-    "question": "Consumers are required to submit their complaints to Financial Mediation Bureau within _____ from the date of the final decision of the financial service provider.",
-    "options": {
-      "A": "one month",
-      "B": "three months",
-      "C": "six months",
-      "D": "nine months"
+    {
+        "questionNumber": 16,
+        "question": "Consumers are required to submit their complaints to Financial Mediation Bureau within _____ from the date of the final decision of the financial service provider.",
+        "options": {
+            "A": "one month",
+            "B": "three months",
+            "C": "six months",
+            "D": "nine months"
+        },
+        "answer": "C",
+        "explanation": "Consumers are generally required to submit their complaints to the Financial Mediation Bureau (now FMB, but its successor is the Ombudsman for Financial Services - OFS) within a specific timeframe after receiving the final decision from the financial service provider. [cite_start]This period is typically six months. [cite: 503]",
+        "textbook": "PCEIA",
+        "chapter": "Consumer Protection and Financial Ombudsman",
+        "page": "Inferred from consumer protection guidelines"
     },
-    "answer": "C",
-    "explanation": "Consumers are generally required to submit their complaints to the Financial Mediation Bureau (now FMB, but its successor is the Ombudsman for Financial Services - OFS) within a specific timeframe after receiving the final decision from the financial service provider. [cite_start]This period is typically six months. [cite: 503]",
-    "textbook": "PCEIA",
-    "chapter": "Consumer Protection and Financial Ombudsman",
-    "page": "Inferred from consumer protection guidelines"
-  },
-  {
-    "questionNumber": 17,
-    "question": "Members of the Financial Mediation Bureau do NOT include",
-    "options": {
-      "A": "takaful operators",
-      "B": "licensed insurance brokers",
-      "C": "licensed banking institutions",
-      "D": "licensed insurance companies"
+    {
+        "questionNumber": 17,
+        "question": "Members of the Financial Mediation Bureau do NOT include",
+        "options": {
+            "A": "takaful operators",
+            "B": "licensed insurance brokers",
+            "C": "licensed banking institutions",
+            "D": "licensed insurance companies"
+        },
+        "answer": "B",
+        "explanation": "The Financial Mediation Bureau (FMB), or its successor the Ombudsman for Financial Services (OFS), typically covers financial service providers such as takaful operators, licensed banking institutions, and licensed insurance companies. [cite_start]Licensed insurance brokers, while intermediaries, are generally not direct 'members' or subject to the FMB's jurisdiction in the same way as the primary financial institutions. [cite: 509]",
+        "textbook": "PCEIA",
+        "chapter": "Consumer Protection and Financial Ombudsman",
+        "page": "Inferred from consumer protection guidelines"
     },
-    "answer": "B",
-    "explanation": "The Financial Mediation Bureau (FMB), or its successor the Ombudsman for Financial Services (OFS), typically covers financial service providers such as takaful operators, licensed banking institutions, and licensed insurance companies. [cite_start]Licensed insurance brokers, while intermediaries, are generally not direct 'members' or subject to the FMB's jurisdiction in the same way as the primary financial institutions. [cite: 509]",
-    "textbook": "PCEIA",
-    "chapter": "Consumer Protection and Financial Ombudsman",
-    "page": "Inferred from consumer protection guidelines"
-  },
-  {
-    "questionNumber": 18,
-    "question": "Identify which is the following are NOT covered by the provisions of Perbadanan Insurans Deposit Malaysia (PIDM).",
-    "options": {
-      "A": "Islamic banks",
-      "B": "Reinsurance companies",
-      "C": "Takaful companies",
-      "D": "Commercial banks"
+    {
+        "questionNumber": 18,
+        "question": "Identify which is the following are NOT covered by the provisions of Perbadanan Insurans Deposit Malaysia (PIDM).",
+        "options": {
+            "A": "Islamic banks",
+            "B": "Reinsurance companies",
+            "C": "Takaful companies",
+            "D": "Commercial banks"
+        },
+        "answer": "B",
+        "explanation": "Perbadanan Insurans Deposit Malaysia (PIDM) provides deposit insurance for banks and takaful benefits protection for takaful operators in Malaysia. This typically covers commercial banks, Islamic banks, and takaful companies. [cite_start]Reinsurance companies, which deal with insurers rather than directly with policyholders/depositors, are generally NOT covered by PIDM's provisions. [cite: 514]",
+        "textbook": "PCEIA",
+        "chapter": "Regulatory Bodies: PIDM",
+        "page": "Inferred from PIDM scope"
     },
-    "answer": "B",
-    "explanation": "Perbadanan Insurans Deposit Malaysia (PIDM) provides deposit insurance for banks and takaful benefits protection for takaful operators in Malaysia. This typically covers commercial banks, Islamic banks, and takaful companies. [cite_start]Reinsurance companies, which deal with insurers rather than directly with policyholders/depositors, are generally NOT covered by PIDM's provisions. [cite: 514]",
-    "textbook": "PCEIA",
-    "chapter": "Regulatory Bodies: PIDM",
-    "page": "Inferred from PIDM scope"
-  },
-  {
-    "questionNumber": 19,
-    "question": "An insurance company can be wound up",
-    "options": {
-      "A": "by making a public declaration",
-      "B": "by filing an application to the high court",
-      "C": "voluntarily by applying to the Companies Commission of Malaysia",
-      "D": "by getting the prior written approval of Bank Negara Malaysia"
+    {
+        "questionNumber": 19,
+        "question": "An insurance company can be wound up",
+        "options": {
+            "A": "by making a public declaration",
+            "B": "by filing an application to the high court",
+            "C": "voluntarily by applying to the Companies Commission of Malaysia",
+            "D": "by getting the prior written approval of Bank Negara Malaysia"
+        },
+        "answer": "C",
+        "explanation": "While an insurance company can be wound up by a court order, a voluntary winding-up process typically involves applying to the Companies Commission of Malaysia (SSM) and following the procedures outlined in the Companies Act. However, due to the nature of insurance business and public interest, the winding up of an insurance company would also involve stringent oversight and approval from the financial regulator, Bank Negara Malaysia, as stated in D. The provided answer 'C' focuses on the Companies Commission of Malaysia which handles company registrations and general winding-up procedures, but for regulated financial institutions like insurance companies, BNM's approval is paramount. [cite_start]The question asks *how* it can be wound up, and 'voluntarily by applying to the Companies Commission of Malaysia' is a method, even if BNM's approval is also required for a regulated entity. [cite: 519]",
+        "textbook": "PCEIA",
+        "chapter": "Regulatory Framework for Insurers",
+        "page": "Inferred from regulatory and corporate law"
     },
-    "answer": "C",
-    "explanation": "While an insurance company can be wound up by a court order, a voluntary winding-up process typically involves applying to the Companies Commission of Malaysia (SSM) and following the procedures outlined in the Companies Act. However, due to the nature of insurance business and public interest, the winding up of an insurance company would also involve stringent oversight and approval from the financial regulator, Bank Negara Malaysia, as stated in D. The provided answer 'C' focuses on the Companies Commission of Malaysia which handles company registrations and general winding-up procedures, but for regulated financial institutions like insurance companies, BNM's approval is paramount. [cite_start]The question asks *how* it can be wound up, and 'voluntarily by applying to the Companies Commission of Malaysia' is a method, even if BNM's approval is also required for a regulated entity. [cite: 519]",
-    "textbook": "PCEIA",
-    "chapter": "Regulatory Framework for Insurers",
-    "page": "Inferred from regulatory and corporate law"
-  },
-  {
-    "questionNumber": 20,
-    "question": "Insurance companies in Malaysia are required to be incorporated as",
-    "options": {
-      "A": "private companies",
-      "B": "mutual companies",
-      "C": "public companies",
-      "D": "large corporations"
+    {
+        "questionNumber": 20,
+        "question": "Insurance companies in Malaysia are required to be incorporated as",
+        "options": {
+            "A": "private companies",
+            "B": "mutual companies",
+            "C": "public companies",
+            "D": "large corporations"
+        },
+        "answer": "C",
+        "explanation": "Insurance companies in Malaysia, due to their significant public interest and regulatory requirements, are typically required to be incorporated as 'public companies' under the Companies Act. [cite_start]This ensures a higher level of corporate governance, transparency, and accountability compared to private companies. [cite: 524]",
+        "textbook": "PCEIA",
+        "chapter": "Regulatory Framework for Insurers",
+        "page": "Inferred from regulatory framework"
     },
-    "answer": "C",
-    "explanation": "Insurance companies in Malaysia, due to their significant public interest and regulatory requirements, are typically required to be incorporated as 'public companies' under the Companies Act. [cite_start]This ensures a higher level of corporate governance, transparency, and accountability compared to private companies. [cite: 524]",
-    "textbook": "PCEIA",
-    "chapter": "Regulatory Framework for Insurers",
-    "page": "Inferred from regulatory framework"
-  }，
     {
         "questionNumber": 21,
         "question": "Insurance companies must _________________ in respect of Customer Due Diligence under the Anti Money Laundering and Counter Financing of Terrorism compliance guidelines.",
@@ -1301,214 +1301,214 @@
         "chapter": "Chapter 9: The Investment Process",
         "page": "133, Table 9.4"
     },
-  {
-    "questionNumber": 87,
-    "question": "“If the company defaults, the investor has no security and thus is in the same position as all the other unsecured creditors of the company. Investors may or may not get back their capital, depending on the company’s performance.” This statement is true of______________ stocks.",
-    "options": {
-      "A": "loan",
-      "B": "ordinary",
-      "C": "debenture",
-      "D": "convertible"
+    {
+        "questionNumber": 87,
+        "question": "“If the company defaults, the investor has no security and thus is in the same position as all the other unsecured creditors of the company. Investors may or may not get back their capital, depending on the company’s performance.” This statement is true of______________ stocks.",
+        "options": {
+            "A": "loan",
+            "B": "ordinary",
+            "C": "debenture",
+            "D": "convertible"
+        },
+        "answer": "A",
+        "explanation": "The provided statement accurately describes characteristics of **ordinary stocks (equities)**, where investors are owners and have no security, standing as unsecured creditors if the company defaults.For ordinary stocks, capital recovery depends entirely on company performance.Loan stocks (debentures) represent debt, where investors are creditors and typically have a higher claim on assets than equity holders. Given the provided answer is 'A. loan', there appears to be a discrepancy with the direct description in the textbook.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 136
     },
-    "answer": "A",
-    "explanation": "The provided statement accurately describes characteristics of **ordinary stocks (equities)**, where investors are owners and have no security, standing as unsecured creditors if the company defaults.For ordinary stocks, capital recovery depends entirely on company performance.Loan stocks (debentures) represent debt, where investors are creditors and typically have a higher claim on assets than equity holders. Given the provided answer is 'A. loan', there appears to be a discrepancy with the direct description in the textbook.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 9: The Investment Process",
-    "page": 136
-  },
-  {
-    "questionNumber": 88,
-    "question": "In the discount market, the difference between the discounted price and the par value is represented as the______________.",
-    "options": {
-      "A": "profit",
-      "B": "interest",
-      "C": "coupon",
-      "D": "yield"
+    {
+        "questionNumber": 88,
+        "question": "In the discount market, the difference between the discounted price and the par value is represented as the______________.",
+        "options": {
+            "A": "profit",
+            "B": "interest",
+            "C": "coupon",
+            "D": "yield"
+        },
+        "answer": "D",
+        "explanation": "In the discount market, particularly for instruments like Treasury bills, the difference between the discounted price and the par value represents the yield.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 137
     },
-    "answer": "D",
-    "explanation": "In the discount market, particularly for instruments like Treasury bills, the difference between the discounted price and the par value represents the yield.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 9: The Investment Process",
-    "page": 137
-  },
-  {
-    "questionNumber": 89,
-    "question": "A capital guaranteed fund works in the following way:",
-    "options": {
-      "A": "The fund guarantees the invested capital while on the other hand, the return is decided by the investor at a specific rate",
-      "B": "The fund guarantees a profit while on the other hand, the return is capped at a specific rate although the actual investment experience may be lower",
-      "C": "The fund guarantees the invested capital while on the other hand, the return is decided at a specific rate although the actual investment experience may be lower",
-      "D": "The fund guarantees the invested capital while on the other hand, the return is capped at a specific rate although the actual investment experience may be higher"
+    {
+        "questionNumber": 89,
+        "question": "A capital guaranteed fund works in the following way:",
+        "options": {
+            "A": "The fund guarantees the invested capital while on the other hand, the return is decided by the investor at a specific rate",
+            "B": "The fund guarantees a profit while on the other hand, the return is capped at a specific rate although the actual investment experience may be lower",
+            "C": "The fund guarantees the invested capital while on the other hand, the return is decided at a specific rate although the actual investment experience may be lower",
+            "D": "The fund guarantees the invested capital while on the other hand, the return is capped at a specific rate although the actual investment experience may be higher"
+        },
+        "answer": "D",
+        "explanation": "A capital guaranteed fund ensures the invested capital, but the return is typically capped at a specific rate, even if the actual investment performance is higher.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 139
     },
-    "answer": "D",
-    "explanation": "A capital guaranteed fund ensures the invested capital, but the return is typically capped at a specific rate, even if the actual investment performance is higher.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 9: The Investment Process",
-    "page": 139
-  },
-  {
-    "questionNumber": 90,
-    "question": "Commodities, whether related to food, energy or metals, represent an avenue for investors to venture out of stocks or bonds with the objective of gaining from price movements and the popular way to do so is by",
-    "options": {
-      "A": "investing directly into commodities-based stocks",
-      "B": "purchasing stocks listed on Bursa Malaysia",
-      "C": "purchasing a futures contract",
-      "D": "purchasing a company involved in commodities"
+    {
+        "questionNumber": 90,
+        "question": "Commodities, whether related to food, energy or metals, represent an avenue for investors to venture out of stocks or bonds with the objective of gaining from price movements and the popular way to do so is by",
+        "options": {
+            "A": "investing directly into commodities-based stocks",
+            "B": "purchasing stocks listed on Bursa Malaysia",
+            "C": "purchasing a futures contract",
+            "D": "purchasing a company involved in commodities"
+        },
+        "answer": "C",
+        "explanation": "A popular method for investors to gain from commodity price movements is by purchasing a futures contract.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 139
     },
-    "answer": "C",
-    "explanation": "A popular method for investors to gain from commodity price movements is by purchasing a futures contract.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 9: The Investment Process",
-    "page": 139
-  },
-  {
-    "questionNumber": 91,
-    "question": "Which of the following statement is NOT true regarding treasury bills?",
-    "options": {
-      "A": "Institutional investors are the main buyers of treasury bills",
-      "B": "Treasury bills are long-term government funding vehicles",
-      "C": "The difference between the discounted price and the par value represents the yield",
-      "D": "Treasury bills are issued by Bank Negara Malaysia"
+    {
+        "questionNumber": 91,
+        "question": "Which of the following statement is NOT true regarding treasury bills?",
+        "options": {
+            "A": "Institutional investors are the main buyers of treasury bills",
+            "B": "Treasury bills are long-term government funding vehicles",
+            "C": "The difference between the discounted price and the par value represents the yield",
+            "D": "Treasury bills are issued by Bank Negara Malaysia"
+        },
+        "answer": "B",
+        "explanation": "Treasury bills are described as short-term government funding vehicles, making the statement that they are long-term 'NOT true'.Other statements such as institutional investors being main buyers, the yield being the difference between discounted price and par value, and issuance by Bank Negara Malaysia are true characteristics of Treasury bills.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 137
     },
-    "answer": "B",
-    "explanation": "Treasury bills are described as short-term government funding vehicles, making the statement that they are long-term 'NOT true'.Other statements such as institutional investors being main buyers, the yield being the difference between discounted price and par value, and issuance by Bank Negara Malaysia are true characteristics of Treasury bills.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 9: The Investment Process",
-    "page": 137
-  },
-  {
-    "questionNumber": 92,
-    "question": "The main activity of a property fund is",
-    "options": {
-      "A": "buying and selling of property in the secondary market",
-      "B": "buying and selling of property development companies",
-      "C": "investing of all the fund into real estate",
-      "D": "acquiring stocks in development companies"
+    {
+        "questionNumber": 92,
+        "question": "The main activity of a property fund is",
+        "options": {
+            "A": "buying and selling of property in the secondary market",
+            "B": "buying and selling of property development companies",
+            "C": "investing of all the fund into real estate",
+            "D": "acquiring stocks in development companies"
+        },
+        "answer": "C",
+        "explanation": "The primary activity of a property fund is investing the entire fund into real estate.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 138
     },
-    "answer": "C",
-    "explanation": "The primary activity of a property fund is investing the entire fund into real estate.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 9: The Investment Process",
-    "page": 138
-  },
-  {
-    "questionNumber": 93,
-    "question": "The following statement about equities is correct:",
-    "options": {
-      "A": "Equity prices can be very steady when the stock market faces a downturn over an extended period",
-      "B": "Equity prices can rise against the mainstream when the stock market faces a downturn over an extended period",
-      "C": "Return potentials for equities can be significantly lower, especially during periods of market buoyancy",
-      "D": "Return potentials for equities can be significantly higher, especially during periods of market buoyancy"
+    {
+        "questionNumber": 93,
+        "question": "The following statement about equities is correct:",
+        "options": {
+            "A": "Equity prices can be very steady when the stock market faces a downturn over an extended period",
+            "B": "Equity prices can rise against the mainstream when the stock market faces a downturn over an extended period",
+            "C": "Return potentials for equities can be significantly lower, especially during periods of market buoyancy",
+            "D": "Return potentials for equities can be significantly higher, especially during periods of market buoyancy"
+        },
+        "answer": "D",
+        "explanation": "Return potentials for equities can be significantly higher, particularly during periods of strong market performance or buoyancy.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 136
     },
-    "answer": "D",
-    "explanation": "Return potentials for equities can be significantly higher, particularly during periods of strong market performance or buoyancy.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 9: The Investment Process",
-    "page": 136
-  },
-  {
-    "questionNumber": 94,
-    "question": "The BNM Guidelines on Investment-Linked Business state that the initial offer period (of a new fund) must not",
-    "options": {
-      "A": "be less than two months",
-      "B": "exceed one month",
-      "C": "be less than one month",
-      "D": "exceed two months"
+    {
+        "questionNumber": 94,
+        "question": "The BNM Guidelines on Investment-Linked Business state that the initial offer period (of a new fund) must not",
+        "options": {
+            "A": "be less than two months",
+            "B": "exceed one month",
+            "C": "be less than one month",
+            "D": "exceed two months"
+        },
+        "answer": "D",
+        "explanation": "According to the BNM Guidelines on Investment-Linked Business, the initial offer period for a new fund must not exceed two months.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 10: Regulatory Requirements",
+        "page": 143
     },
-    "answer": "D",
-    "explanation": "According to the BNM Guidelines on Investment-Linked Business, the initial offer period for a new fund must not exceed two months.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 10: Regulatory Requirements",
-    "page": 143
-  },
-  {
-    "questionNumber": 95,
-    "question": "The following is stated in the BNM Guidelines on Investment-Linked Business regarding the requirement for minimum death benefits and top-up premiums:",
-    "options": {
-      "A": "The requirement for minimum death benefits does not apply to top-up premiums; thus, the whole of the top-up premiums can be used to purchase units",
-      "B": "The requirement for minimum death benefits does not apply to top-up premiums but some of top-up premiums must be used to purchase the leverage premium",
-      "C": "The requirement for minimum death benefits applies to top-up premiums; thus, the whole of the top-up premiums cannot be used to purchase units",
-      "D": "There is a special requirement for minimum death benefits for top-up premiums which is half of the basic requirement; thus, some of the top-up premiums must be used to pay the cost of insurance"
+    {
+        "questionNumber": 95,
+        "question": "The following is stated in the BNM Guidelines on Investment-Linked Business regarding the requirement for minimum death benefits and top-up premiums:",
+        "options": {
+            "A": "The requirement for minimum death benefits does not apply to top-up premiums; thus, the whole of the top-up premiums can be used to purchase units",
+            "B": "The requirement for minimum death benefits does not apply to top-up premiums but some of top-up premiums must be used to purchase the leverage premium",
+            "C": "The requirement for minimum death benefits applies to top-up premiums; thus, the whole of the top-up premiums cannot be used to purchase units",
+            "D": "There is a special requirement for minimum death benefits for top-up premiums which is half of the basic requirement; thus, some of the top-up premiums must be used to pay the cost of insurance"
+        },
+        "answer": "A",
+        "explanation": "BNM Guidelines on Investment-Linked Business state that the requirement for minimum death benefits does not apply to top-up premiums, allowing the entire top-up premium to be used for purchasing units.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 10: Regulatory Requirements",
+        "page": 144
     },
-    "answer": "A",
-    "explanation": "BNM Guidelines on Investment-Linked Business state that the requirement for minimum death benefits does not apply to top-up premiums, allowing the entire top-up premium to be used for purchasing units.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 10: Regulatory Requirements",
-    "page": 144
-  },
-  {
-    "questionNumber": 96,
-    "question": "When meeting with a prospective policy owner, the first and most important act of the life insurance agent is to",
-    "options": {
-      "A": "share with the prospective policy owner the benefits available if he/she decides to purchase the investment-linked products and the cost involved",
-      "B": "share with the prospective policy owner the disadvantages of competitors’ products",
-      "C": "make it known which insurance company he represents and produce his Registered Intermediary Authorisation Card to identify himself",
-      "D": "make known to the prospect his position in the company, the product he is selling to the prospective policy owner and the cost involved"
+    {
+        "questionNumber": 96,
+        "question": "When meeting with a prospective policy owner, the first and most important act of the life insurance agent is to",
+        "options": {
+            "A": "share with the prospective policy owner the benefits available if he/she decides to purchase the investment-linked products and the cost involved",
+            "B": "share with the prospective policy owner the disadvantages of competitors’ products",
+            "C": "make it known which insurance company he represents and produce his Registered Intermediary Authorisation Card to identify himself",
+            "D": "make known to the prospect his position in the company, the product he is selling to the prospective policy owner and the cost involved"
+        },
+        "answer": "C",
+        "explanation": "The first and most important act of the agent is to make known the insurance company he represents and produce his Registered Intermediary Authorisation Card to identify himself. Additionally, the agent should inform the prospective policy owner about his position in the company, the product being sold, and its cost",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+        "page": 147
     },
-    "answer": "C",
-    "explanation": "The first and most important act of the agent is to make known the insurance company he represents and produce his Registered Intermediary Authorisation Card to identify himself. Additionally, the agent should inform the prospective policy owner about his position in the company, the product being sold, and its cost",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 11: The Agent and Investment-Linked Business",
-    "page": 147
-  },
-  {
-    "questionNumber": 97,
-    "question": "The following is a consequence of replacing a policy of the same type:",
-    "options": {
-      "A": "The insured will enjoy a lower premium",
-      "B": "The new policy will provide better benefits to the policy owner",
-      "C": "Any replacement of the same type of policy will be at a higher premium rate as the insured’s age will have increased",
-      "D": "The new policy will be an improved one and be cheaper, benefitting the policy owner"
+    {
+        "questionNumber": 97,
+        "question": "The following is a consequence of replacing a policy of the same type:",
+        "options": {
+            "A": "The insured will enjoy a lower premium",
+            "B": "The new policy will provide better benefits to the policy owner",
+            "C": "Any replacement of the same type of policy will be at a higher premium rate as the insured’s age will have increased",
+            "D": "The new policy will be an improved one and be cheaper, benefitting the policy owner"
+        },
+        "answer": "C",
+        "explanation": "A consequence of replacing a policy of the same type is that the new policy will generally come with a higher premium rate due to the insured's increased age.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+        "page": 149
     },
-    "answer": "C",
-    "explanation": "A consequence of replacing a policy of the same type is that the new policy will generally come with a higher premium rate due to the insured's increased age.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 11: The Agent and Investment-Linked Business",
-    "page": 149
-  },
-  {
-    "questionNumber": 98,
-    "question": "Select from the following how the objective of satisfying a customer’s requirements can be achieved. I. Conducting a financial needs analysis II. Understanding the sales illustrations provided by the company III. Understanding the product information as provided by the company IV. Showing customers the agent’s income statement to impress them",
-    "options": {
-      "A": "I, II and III",
-      "B": "I, II and IV",
-      "C": "II, III and IV",
-      "D": "I, II,III and IV"
+    {
+        "questionNumber": 98,
+        "question": "Select from the following how the objective of satisfying a customer’s requirements can be achieved. I. Conducting a financial needs analysis II. Understanding the sales illustrations provided by the company III. Understanding the product information as provided by the company IV. Showing customers the agent’s income statement to impress them",
+        "options": {
+            "A": "I, II and III",
+            "B": "I, II and IV",
+            "C": "II, III and IV",
+            "D": "I, II,III and IV"
+        },
+        "answer": "A",
+        "explanation": "Satisfying customer requirements involves conducting a financial needs analysis, understanding sales illustrations, and understanding product information provided by the company.Showing an agent's income statement is not a method mentioned for achieving this objective.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+        "page": 147
     },
-    "answer": "A",
-    "explanation": "Satisfying customer requirements involves conducting a financial needs analysis, understanding sales illustrations, and understanding product information provided by the company.Showing an agent's income statement is not a method mentioned for achieving this objective.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 11: The Agent and Investment-Linked Business",
-    "page": 147
-  },
-  {
-    "questionNumber": 99,
-    "question": "When an intermediary is supplied with an illustration by the insurer, the intermediary should",
-    "options": {
-      "A": "keep the illustration in the proposal form and only provide a verbal explanation of the illustration to the proposer",
-      "B": "highlight only the part of the illustration that will attract the proposer",
-      "C": "use the whole illustration and show it to the proposer and not add to it or hide any part of it",
-      "D": "be creative and produce an enhanced version of the illustration to attract the proposer"
+    {
+        "questionNumber": 99,
+        "question": "When an intermediary is supplied with an illustration by the insurer, the intermediary should",
+        "options": {
+            "A": "keep the illustration in the proposal form and only provide a verbal explanation of the illustration to the proposer",
+            "B": "highlight only the part of the illustration that will attract the proposer",
+            "C": "use the whole illustration and show it to the proposer and not add to it or hide any part of it",
+            "D": "be creative and produce an enhanced version of the illustration to attract the proposer"
+        },
+        "answer": "C",
+        "explanation": "Intermediaries are required to use the entire illustration provided by the insurer, present it completely to the proposer, and refrain from adding to or hiding any part of it.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+        "page": 148
     },
-    "answer": "C",
-    "explanation": "Intermediaries are required to use the entire illustration provided by the insurer, present it completely to the proposer, and refrain from adding to or hiding any part of it.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 11: The Agent and Investment-Linked Business",
-    "page": 148
-  },
-  {
-    "questionNumber": 100,
-    "question": "Identify what happens if a policy owner lapses a policy and purchases a new one",
-    "options": {
-      "A": "The proposer may opt to transfer the old premium to the new policy",
-      "B": "The suicide clause and incontestable clause begin anew in a new policy",
-      "C": "The suicidal and incontestability clause will not be disrupted as the proposer is the same person",
-      "D": "The new policy may be rejected because the old policy is still active"
-    },
-    "answer": "B",
-    "explanation": "If a policy owner lapses an existing policy and purchases a new one, the suicide clause and incontestable clause in the new policy will begin anew.",
-    "textbook": "CEILLI New Edition Textbook (English)",
-    "chapter": "Chapter 11: The Agent and Investment-Linked Business",
-    "page": 149
-  }
+    {
+        "questionNumber": 100,
+        "question": "Identify what happens if a policy owner lapses a policy and purchases a new one",
+        "options": {
+            "A": "The proposer may opt to transfer the old premium to the new policy",
+            "B": "The suicide clause and incontestable clause begin anew in a new policy",
+            "C": "The suicidal and incontestability clause will not be disrupted as the proposer is the same person",
+            "D": "The new policy may be rejected because the old policy is still active"
+        },
+        "answer": "B",
+        "explanation": "If a policy owner lapses an existing policy and purchases a new one, the suicide clause and incontestable clause in the new policy will begin anew.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+        "page": 149
+    }
 ]
