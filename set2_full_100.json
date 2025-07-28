@@ -149,151 +149,157 @@
     "chapter": "Underwriting: Material Facts in Life Insurance",
     "page": "Inferred from underwriting principles"
   },
-    {
-        "questionNumber": 11,
-        "question": "Which of the following is NOT a function of insurance?",
-        "options": {
-            "A": "Spreading of risk",
-            "B": "Eliminating risks completely",
-            "C": "Providing peace of mind",
-            "D": "Encouraging savings"
-        },
-        "answer": "B",
-        "explanation": "Insurance cannot eliminate risks but rather provides financial compensation when risks materialize.",
-        "textbook": "PCEIA",
-        "chapter": "Chapter 1: Introduction to Insurance",
-        "page": 3
+   {
+    "question_number": 11,
+    "question_text": "Which of the following describes the difference between an 'insurance agent' and an 'insurance broker'?",
+    "options": {
+      "A": "An insurance agent represents the client; an insurance broker represents the insurer.",
+      "B": "An insurance agent is employed by the insurer; an insurance broker is an independent contractor.",
+      "C": "An insurance agent represents the insurer; an insurance broker represents the client.",
+      "D": "An insurance agent is paid by commission only; an insurance broker is paid by salary only."
     },
-    {
-        "questionNumber": 12,
-        "question": "Which of the following is NOT a type of insurance classification?",
-        "options": {
-            "A": "Life insurance",
-            "B": "Health insurance",
-            "C": "Education insurance",
-            "D": "General insurance"
-        },
-        "answer": "C",
-        "explanation": "Education insurance is typically a savings or investment-linked product. It is not a major insurance classification like life or general insurance.",
-        "textbook": "PCEIA",
-        "chapter": "Chapter 1: Introduction to Insurance",
-        "page": 5
+    "provided_answer": "C",
+    "explanation": "An insurance agent acts on behalf of one or more insurance companies (the insurer), while an insurance broker acts on behalf of the client, seeking the best coverage from various insurers.",
+    "textbook": "PCEIA",
+    "chapter": "Insurance Market Participants",
+    "page": "Inferred from roles of intermediaries"
+  },
+  {
+    "question_number": 12,
+    "question_text": "Which of the following is NOT an advantage of insurance to society?",
+    "options": {
+      "A": "Encourages saving and investment",
+      "B": "Increases competition among industries",
+      "C": "Promotes loss prevention",
+      "D": "Provides capital for economic development"
     },
-    {
-        "questionNumber": 13,
-        "question": "A contract is voidable if one party fails to:",
-        "options": {
-            "A": "disclose immaterial facts",
-            "B": "accept payment",
-            "C": "sign the document",
-            "D": "disclose material facts"
-        },
-        "answer": "D",
-        "explanation": "Failure to disclose material facts allows the other party to void the contract under the principle of utmost good faith.",
-        "textbook": "PCEIA",
-        "chapter": "Chapter 3: Legal Principles of Insurance",
-        "page": 18
+    "provided_answer": "B",
+    "explanation": "While insurance can contribute to a stable economic environment that indirectly fosters competition, increasing competition among industries is not a direct advantage or primary function of insurance to society. Insurance directly encourages saving/investment, promotes loss prevention, and provides capital.",
+    "textbook": "PCEIA",
+    "chapter": "Social and Economic Benefits of Insurance",
+    "page": "Inferred from benefits of insurance"
+  },
+  {
+    "question_number": 13,
+    "question_text": "Which of the following is TRUE about the 'principle of indemnity' in insurance?",
+    "options": {
+      "A": "It allows the insured to make a profit from a loss.",
+      "B": "It ensures the insured is returned to the same financial position as before the loss.",
+      "C": "It applies to all types of insurance contracts.",
+      "D": "It requires the insured to have an insurable interest only at the time of claim."
     },
-    {
-        "questionNumber": 14,
-        "question": "Which principle prevents the insured from profiting from a loss?",
-        "options": {
-            "A": "Utmost Good Faith",
-            "B": "Subrogation",
-            "C": "Indemnity",
-            "D": "Contribution"
-        },
-        "answer": "C",
-        "explanation": "The principle of indemnity ensures that the insured is restored to their financial position before the loss, without gain.",
-        "textbook": "PCEIA",
-        "chapter": "Chapter 3: Legal Principles of Insurance",
-        "page": 19
+    "provided_answer": "B",
+    "explanation": "The principle of indemnity aims to ensure that the insured is compensated for their actual loss, putting them back in the same financial position they were in immediately before the loss occurred, without making a profit. It primarily applies to general insurance and not typically to life or personal accident insurance.",
+    "textbook": "PCEIA",
+    "chapter": "Principles of Insurance: Indemnity",
+    "page": "Inferred from principles of insurance"
+  },
+  {
+    "question_number": 14,
+    "question_text": "A 'material fact' in an insurance contract is a fact that:",
+    "options": {
+      "A": "is known to both the insurer and the insured.",
+      "B": "is irrelevant to the insurer's decision to accept the risk.",
+      "C": "would influence a prudent insurer in deciding whether to accept a risk and on what terms.",
+      "D": "only needs to be disclosed if specifically asked by the insurer."
     },
-    {
-        "questionNumber": 15,
-        "question": "Which of the following is NOT part of a standard insurance contract?",
-        "options": {
-            "A": "Proposal Form",
-            "B": "Policy Document",
-            "C": "Premium Receipt",
-            "D": "Bonus Statement"
-        },
-        "answer": "D",
-        "explanation": "A bonus statement is relevant for participating life policies but not a standard component of all insurance contracts.",
-        "textbook": "PCEIA",
-        "chapter": "Chapter 4: Insurance Documentation",
-        "page": 25
+    "provided_answer": "C",
+    "explanation": "A material fact is any information that would influence a prudent insurer's decision regarding whether to accept an insurance risk, and if so, on what terms and premium. Both the insured and the insurer have a duty to disclose all material facts.",
+    "textbook": "PCEIA",
+    "chapter": "Principles of Insurance: Utmost Good Faith",
+    "page": "Inferred from principles of insurance"
+  },
+  {
+    "question_number": 15,
+    "question_text": "The doctrine of 'utmost good faith' (uberrimae fidei) requires:",
+    "options": {
+      "A": "the insurer to treat all claims equally.",
+      "B": "both parties to an insurance contract to disclose all material facts.",
+      "C": "the insured to prove their loss beyond reasonable doubt.",
+      "D": "the insurer to pay all claims regardless of the circumstances."
     },
-    {
-        "questionNumber": 16,
-        "question": "When does an insurance contract become legally binding?",
-        "options": {
-            "A": "When the insurer receives the proposal",
-            "B": "When the premium is paid",
-            "C": "When the insurer issues a cover note or policy",
-            "D": "When the agent signs the proposal"
-        },
-        "answer": "C",
-        "explanation": "The contract becomes binding when the insurer formally accepts the offer and issues a policy or cover note.",
-        "textbook": "PCEIA",
-        "chapter": "Chapter 3: Legal Principles of Insurance",
-        "page": 17
+    "provided_answer": "B",
+    "explanation": "The principle of utmost good faith (uberrimae fidei) dictates that both the insurer and the insured must honestly disclose all material facts relevant to the insurance contract to each other before the contract is formed.",
+    "textbook": "PCEIA",
+    "chapter": "Principles of Insurance: Utmost Good Faith",
+    "page": "Inferred from principles of insurance"
+  },
+  {
+    "question_number": 16,
+    "question_text": "What is the primary purpose of 'subrogation' in insurance?",
+    "options": {
+      "A": "To allow the insured to recover more than their actual loss.",
+      "B": "To prevent double recovery by the insured.",
+      "C": "To allow the insurer to recover from a third party responsible for the loss.",
+      "D": "To facilitate the transfer of risk from the insured to the insurer."
     },
-    {
-        "questionNumber": 17,
-        "question": "What is the purpose of a proposal form in insurance?",
-        "options": {
-            "A": "To list terms of coverage",
-            "B": "To capture underwriting information",
-            "C": "To confirm claim payout",
-            "D": "To issue cover note"
-        },
-        "answer": "B",
-        "explanation": "A proposal form collects detailed information about the proposer to help the insurer assess risk and decide on acceptance.",
-        "textbook": "PCEIA",
-        "chapter": "Chapter 4: Insurance Documentation",
-        "page": 26
+    "provided_answer": "C",
+    "explanation": "Subrogation is a legal principle where, after paying a claim to the insured, the insurer steps into the shoes of the insured to pursue recovery from any third party responsible for the loss. Its primary purpose is to allow the insurer to recover the amount paid to the insured from the at-fault party and to prevent the insured from profiting from the loss.",
+    "textbook": "PCEIA",
+    "chapter": "Principles of Insurance: Subrogation",
+    "page": "Inferred from principles of insurance"
+  },
+  {
+    "question_number": 17,
+    "question_text": "An insurable interest exists when the insured would:",
+    "options": {
+      "A": "benefit financially from the non-occurrence of a loss.",
+      "B": "suffer a financial loss if the insured event occurs.",
+      "C": "have no financial connection to the subject matter of insurance.",
+      "D": "be able to choose the insurer of their preference."
     },
-    {
-        "questionNumber": 18,
-        "question": "An insurance cover note serves as:",
-        "options": {
-            "A": "Proof of claim approval",
-            "B": "Legal evidence of premium paid",
-            "C": "Temporary evidence of cover before policy issuance",
-            "D": "Receipt of full indemnity"
-        },
-        "answer": "C",
-        "explanation": "A cover note is a temporary document issued before the final policy is prepared, confirming provisional insurance coverage.",
-        "textbook": "PCEIA",
-        "chapter": "Chapter 4: Insurance Documentation",
-        "page": 27
+    "provided_answer": "B",
+    "explanation": "An insurable interest is a financial or economic stake in the subject matter of insurance. It exists when the insured would suffer a direct financial loss if the insured event (peril) occurs, or would benefit financially from its continued existence. Without an insurable interest, an insurance contract is merely a wager and unenforceable.",
+    "textbook": "PCEIA",
+    "chapter": "Principles of Insurance: Insurable Interest",
+    "page": "Inferred from principles of insurance"
+  },
+  {
+    "question_number": 18,
+    "question_text": "The 'proximate cause' in insurance refers to the:",
+    "options": {
+      "A": "first event in a chain of events leading to a loss.",
+      "B": "dominant and efficient cause of the loss, not necessarily the first or last.",
+      "C": "most recent event that immediately precedes the loss.",
+      "D": "only cause of the loss that is explicitly mentioned in the policy."
     },
-    {
-        "questionNumber": 19,
-        "question": "Which party is responsible for interpreting the insurance contract?",
-        "options": {
-            "A": "Agent",
-            "B": "Insured",
-            "C": "Insurer",
-            "D": "Court of law"
-        },
-        "answer": "D",
-        "explanation": "If there is a dispute over the interpretation of a contract, the courts have the final authority to interpret its terms.",
-        "textbook": "PCEIA",
-        "chapter": "Chapter 3: Legal Principles of Insurance",
-        "page": 22
+    "provided_answer": "B",
+    "explanation": "The principle of proximate cause states that for a loss to be covered by an insurance policy, the loss must be directly and predominantly caused by an insured peril. It is the dominant, effective, or efficient cause of the loss, even if other minor causes are present.",
+    "textbook": "PCEIA",
+    "chapter": "Principles of Insurance: Proximate Cause",
+    "page": "Inferred from principles of insurance"
+  },
+  {
+    "question_number": 19,
+    "question_text": "What is the purpose of a 'deductible' (or excess) in an insurance policy?",
+    "options": {
+      "A": "To increase the premium paid by the insured.",
+      "B": "To ensure the insurer pays for all losses, regardless of size.",
+      "C": "To discourage small claims and reduce moral hazard.",
+      "D": "To allow the insured to choose their preferred repairer."
     },
-    {
-        "questionNumber": 20,
-        "question": "Which type of insurance provides payment of benefit only upon the happening of the insured event?",
-        "options": {
-            "A": "Participating life policy",
-            "B": "Pure risk policy",
-            "C": "Investment-linked policy",
-            "D": "Term insurance"
-        },
-        "answer": "D",
+    "provided_answer": "C",
+    "explanation": "A deductible (or excess) is the amount of loss that the insured must bear before the insurer begins to pay for the remaining loss. Its purpose is to discourage small claims, reduce administrative costs for the insurer, and reduce moral hazard by ensuring the insured has some financial stake in preventing losses.",
+    "textbook": "PCEIA",
+    "chapter": "Insurance Policy Terms",
+    "page": "Inferred from policy terms"
+  },
+  {
+    "question_number": 20,
+    "question_text": "Which of the following is an example of 'moral hazard' in insurance?",
+    "options": {
+      "A": "An increase in house fires due to a heatwave.",
+      "B": "A driver becoming more careful after installing a tracking device.",
+      "C": "An insured person intentionally damaging their car to claim insurance.",
+      "D": "A factory implementing new safety measures to reduce accidents."
+    },
+    "provided_answer": "C",
+    "explanation": "Moral hazard refers to the increased risk or likelihood of loss due to a change in behavior by an insured person, often occurring after obtaining insurance. This change is typically driven by the fact that the insured no longer bears the full cost of the loss. Intentionally damaging property to claim insurance is a direct example of moral hazard.",
+    "textbook": "PCEIA",
+    "chapter": "Risk and Insurance",
+    "page": "Inferred from risk concepts"
+  }
+  "answer": "D",
         "explanation": "Term insurance provides coverage for a specific period and pays only if the insured event (e.g., death) occurs within that term.",
         "textbook": "PCEIA",
         "chapter": "Chapter 5: Types of Life Insurance",
