@@ -108,5 +108,115 @@
       "D": "RM 6,000"
     },
     "answer": "C"
+  },
+  {
+    "questionNumber": 11,
+    "question": "What fund is used to determine investment return for a with-profit life insurance policy?",
+    "options": {
+      "A": "Investment fund",
+      "B": "Fixed asset fund",
+      "C": "Life fund of the insurer",
+      "D": "Excess of premium over classes fund"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 12,
+    "question": "Short-term government funding issued on a regular basis with payment normally within a year is known as?",
+    "options": {
+      "A": "Government bond",
+      "B": "Central bank bills",
+      "C": "Finance bills",
+      "D": "Treasury bills"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 13,
+    "question": "Which of the following is NOT a characteristic of SUKUK bonds?",
+    "options": {
+      "A": "They are issued by pooled funds",
+      "B": "They may be guaranteed or not by originator",
+      "C": "They are based on hard assets that generate steady income and expectation",
+      "D": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "questionNumber": 14,
+    "question": "Some of the information contained in sales materials to ensure adequate disclosure and transparency of investment-linked life insurance policy is:\nI. A general description of the investment policy and objective of the fund\nII. The basis and frequency of valuation of assets underlying the fund\nIII. Guarantee\nIV. Clear information that the investment risks are to be borne by the policy owners",
+    "options": {
+      "A": "I, II and III",
+      "B": "II, III and IV",
+      "C": "I, II and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 15,
+    "question": "What are the overriding obligations of intermediaries?\nI. To sell only for one insurer\nII. To conduct business at all time with utmost good faith\nIII. To uphold integrity in conducting business\nIV. To satisfy all customer demands",
+    "options": {
+      "A": "I and IV",
+      "B": "I, II and III",
+      "C": "II and III",
+      "D": "III and IV"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 16,
+    "question": "Using the single pricing method, calculate the cash value of 4000 units at unit price of RM1, a mortality charge of 2% and a RM100 policy fee.",
+    "options": {
+      "A": "RM 3500",
+      "B": "RM 3800",
+      "C": "RM 3820",
+      "D": "RM 3620"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 17,
+    "question": "Which of the following statements is true regarding convertible stocks?",
+    "options": {
+      "A": "Convertible stocks can be converted to fixed income security",
+      "B": "The decision to convert depends on the permission of the securities commission",
+      "C": "The investor is entitled to a share of the company’s profit through dividends declared",
+      "D": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 18,
+    "question": "All life insurers have made it mandatory for agents to submit duly completed ______ together with new business proposal form.",
+    "options": {
+      "A": "Option form",
+      "B": "Medical reports",
+      "C": "Customer fact find form",
+      "D": "All of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 19,
+    "question": "Funds that are restricted to investment in particular geographical regions or industries are known as ______ funds.",
+    "options": {
+      "A": "Bond",
+      "B": "Managed",
+      "C": "Specialized",
+      "D": "Balanced"
+    },
+    "answer": "C"
+  },
+  {
+    "questionNumber": 20,
+    "question": "The premium relief is allowable when the _____ is on the life of the spouse of the individual.\nI. Life insurance\nII. Deferred annuity\nIII. General insurance",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II",
+      "D": "II and III"
+    },
+    "answer": "A"
   }
 ]
