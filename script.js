@@ -34,52 +34,28 @@ function displayQuestion(num) {
       if (key === savedAnswer && savedAnswer !== q.answer) btn.classList.add('incorrect');
     }
 
-    btn.onclick = () => checkAnswer(btn, key, q.answer, q.explanation, q.textbook, q.chapter, q.page);
+    btn.onclick = () => checkAnswer(btn, key, q.answer);
     optionsContainer.appendChild(btn);
   }
 
   document.getElementById('feedback').innerText = '';
-  document.getElementById('explanation').innerHTML = '';
-  document.getElementById('explanation').style.display = 'none';
-  document.getElementById('toggle-explanation').style.display = 'none';
-  document.getElementById('toggle-explanation').innerText = 'Show Explanation';
-
-  const savedAnswer = localStorage.getItem(`answer_${num}`);
-  const explanationShown = localStorage.getItem(`explanation_${num}`) === 'true';
-
-  if (savedAnswer) {
-    showFeedback(q.answer, savedAnswer, q.explanation, q.textbook, q.chapter, q.page);
-    if (explanationShown) {
-      document.getElementById('explanation').style.display = 'block';
-      document.getElementById('toggle-explanation').innerText = 'Hide Explanation';
-    }
-    document.getElementById('toggle-explanation').style.display = 'inline-block';
-  }
-
   updateScoreDisplay();
 }
 
-function checkAnswer(button, selected, correct, explanation, textbook, chapter, page) {
+function checkAnswer(button, selected, correct) {
   const buttons = document.querySelectorAll('#options-container button');
   buttons.forEach(btn => {
     btn.classList.add('disabled');
     btn.disabled = true;
-    if (btn.innerText.startsWith(correct)) {
+    if (btn.innerText.startsWith(`${correct}.`)) {
       btn.classList.add('correct');
     }
-    if (btn.innerText.startsWith(selected) && selected !== correct) {
+    if (btn.innerText.startsWith(`${selected}.`) && selected !== correct) {
       btn.classList.add('incorrect');
     }
   });
 
   document.getElementById('feedback').innerText = `Correct answer: ${correct}`;
-  document.getElementById('toggle-explanation').style.display = 'inline-block';
-  document.getElementById('toggle-explanation').innerText = 'Show Explanation';
-  document.getElementById('explanation').style.display = 'none';
-  document.getElementById('explanation').innerHTML = `
-    <strong>Explanation:</strong><br>${explanation}<br><br>
-    <em>Reference: ${textbook}</em>
-  `;
 
   const previous = localStorage.getItem(`answer_${currentQuestion}`);
   if (!previous) {
@@ -88,24 +64,7 @@ function checkAnswer(button, selected, correct, explanation, textbook, chapter, 
   }
 
   localStorage.setItem(`answer_${currentQuestion}`, selected);
-  localStorage.setItem(`explanation_${currentQuestion}`, 'false');
-
   updateScoreDisplay();
-}
-
-function toggleExplanation() {
-  const exp = document.getElementById('explanation');
-  const isHidden = exp.style.display === 'none';
-
-  if (isHidden) {
-    exp.style.display = 'block';
-    document.getElementById('toggle-explanation').innerText = 'Hide Explanation';
-    localStorage.setItem(`explanation_${currentQuestion}`, 'true');
-  } else {
-    exp.style.display = 'none';
-    document.getElementById('toggle-explanation').innerText = 'Show Explanation';
-    localStorage.setItem(`explanation_${currentQuestion}`, 'false');
-  }
 }
 
 function nextQuestion() {
