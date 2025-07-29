@@ -22,7 +22,7 @@ function displayQuestion(num) {
 
   for (let key in q.options) {
     const btn = document.createElement('button');
-    btn.innerText = `${key}. ${q.options[key]}`;
+    btn.textContent = `${key}. ${q.options[key]}`;
     btn.className = 'option';
     btn.disabled = false;
 
