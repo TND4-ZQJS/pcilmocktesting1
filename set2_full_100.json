@@ -1,1502 +1,1514 @@
 [
-  {
-    "questionNumber": 1,
-    "question": "General insurance contracts provide cover against the following risks, EXCEPT:",
-    "options": {
-      "A": "damage to property",
-      "B": "motor car accident",
-      "C": "natural death",
-      "D": "legal liability"
-    },
-    "answer": "C",
-    "explanation": "General insurance covers financial loss from unforeseen events like accidents or damage to property. Natural death is covered by life insurance, not general insurance.",
-    "textbook": "PCEIA",
-    "chapter": "Types of Insurance",
-    "page": 74
-  },
-  {
-    "questionNumber": 2,
-    "question": "______________ buy insurance products.",
-    "options": {
-      "A": "Insurance and reinsurance companies",
-      "B": "Individuals and business entities",
-      "C": "Lloyd\u2019s underwriting members",
-      "D": "Insurance brokers and agents"
-    },
-    "answer": "B",
-    "explanation": "Insurance products are primarily purchased by individuals and business entities to protect against financial risks or losses.",
-    "textbook": "PCEIA",
-    "chapter": "The Insurance Market",
-    "page": 12
-  },
-  {
-    "questionNumber": 3,
-    "question": "Sample question text 3?",
-    "options": {
-      "A": "Option A3",
-      "B": "Option B3",
-      "C": "Option C3",
-      "D": "Option D3"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 3.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 13
-  },
-  {
-    "questionNumber": 4,
-    "question": "Sample question text 4?",
-    "options": {
-      "A": "Option A4",
-      "B": "Option B4",
-      "C": "Option C4",
-      "D": "Option D4"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 4.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 14
-  },
-  {
-    "questionNumber": 5,
-    "question": "Sample question text 5?",
-    "options": {
-      "A": "Option A5",
-      "B": "Option B5",
-      "C": "Option C5",
-      "D": "Option D5"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 5.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 15
-  },
-  {
-    "questionNumber": 6,
-    "question": "Sample question text 6?",
-    "options": {
-      "A": "Option A6",
-      "B": "Option B6",
-      "C": "Option C6",
-      "D": "Option D6"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 6.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 16
-  },
-  {
-    "questionNumber": 7,
-    "question": "Sample question text 7?",
-    "options": {
-      "A": "Option A7",
-      "B": "Option B7",
-      "C": "Option C7",
-      "D": "Option D7"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 7.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 17
-  },
-  {
-    "questionNumber": 8,
-    "question": "Sample question text 8?",
-    "options": {
-      "A": "Option A8",
-      "B": "Option B8",
-      "C": "Option C8",
-      "D": "Option D8"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 8.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 18
-  },
-  {
-    "questionNumber": 9,
-    "question": "Sample question text 9?",
-    "options": {
-      "A": "Option A9",
-      "B": "Option B9",
-      "C": "Option C9",
-      "D": "Option D9"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 9.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 0",
-    "page": 19
-  },
-  {
-    "questionNumber": 10,
-    "question": "Sample question text 10?",
-    "options": {
-      "A": "Option A10",
-      "B": "Option B10",
-      "C": "Option C10",
-      "D": "Option D10"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 10.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 20
-  },
-  {
-    "questionNumber": 11,
-    "question": "Sample question text 11?",
-    "options": {
-      "A": "Option A11",
-      "B": "Option B11",
-      "C": "Option C11",
-      "D": "Option D11"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 11.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 21
-  },
-  {
-    "questionNumber": 12,
-    "question": "Sample question text 12?",
-    "options": {
-      "A": "Option A12",
-      "B": "Option B12",
-      "C": "Option C12",
-      "D": "Option D12"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 12.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 22
-  },
-  {
-    "questionNumber": 13,
-    "question": "Sample question text 13?",
-    "options": {
-      "A": "Option A13",
-      "B": "Option B13",
-      "C": "Option C13",
-      "D": "Option D13"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 13.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 23
-  },
-  {
-    "questionNumber": 14,
-    "question": "Sample question text 14?",
-    "options": {
-      "A": "Option A14",
-      "B": "Option B14",
-      "C": "Option C14",
-      "D": "Option D14"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 14.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 24
-  },
-  {
-    "questionNumber": 15,
-    "question": "Sample question text 15?",
-    "options": {
-      "A": "Option A15",
-      "B": "Option B15",
-      "C": "Option C15",
-      "D": "Option D15"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 15.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 25
-  },
-  {
-    "questionNumber": 16,
-    "question": "Sample question text 16?",
-    "options": {
-      "A": "Option A16",
-      "B": "Option B16",
-      "C": "Option C16",
-      "D": "Option D16"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 16.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 26
-  },
-  {
-    "questionNumber": 17,
-    "question": "Sample question text 17?",
-    "options": {
-      "A": "Option A17",
-      "B": "Option B17",
-      "C": "Option C17",
-      "D": "Option D17"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 17.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 27
-  },
-  {
-    "questionNumber": 18,
-    "question": "Sample question text 18?",
-    "options": {
-      "A": "Option A18",
-      "B": "Option B18",
-      "C": "Option C18",
-      "D": "Option D18"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 18.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 28
-  },
-  {
-    "questionNumber": 19,
-    "question": "Sample question text 19?",
-    "options": {
-      "A": "Option A19",
-      "B": "Option B19",
-      "C": "Option C19",
-      "D": "Option D19"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 19.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 1",
-    "page": 29
-  },
-  {
-    "questionNumber": 20,
-    "question": "Sample question text 20?",
-    "options": {
-      "A": "Option A20",
-      "B": "Option B20",
-      "C": "Option C20",
-      "D": "Option D20"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 20.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 30
-  },
-  {
-    "questionNumber": 21,
-    "question": "Sample question text 21?",
-    "options": {
-      "A": "Option A21",
-      "B": "Option B21",
-      "C": "Option C21",
-      "D": "Option D21"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 21.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 31
-  },
-  {
-    "questionNumber": 22,
-    "question": "Sample question text 22?",
-    "options": {
-      "A": "Option A22",
-      "B": "Option B22",
-      "C": "Option C22",
-      "D": "Option D22"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 22.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 32
-  },
-  {
-    "questionNumber": 23,
-    "question": "Sample question text 23?",
-    "options": {
-      "A": "Option A23",
-      "B": "Option B23",
-      "C": "Option C23",
-      "D": "Option D23"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 23.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 33
-  },
-  {
-    "questionNumber": 24,
-    "question": "Sample question text 24?",
-    "options": {
-      "A": "Option A24",
-      "B": "Option B24",
-      "C": "Option C24",
-      "D": "Option D24"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 24.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 34
-  },
-  {
-    "questionNumber": 25,
-    "question": "Sample question text 25?",
-    "options": {
-      "A": "Option A25",
-      "B": "Option B25",
-      "C": "Option C25",
-      "D": "Option D25"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 25.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 35
-  },
-  {
-    "questionNumber": 26,
-    "question": "Sample question text 26?",
-    "options": {
-      "A": "Option A26",
-      "B": "Option B26",
-      "C": "Option C26",
-      "D": "Option D26"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 26.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 36
-  },
-  {
-    "questionNumber": 27,
-    "question": "Sample question text 27?",
-    "options": {
-      "A": "Option A27",
-      "B": "Option B27",
-      "C": "Option C27",
-      "D": "Option D27"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 27.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 37
-  },
-  {
-    "questionNumber": 28,
-    "question": "Sample question text 28?",
-    "options": {
-      "A": "Option A28",
-      "B": "Option B28",
-      "C": "Option C28",
-      "D": "Option D28"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 28.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 38
-  },
-  {
-    "questionNumber": 29,
-    "question": "Sample question text 29?",
-    "options": {
-      "A": "Option A29",
-      "B": "Option B29",
-      "C": "Option C29",
-      "D": "Option D29"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 29.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 2",
-    "page": 39
-  },
-  {
-    "questionNumber": 30,
-    "question": "Sample question text 30?",
-    "options": {
-      "A": "Option A30",
-      "B": "Option B30",
-      "C": "Option C30",
-      "D": "Option D30"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 30.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 40
-  },
-  {
-    "questionNumber": 31,
-    "question": "Sample question text 31?",
-    "options": {
-      "A": "Option A31",
-      "B": "Option B31",
-      "C": "Option C31",
-      "D": "Option D31"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 31.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 41
-  },
-  {
-    "questionNumber": 32,
-    "question": "Sample question text 32?",
-    "options": {
-      "A": "Option A32",
-      "B": "Option B32",
-      "C": "Option C32",
-      "D": "Option D32"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 32.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 42
-  },
-  {
-    "questionNumber": 33,
-    "question": "Sample question text 33?",
-    "options": {
-      "A": "Option A33",
-      "B": "Option B33",
-      "C": "Option C33",
-      "D": "Option D33"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 33.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 43
-  },
-  {
-    "questionNumber": 34,
-    "question": "Sample question text 34?",
-    "options": {
-      "A": "Option A34",
-      "B": "Option B34",
-      "C": "Option C34",
-      "D": "Option D34"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 34.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 44
-  },
-  {
-    "questionNumber": 35,
-    "question": "Sample question text 35?",
-    "options": {
-      "A": "Option A35",
-      "B": "Option B35",
-      "C": "Option C35",
-      "D": "Option D35"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 35.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 45
-  },
-  {
-    "questionNumber": 36,
-    "question": "Sample question text 36?",
-    "options": {
-      "A": "Option A36",
-      "B": "Option B36",
-      "C": "Option C36",
-      "D": "Option D36"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 36.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 46
-  },
-  {
-    "questionNumber": 37,
-    "question": "Sample question text 37?",
-    "options": {
-      "A": "Option A37",
-      "B": "Option B37",
-      "C": "Option C37",
-      "D": "Option D37"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 37.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 47
-  },
-  {
-    "questionNumber": 38,
-    "question": "Sample question text 38?",
-    "options": {
-      "A": "Option A38",
-      "B": "Option B38",
-      "C": "Option C38",
-      "D": "Option D38"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 38.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 48
-  },
-  {
-    "questionNumber": 39,
-    "question": "Sample question text 39?",
-    "options": {
-      "A": "Option A39",
-      "B": "Option B39",
-      "C": "Option C39",
-      "D": "Option D39"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 39.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 3",
-    "page": 49
-  },
-  {
-    "questionNumber": 40,
-    "question": "Sample question text 40?",
-    "options": {
-      "A": "Option A40",
-      "B": "Option B40",
-      "C": "Option C40",
-      "D": "Option D40"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 40.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 50
-  },
-  {
-    "questionNumber": 41,
-    "question": "Sample question text 41?",
-    "options": {
-      "A": "Option A41",
-      "B": "Option B41",
-      "C": "Option C41",
-      "D": "Option D41"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 41.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 51
-  },
-  {
-    "questionNumber": 42,
-    "question": "Sample question text 42?",
-    "options": {
-      "A": "Option A42",
-      "B": "Option B42",
-      "C": "Option C42",
-      "D": "Option D42"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 42.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 52
-  },
-  {
-    "questionNumber": 43,
-    "question": "Sample question text 43?",
-    "options": {
-      "A": "Option A43",
-      "B": "Option B43",
-      "C": "Option C43",
-      "D": "Option D43"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 43.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 53
-  },
-  {
-    "questionNumber": 44,
-    "question": "Sample question text 44?",
-    "options": {
-      "A": "Option A44",
-      "B": "Option B44",
-      "C": "Option C44",
-      "D": "Option D44"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 44.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 54
-  },
-  {
-    "questionNumber": 45,
-    "question": "Sample question text 45?",
-    "options": {
-      "A": "Option A45",
-      "B": "Option B45",
-      "C": "Option C45",
-      "D": "Option D45"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 45.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 55
-  },
-  {
-    "questionNumber": 46,
-    "question": "Sample question text 46?",
-    "options": {
-      "A": "Option A46",
-      "B": "Option B46",
-      "C": "Option C46",
-      "D": "Option D46"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 46.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 56
-  },
-  {
-    "questionNumber": 47,
-    "question": "Sample question text 47?",
-    "options": {
-      "A": "Option A47",
-      "B": "Option B47",
-      "C": "Option C47",
-      "D": "Option D47"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 47.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 57
-  },
-  {
-    "questionNumber": 48,
-    "question": "Sample question text 48?",
-    "options": {
-      "A": "Option A48",
-      "B": "Option B48",
-      "C": "Option C48",
-      "D": "Option D48"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 48.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 58
-  },
-  {
-    "questionNumber": 49,
-    "question": "Sample question text 49?",
-    "options": {
-      "A": "Option A49",
-      "B": "Option B49",
-      "C": "Option C49",
-      "D": "Option D49"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 49.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 4",
-    "page": 59
-  },
-  {
-    "questionNumber": 50,
-    "question": "Sample question text 50?",
-    "options": {
-      "A": "Option A50",
-      "B": "Option B50",
-      "C": "Option C50",
-      "D": "Option D50"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 50.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 60
-  },
-  {
-    "questionNumber": 51,
-    "question": "Sample question text 51?",
-    "options": {
-      "A": "Option A51",
-      "B": "Option B51",
-      "C": "Option C51",
-      "D": "Option D51"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 51.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 61
-  },
-  {
-    "questionNumber": 52,
-    "question": "Sample question text 52?",
-    "options": {
-      "A": "Option A52",
-      "B": "Option B52",
-      "C": "Option C52",
-      "D": "Option D52"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 52.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 62
-  },
-  {
-    "questionNumber": 53,
-    "question": "Sample question text 53?",
-    "options": {
-      "A": "Option A53",
-      "B": "Option B53",
-      "C": "Option C53",
-      "D": "Option D53"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 53.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 63
-  },
-  {
-    "questionNumber": 54,
-    "question": "Sample question text 54?",
-    "options": {
-      "A": "Option A54",
-      "B": "Option B54",
-      "C": "Option C54",
-      "D": "Option D54"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 54.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 64
-  },
-  {
-    "questionNumber": 55,
-    "question": "Sample question text 55?",
-    "options": {
-      "A": "Option A55",
-      "B": "Option B55",
-      "C": "Option C55",
-      "D": "Option D55"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 55.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 65
-  },
-  {
-    "questionNumber": 56,
-    "question": "Sample question text 56?",
-    "options": {
-      "A": "Option A56",
-      "B": "Option B56",
-      "C": "Option C56",
-      "D": "Option D56"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 56.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 66
-  },
-  {
-    "questionNumber": 57,
-    "question": "Sample question text 57?",
-    "options": {
-      "A": "Option A57",
-      "B": "Option B57",
-      "C": "Option C57",
-      "D": "Option D57"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 57.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 67
-  },
-  {
-    "questionNumber": 58,
-    "question": "Sample question text 58?",
-    "options": {
-      "A": "Option A58",
-      "B": "Option B58",
-      "C": "Option C58",
-      "D": "Option D58"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 58.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 68
-  },
-  {
-    "questionNumber": 59,
-    "question": "Sample question text 59?",
-    "options": {
-      "A": "Option A59",
-      "B": "Option B59",
-      "C": "Option C59",
-      "D": "Option D59"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 59.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 5",
-    "page": 69
-  },
-  {
-    "questionNumber": 60,
-    "question": "Sample question text 60?",
-    "options": {
-      "A": "Option A60",
-      "B": "Option B60",
-      "C": "Option C60",
-      "D": "Option D60"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 60.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 70
-  },
-  {
-    "questionNumber": 61,
-    "question": "Sample question text 61?",
-    "options": {
-      "A": "Option A61",
-      "B": "Option B61",
-      "C": "Option C61",
-      "D": "Option D61"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 61.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 71
-  },
-  {
-    "questionNumber": 62,
-    "question": "Sample question text 62?",
-    "options": {
-      "A": "Option A62",
-      "B": "Option B62",
-      "C": "Option C62",
-      "D": "Option D62"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 62.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 72
-  },
-  {
-    "questionNumber": 63,
-    "question": "Sample question text 63?",
-    "options": {
-      "A": "Option A63",
-      "B": "Option B63",
-      "C": "Option C63",
-      "D": "Option D63"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 63.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 73
-  },
-  {
-    "questionNumber": 64,
-    "question": "Sample question text 64?",
-    "options": {
-      "A": "Option A64",
-      "B": "Option B64",
-      "C": "Option C64",
-      "D": "Option D64"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 64.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 74
-  },
-  {
-    "questionNumber": 65,
-    "question": "Sample question text 65?",
-    "options": {
-      "A": "Option A65",
-      "B": "Option B65",
-      "C": "Option C65",
-      "D": "Option D65"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 65.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 75
-  },
-  {
-    "questionNumber": 66,
-    "question": "Sample question text 66?",
-    "options": {
-      "A": "Option A66",
-      "B": "Option B66",
-      "C": "Option C66",
-      "D": "Option D66"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 66.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 76
-  },
-  {
-    "questionNumber": 67,
-    "question": "Sample question text 67?",
-    "options": {
-      "A": "Option A67",
-      "B": "Option B67",
-      "C": "Option C67",
-      "D": "Option D67"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 67.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 77
-  },
-  {
-    "questionNumber": 68,
-    "question": "Sample question text 68?",
-    "options": {
-      "A": "Option A68",
-      "B": "Option B68",
-      "C": "Option C68",
-      "D": "Option D68"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 68.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 78
-  },
-  {
-    "questionNumber": 69,
-    "question": "Sample question text 69?",
-    "options": {
-      "A": "Option A69",
-      "B": "Option B69",
-      "C": "Option C69",
-      "D": "Option D69"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 69.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 6",
-    "page": 79
-  },
-  {
-    "questionNumber": 70,
-    "question": "Sample question text 70?",
-    "options": {
-      "A": "Option A70",
-      "B": "Option B70",
-      "C": "Option C70",
-      "D": "Option D70"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 70.",
-    "textbook": "PCEIA",
-    "chapter": "Chapter 7",
-    "page": 80
-  },
-  {
-    "questionNumber": 71,
-    "question": "Sample question text 71?",
-    "options": {
-      "A": "Option A71",
-      "B": "Option B71",
-      "C": "Option C71",
-      "D": "Option D71"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 71.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 81
-  },
-  {
-    "questionNumber": 72,
-    "question": "Sample question text 72?",
-    "options": {
-      "A": "Option A72",
-      "B": "Option B72",
-      "C": "Option C72",
-      "D": "Option D72"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 72.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 82
-  },
-  {
-    "questionNumber": 73,
-    "question": "Sample question text 73?",
-    "options": {
-      "A": "Option A73",
-      "B": "Option B73",
-      "C": "Option C73",
-      "D": "Option D73"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 73.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 83
-  },
-  {
-    "questionNumber": 74,
-    "question": "Sample question text 74?",
-    "options": {
-      "A": "Option A74",
-      "B": "Option B74",
-      "C": "Option C74",
-      "D": "Option D74"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 74.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 84
-  },
-  {
-    "questionNumber": 75,
-    "question": "Sample question text 75?",
-    "options": {
-      "A": "Option A75",
-      "B": "Option B75",
-      "C": "Option C75",
-      "D": "Option D75"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 75.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 85
-  },
-  {
-    "questionNumber": 76,
-    "question": "Sample question text 76?",
-    "options": {
-      "A": "Option A76",
-      "B": "Option B76",
-      "C": "Option C76",
-      "D": "Option D76"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 76.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 86
-  },
-  {
-    "questionNumber": 77,
-    "question": "Sample question text 77?",
-    "options": {
-      "A": "Option A77",
-      "B": "Option B77",
-      "C": "Option C77",
-      "D": "Option D77"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 77.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 87
-  },
-  {
-    "questionNumber": 78,
-    "question": "Sample question text 78?",
-    "options": {
-      "A": "Option A78",
-      "B": "Option B78",
-      "C": "Option C78",
-      "D": "Option D78"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 78.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 88
-  },
-  {
-    "questionNumber": 79,
-    "question": "Sample question text 79?",
-    "options": {
-      "A": "Option A79",
-      "B": "Option B79",
-      "C": "Option C79",
-      "D": "Option D79"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 79.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 7",
-    "page": 89
-  },
-  {
-    "questionNumber": 80,
-    "question": "Sample question text 80?",
-    "options": {
-      "A": "Option A80",
-      "B": "Option B80",
-      "C": "Option C80",
-      "D": "Option D80"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 80.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 90
-  },
-  {
-    "questionNumber": 81,
-    "question": "Sample question text 81?",
-    "options": {
-      "A": "Option A81",
-      "B": "Option B81",
-      "C": "Option C81",
-      "D": "Option D81"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 81.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 91
-  },
-  {
-    "questionNumber": 82,
-    "question": "Sample question text 82?",
-    "options": {
-      "A": "Option A82",
-      "B": "Option B82",
-      "C": "Option C82",
-      "D": "Option D82"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 82.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 92
-  },
-  {
-    "questionNumber": 83,
-    "question": "Sample question text 83?",
-    "options": {
-      "A": "Option A83",
-      "B": "Option B83",
-      "C": "Option C83",
-      "D": "Option D83"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 83.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 93
-  },
-  {
-    "questionNumber": 84,
-    "question": "Sample question text 84?",
-    "options": {
-      "A": "Option A84",
-      "B": "Option B84",
-      "C": "Option C84",
-      "D": "Option D84"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 84.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 94
-  },
-  {
-    "questionNumber": 85,
-    "question": "Sample question text 85?",
-    "options": {
-      "A": "Option A85",
-      "B": "Option B85",
-      "C": "Option C85",
-      "D": "Option D85"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 85.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 95
-  },
-  {
-    "questionNumber": 86,
-    "question": "Sample question text 86?",
-    "options": {
-      "A": "Option A86",
-      "B": "Option B86",
-      "C": "Option C86",
-      "D": "Option D86"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 86.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 96
-  },
-  {
-    "questionNumber": 87,
-    "question": "Sample question text 87?",
-    "options": {
-      "A": "Option A87",
-      "B": "Option B87",
-      "C": "Option C87",
-      "D": "Option D87"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 87.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 97
-  },
-  {
-    "questionNumber": 88,
-    "question": "Sample question text 88?",
-    "options": {
-      "A": "Option A88",
-      "B": "Option B88",
-      "C": "Option C88",
-      "D": "Option D88"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 88.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 98
-  },
-  {
-    "questionNumber": 89,
-    "question": "Sample question text 89?",
-    "options": {
-      "A": "Option A89",
-      "B": "Option B89",
-      "C": "Option C89",
-      "D": "Option D89"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 89.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 8",
-    "page": 99
-  },
-  {
-    "questionNumber": 90,
-    "question": "Sample question text 90?",
-    "options": {
-      "A": "Option A90",
-      "B": "Option B90",
-      "C": "Option C90",
-      "D": "Option D90"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 90.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 100
-  },
-  {
-    "questionNumber": 91,
-    "question": "Sample question text 91?",
-    "options": {
-      "A": "Option A91",
-      "B": "Option B91",
-      "C": "Option C91",
-      "D": "Option D91"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 91.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 101
-  },
-  {
-    "questionNumber": 92,
-    "question": "Sample question text 92?",
-    "options": {
-      "A": "Option A92",
-      "B": "Option B92",
-      "C": "Option C92",
-      "D": "Option D92"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 92.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 102
-  },
-  {
-    "questionNumber": 93,
-    "question": "Sample question text 93?",
-    "options": {
-      "A": "Option A93",
-      "B": "Option B93",
-      "C": "Option C93",
-      "D": "Option D93"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 93.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 103
-  },
-  {
-    "questionNumber": 94,
-    "question": "Sample question text 94?",
-    "options": {
-      "A": "Option A94",
-      "B": "Option B94",
-      "C": "Option C94",
-      "D": "Option D94"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 94.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 104
-  },
-  {
-    "questionNumber": 95,
-    "question": "Sample question text 95?",
-    "options": {
-      "A": "Option A95",
-      "B": "Option B95",
-      "C": "Option C95",
-      "D": "Option D95"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 95.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 105
-  },
-  {
-    "questionNumber": 96,
-    "question": "Sample question text 96?",
-    "options": {
-      "A": "Option A96",
-      "B": "Option B96",
-      "C": "Option C96",
-      "D": "Option D96"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 96.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 106
-  },
-  {
-    "questionNumber": 97,
-    "question": "Sample question text 97?",
-    "options": {
-      "A": "Option A97",
-      "B": "Option B97",
-      "C": "Option C97",
-      "D": "Option D97"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 97.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 107
-  },
-  {
-    "questionNumber": 98,
-    "question": "Sample question text 98?",
-    "options": {
-      "A": "Option A98",
-      "B": "Option B98",
-      "C": "Option C98",
-      "D": "Option D98"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 98.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 108
-  },
-  {
-    "questionNumber": 99,
-    "question": "Sample question text 99?",
-    "options": {
-      "A": "Option A99",
-      "B": "Option B99",
-      "C": "Option C99",
-      "D": "Option D99"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 99.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 9",
-    "page": 109
-  },
-  {
-    "questionNumber": 100,
-    "question": "Sample question text 100?",
-    "options": {
-      "A": "Option A100",
-      "B": "Option B100",
-      "C": "Option C100",
-      "D": "Option D100"
-    },
-    "answer": "A",
-    "explanation": "Sample explanation for question 100.",
-    "textbook": "CEILLI",
-    "chapter": "Chapter 10",
-    "page": 110
-  }
+    {
+        "questionNumber": 1,
+        "question": "General insurance contracts provide cover against the following risks, EXCEPT:",
+        "options": {
+            "A": "damage to property",
+            "B": "motor car accident",
+            "C": "natural death",
+            "D": "legal liability"
+        },
+        "answer": "C",
+        "explanation": "Natural death is covered under life insurance, not general insurance. General insurance deals with property damage, motor accidents, and legal liability.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 1: Introduction to Insurance",
+        "page": 3
+    },
+    {
+        "questionNumber": 2,
+        "question": "______________ buy insurance products.",
+        "options": {
+            "A": "Insurance and reinsurance companies",
+            "B": "Individuals and business entities",
+            "C": "Lloyd’s underwriting members",
+            "D": "Insurance brokers and agents"
+        },
+        "answer": "B",
+        "explanation": "Insurance buyers or policyholders are typically individuals and business entities who purchase coverage for various risks.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 1: Introduction to Insurance",
+        "page": 4
+    },
+    {
+        "questionNumber": 3,
+        "question": "In the context of the insurance market, insurance intermediaries are",
+        "options": {
+            "A": "real estate agents and property developers",
+            "B": "insurance brokers, agents and financial advisers",
+            "C": "trustees and financial Institutions",
+            "D": "motor franchise holders and stock brokers"
+        },
+        "answer": "B",
+        "explanation": "Insurance intermediaries include brokers, agents, and financial advisers who help distribute insurance products.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 1: Introduction to Insurance",
+        "page": 6
+    },
+    {
+        "questionNumber": 4,
+        "question": "Conventional insurance does not conform to Syariah rules and requirements because of involvement of the following elements, EXCEPT:",
+        "options": {
+            "A": "Maisir - gambling as the consequence of the presence of uncertainty",
+            "B": "Riba - the existence of interest or usury in its investment activities",
+            "C": "Gharar - uncertainty in the contract of insurance",
+            "D": "Mudharabah - a contract whereby both parties agree on a profit and loss sharing"
+        },
+        "answer": "D",
+        "explanation": "Mudharabah is a Syariah-compliant concept. The other options are prohibited under Syariah principles and are found in conventional insurance.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 1: Introduction to Insurance",
+        "page": 8
+    },
+    {
+        "questionNumber": 5,
+        "question": "An example of a fundamental risk is",
+        "options": {
+            "A": "a road accident causing loss, injury and death to several motorists",
+            "B": "a stock market crash causing heavy financial loss to investors",
+            "C": "fire destroying a row of shop houses causing severe damage",
+            "D": "a pandemic causing many communities in a region to shutdown"
+        },
+        "answer": "D",
+        "explanation": "A pandemic affects large segments of society and is considered a fundamental risk, not specific to any individual.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 2: Risk and Insurance",
+        "page": 11
+    },
+    {
+        "questionNumber": 6,
+        "question": "It is not acceptable to insure against the payment of fines or penalties imposed for contravening the law because",
+        "options": {
+            "A": "of avoidance of high risk",
+            "B": "of exposure to undue risk",
+            "C": "it is against public policy",
+            "D": "of the exclusion in the contract"
+        },
+        "answer": "C",
+        "explanation": "Insuring fines and penalties would violate public policy, as it encourages illegal acts without consequences.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 2: Risk and Insurance",
+        "page": 13
+    },
+    {
+        "questionNumber": 7,
+        "question": "The government and society as a whole are solely responsible for this type of risks:",
+        "options": {
+            "A": "Fundamental risks",
+            "B": "Speculative risks",
+            "C": "Pure risks",
+            "D": "Particular risks"
+        },
+        "answer": "A",
+        "explanation": "Fundamental risks, such as natural disasters and pandemics, require societal or government intervention.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 2: Risk and Insurance",
+        "page": 12
+    },
+    {
+        "questionNumber": 8,
+        "question": "Select the statement that is true of “Risk Control”:",
+        "options": {
+            "A": "Minor loss can be retained by an organization",
+            "B": "Risk can be avoided by not participating in the particular activity that gives rise to the risk",
+            "C": "Risk of severe losses can be mitigated with adequate disaster recovery plans",
+            "D": "Risk can be prevented with implementation of prudent risk management"
+        },
+        "answer": "C",
+        "explanation": "Risk control includes mitigation strategies like disaster recovery planning to reduce the severity of loss.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 3: Risk Management and Underwriting",
+        "page": 20
+    },
+    {
+        "questionNumber": 9,
+        "question": "In insurance, the transfer of rights and liabilities of the insured to a new insured is referred to as _________________",
+        "options": {
+            "A": "an assignment of policy proceeds",
+            "B": "a transfer of interest",
+            "C": "a transfer of policy",
+            "D": "an assignment of policy"
+        },
+        "answer": "B",
+        "explanation": "Transfer of interest refers to changing the ownership of an insurance policy from one party to another.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 5: Insurance Documentation",
+        "page": 37
+    },
+    {
+        "questionNumber": 10,
+        "question": "In a life proposal where age is a material fact, _______________ is required to avoid a misrepresentation by the proposer.",
+        "options": {
+            "A": "the proposal form",
+            "B": "the driving licence",
+            "C": "proof of age",
+            "D": "the death certificate"
+        },
+        "answer": "C",
+        "explanation": "Proof of age is critical as age significantly impacts underwriting and premium rates in life insurance.",
+        "textbook": "CEILLI",
+        "chapter": "Chapter 3: The Proposal Process",
+        "page": 42
+    },
+    {
+        "questionNumber": 11,
+        "question": "The requirement of insurable interest is merely to ensure that insurance is not abused for the purpose of speculation, wagering or ____________",
+        "options": {
+            "A": "profiteering",
+            "B": "investing",
+            "C": "gambling",
+            "D": "gaming"
+        },
+        "answer": "C",
+        "explanation": "The principle of insurable interest is a fundamental concept in insurance that ensures the policyholder has a genuine financial or legal stake in the subject matter of insurance. This requirement prevents the use of insurance contracts for illegal or unethical purposes such as speculation, wagering, or gambling, as without a genuine interest, the contract would be a mere bet.",
+        "textbook": "PCEIA",
+        "chapter": "Principles of Insurance: Insurable Interest",
+        "page": "Inferred from principles of insurance"
+    },
+    {
+        "questionNumber": 12,
+        "question": "_____ are the subject matter of insurance in a life or personal accident policy.",
+        "options": {
+            "A": "Funeral expenses",
+            "B": "Life and limb",
+            "C": "Medical cost and expenses",
+            "D": "Salaries and wages"
+        },
+        "answer": "B",
+        "explanation": "In life and personal accident insurance, the subject matter of insurance is essentially the life and physical well-being (limb) of the insured individual. [cite_start]The policy provides cover against events affecting the insured's life (death) or physical integrity (disability, loss of limb), not typically specific expenses like funeral costs or salaries directly. [cite: 482]",
+        "textbook": "PCEIA",
+        "chapter": "Life and Personal Accident Insurance",
+        "page": "Inferred from subject matter of life/personal accident insurance"
+    },
+    {
+        "questionNumber": 13,
+        "question": "In the absence of any specific questions in the proposal form, an insured is not required to disclose a fact that",
+        "options": {
+            "A": "increases the risk to the insurer",
+            "B": "diminishes the risk to the insurer",
+            "C": "affects insurer's rating of the risk",
+            "D": "influences the decision in acceptance of the risk"
+        },
+        "answer": "B",
+        "explanation": "Under the principle of utmost good faith, the insured is generally required to disclose all material facts that would influence a prudent insurer's decision. However, if a fact diminishes the risk to the insurer (e.g., improved health, safer conditions), and is not specifically asked, there is no duty to disclose it as it does not negatively impact the insurer's assessment. [cite_start]Facts that increase risk, affect rating, or influence acceptance *must* be disclosed. [cite: 487]",
+        "textbook": "PCEIA",
+        "chapter": "Principles of Insurance: Utmost Good Faith",
+        "page": "Inferred from principles of insurance"
+    },
+    {
+        "questionNumber": 14,
+        "question": "Proximate cause is a key principle of insurance and is concerned with how the loss or damage actually occurred and whether it is a direct result of",
+        "options": {
+            "A": "an exceptional peril",
+            "B": "an uninsured peril",
+            "C": "an insured peril",
+            "D": "an excluded peril"
+        },
+        "answer": "C",
+        "explanation": "The principle of proximate cause establishes that for a loss to be covered, it must be the direct and dominant result of an 'insured peril' – a peril that is covered by the policy. [cite_start]If the loss is caused by an uninsured or excluded peril, the insurer is not liable. [cite: 492]",
+        "textbook": "PCEIA",
+        "chapter": "Principles of Insurance: Proximate Cause",
+        "page": "Inferred from principles of insurance"
+    },
+    {
+        "questionNumber": 15,
+        "question": "A mountain climber broke his leg and was hospitalized but died in hospital due to SARS contracted from another patient. The insurer will decline the death claim under his personal accident policy due to the application of the principle of",
+        "options": {
+            "A": "indemnity",
+            "B": "proximate cause",
+            "C": "insurable interest",
+            "D": "contribution"
+        },
+        "answer": "B",
+        "explanation": "In this scenario, the direct and dominant cause of death was SARS, a disease, not the broken leg from the mountain climbing accident. Personal accident policies typically cover death or injury resulting directly from an accident. [cite_start]Since the proximate cause of death (SARS) was a disease and not the accident itself, the insurer would decline the claim based on the principle of 'proximate cause'. [cite: 497, 498]",
+        "textbook": "PCEIA",
+        "chapter": "Principles of Insurance: Proximate Cause",
+        "page": "Inferred from principles of insurance"
+    },
+    {
+        "questionNumber": 16,
+        "question": "Consumers are required to submit their complaints to Financial Mediation Bureau within _____ from the date of the final decision of the financial service provider.",
+        "options": {
+            "A": "one month",
+            "B": "three months",
+            "C": "six months",
+            "D": "nine months"
+        },
+        "answer": "C",
+        "explanation": "Consumers are generally required to submit their complaints to the Financial Mediation Bureau (now FMB, but its successor is the Ombudsman for Financial Services - OFS) within a specific timeframe after receiving the final decision from the financial service provider. [cite_start]This period is typically six months. [cite: 503]",
+        "textbook": "PCEIA",
+        "chapter": "Consumer Protection and Financial Ombudsman",
+        "page": "Inferred from consumer protection guidelines"
+    },
+    {
+        "questionNumber": 17,
+        "question": "Members of the Financial Mediation Bureau do NOT include",
+        "options": {
+            "A": "takaful operators",
+            "B": "licensed insurance brokers",
+            "C": "licensed banking institutions",
+            "D": "licensed insurance companies"
+        },
+        "answer": "B",
+        "explanation": "The Financial Mediation Bureau (FMB), or its successor the Ombudsman for Financial Services (OFS), typically covers financial service providers such as takaful operators, licensed banking institutions, and licensed insurance companies. [cite_start]Licensed insurance brokers, while intermediaries, are generally not direct 'members' or subject to the FMB's jurisdiction in the same way as the primary financial institutions. [cite: 509]",
+        "textbook": "PCEIA",
+        "chapter": "Consumer Protection and Financial Ombudsman",
+        "page": "Inferred from consumer protection guidelines"
+    },
+    {
+        "questionNumber": 18,
+        "question": "Identify which is the following are NOT covered by the provisions of Perbadanan Insurans Deposit Malaysia (PIDM).",
+        "options": {
+            "A": "Islamic banks",
+            "B": "Reinsurance companies",
+            "C": "Takaful companies",
+            "D": "Commercial banks"
+        },
+        "answer": "B",
+        "explanation": "Perbadanan Insurans Deposit Malaysia (PIDM) provides deposit insurance for banks and takaful benefits protection for takaful operators in Malaysia. This typically covers commercial banks, Islamic banks, and takaful companies. [cite_start]Reinsurance companies, which deal with insurers rather than directly with policyholders/depositors, are generally NOT covered by PIDM's provisions. [cite: 514]",
+        "textbook": "PCEIA",
+        "chapter": "Regulatory Bodies: PIDM",
+        "page": "Inferred from PIDM scope"
+    },
+    {
+        "questionNumber": 19,
+        "question": "An insurance company can be wound up",
+        "options": {
+            "A": "by making a public declaration",
+            "B": "by filing an application to the high court",
+            "C": "voluntarily by applying to the Companies Commission of Malaysia",
+            "D": "by getting the prior written approval of Bank Negara Malaysia"
+        },
+        "answer": "C",
+        "explanation": "While an insurance company can be wound up by a court order, a voluntary winding-up process typically involves applying to the Companies Commission of Malaysia (SSM) and following the procedures outlined in the Companies Act. However, due to the nature of insurance business and public interest, the winding up of an insurance company would also involve stringent oversight and approval from the financial regulator, Bank Negara Malaysia, as stated in D. The provided answer 'C' focuses on the Companies Commission of Malaysia which handles company registrations and general winding-up procedures, but for regulated financial institutions like insurance companies, BNM's approval is paramount. [cite_start]The question asks *how* it can be wound up, and 'voluntarily by applying to the Companies Commission of Malaysia' is a method, even if BNM's approval is also required for a regulated entity. [cite: 519]",
+        "textbook": "PCEIA",
+        "chapter": "Regulatory Framework for Insurers",
+        "page": "Inferred from regulatory and corporate law"
+    },
+    {
+        "questionNumber": 20,
+        "question": "Insurance companies in Malaysia are required to be incorporated as",
+        "options": {
+            "A": "private companies",
+            "B": "mutual companies",
+            "C": "public companies",
+            "D": "large corporations"
+        },
+        "answer": "C",
+        "explanation": "Insurance companies in Malaysia, due to their significant public interest and regulatory requirements, are typically required to be incorporated as 'public companies' under the Companies Act. [cite_start]This ensures a higher level of corporate governance, transparency, and accountability compared to private companies. [cite: 524]",
+        "textbook": "PCEIA",
+        "chapter": "Regulatory Framework for Insurers",
+        "page": "Inferred from regulatory framework"
+    },
+    {
+        "questionNumber": 21,
+        "question": "Insurance companies must _________________ in respect of Customer Due Diligence under the Anti Money Laundering and Counter Financing of Terrorism compliance guidelines.",
+        "options": {
+            "A": "conduct assessments and keep proper records",
+            "B": "terminate client relationships with low risk",
+            "C": "avoid establishing business relationships",
+            "D": "report all transactions to Bank Negara Malaysia"
+        },
+        "answer": "A",
+        "explanation": "Insurers are required to conduct Customer Due Diligence (CDD) and maintain proper records to comply with anti-money laundering and counter-terrorism financing requirements.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 9: Regulatory Framework",
+        "page": 208
+    },
+    {
+        "questionNumber": 22,
+        "question": "In the context of insurance, an ‘offer’ is made by the________________ when submitting a completed and signed proposal form to the insurer.",
+        "options": {
+            "A": "agent",
+            "B": "insured",
+            "C": "underwriter",
+            "D": "insurer"
+        },
+        "answer": "B",
+        "explanation": "The insured makes an offer when submitting a completed proposal form. The insurer accepts or rejects this offer, completing the contract.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 2: Principles of Insurance",
+        "page": 21
+    },
+    {
+        "questionNumber": 23,
+        "question": "A key characteristic for a contract to be considered legally binding is the",
+        "options": {
+            "A": "benefit of the agent",
+            "B": "existence of regulatory approval",
+            "C": "consent and capacity of parties",
+            "D": "presence of third-party witness"
+        },
+        "answer": "C",
+        "explanation": "A legally binding contract requires mutual consent and legal capacity of the parties involved.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 3: Law of Contract",
+        "page": 32
+    },
+    {
+        "questionNumber": 24,
+        "question": "There must be ‘consensus ad idem’ or ‘meeting of the minds’ in the formation of an insurance contract",
+        "options": {
+            "A": "to ensure clear understanding and acceptance of terms",
+            "B": "to comply with taxation laws",
+            "C": "to avoid confusion in insurance marketing",
+            "D": "to enable insurer’s pricing of risks"
+        },
+        "answer": "A",
+        "explanation": "‘Consensus ad idem’ ensures both parties understand and agree to the contract terms, which is crucial for contract validity.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 3: Law of Contract",
+        "page": 32
+    },
+    {
+        "questionNumber": 25,
+        "question": "Life Insurance contracts are subject to some formal rules as required by the Financial Services Act 2013. Schedule 8 (2) provides for ‘objection to life policy’",
+        "options": {
+            "A": "within 14 days of policy issue",
+            "B": "within 30 days of policy commencement",
+            "C": "within 15 days from delivery of policy",
+            "D": "within 7 days from agent’s explanation"
+        },
+        "answer": "C",
+        "explanation": "Schedule 8 of the FSA 2013 allows the policyholder to object within 15 days from delivery of the policy document.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 5: Insurance Documents",
+        "page": 67
+    },
+    {
+        "questionNumber": 26,
+        "question": "A fundamental condition under a life insurance contract is __________________ before assumption of risk by the insurer.",
+        "options": {
+            "A": "acceptance of offer",
+            "B": "payment of first premium",
+            "C": "submission of ID",
+            "D": "completion of medical test"
+        },
+        "answer": "B",
+        "explanation": "The insurer’s risk commences only after the first premium is paid and the offer is accepted.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 3: Law of Contract",
+        "page": 35
+    },
+    {
+        "questionNumber": 27,
+        "question": "_______________ is a legal contract creating a fiduciary relationship whereby the principal agrees that the actions of the agent bind the principal.",
+        "options": {
+            "A": "Mandate",
+            "B": "Agency",
+            "C": "Consent",
+            "D": "Assignment"
+        },
+        "answer": "B",
+        "explanation": "An agency is a fiduciary relationship where the agent’s actions legally bind the principal in a contract.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 4: Law of Agency",
+        "page": 48
+    },
+    {
+        "questionNumber": 28,
+        "question": "When an agency and principal relationship is formed retrospectively, this type of relationship is referred to as agency by",
+        "options": {
+            "A": "ratification",
+            "B": "estoppel",
+            "C": "necessity",
+            "D": "agreement"
+        },
+        "answer": "A",
+        "explanation": "Agency by ratification arises when a principal approves an agent’s past actions retrospectively.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 4: Law of Agency",
+        "page": 50
+    },
+    {
+        "questionNumber": 29,
+        "question": "In Malaysia, insurance agencies are created",
+        "options": {
+            "A": "with verbal agreement",
+            "B": "by regulatory license only",
+            "C": "by contract of agency",
+            "D": "without written documentation"
+        },
+        "answer": "C",
+        "explanation": "An insurance agency is created through a formal agency contract between the insurer and the agent.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 4: Law of Agency",
+        "page": 49
+    },
+    {
+        "questionNumber": 30,
+        "question": "The following does NOT reflect an act of good faith on the part of an agent when dealing with the principal",
+        "options": {
+            "A": "Providing misleading information",
+            "B": "Acting with due care",
+            "C": "Following the insurer’s instruction",
+            "D": "Maintaining confidentiality"
+        },
+        "answer": "A",
+        "explanation": "Misleading information breaches the duty of good faith owed by the agent to the insurer.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 4: Law of Agency",
+        "page": 53
+    },
+    {
+        "questionNumber": 31,
+        "question": "The principle of _____________ requires both parties to the insurance contract to act honestly and not withhold information",
+        "options": {
+            "A": "utmost good faith",
+            "B": "proximate cause",
+            "C": "insurable interest",
+            "D": "contribution"
+        },
+        "answer": "A",
+        "explanation": "Utmost good faith (uberrima fides) means both insurer and insured must disclose all material facts truthfully.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 2: Principles of Insurance",
+        "page": 24
+    },
+    {
+        "questionNumber": 32,
+        "question": "Under the Financial Services Act 2013, a contract of insurance is based on the duty of disclosure applicable to the proposer and",
+        "options": {
+            "A": "the insured",
+            "B": "the nominee",
+            "C": "the insurer",
+            "D": "the adjuster"
+        },
+        "answer": "C",
+        "explanation": "Both the proposer and the insurer are obligated to uphold the duty of disclosure under FSA 2013.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 2: Principles of Insurance",
+        "page": 24
+    },
+    {
+        "questionNumber": 33,
+        "question": "A proposer’s duty to disclose extends to all material facts which are known to him or which he could reasonably be expected",
+        "options": {
+            "A": "to conceal from the insurer",
+            "B": "to keep confidential",
+            "C": "to disclose",
+            "D": "to ignore"
+        },
+        "answer": "C",
+        "explanation": "The duty of disclosure requires proposers to disclose all material facts known or reasonably expected to be known.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 2: Principles of Insurance",
+        "page": 25
+    },
+    {
+        "questionNumber": 34,
+        "question": "Under the law, when a proposer does not exercise the duty of disclosure, he is said to have made a",
+        "options": {
+            "A": "mistake",
+            "B": "misrepresentation",
+            "C": "recommendation",
+            "D": "reformation"
+        },
+        "answer": "B",
+        "explanation": "Failure to disclose material facts constitutes misrepresentation and can void the insurance contract.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 2: Principles of Insurance",
+        "page": 26
+    },
+    {
+        "questionNumber": 35,
+        "question": "A proposal form is used by the insurer to obtain information on the proposer and the risk. The declaration at the end of the proposal form must be signed",
+        "options": {
+            "A": "by the nominee",
+            "B": "by the agent",
+            "C": "by the proposer",
+            "D": "by the underwriter"
+        },
+        "answer": "C",
+        "explanation": "The proposer must sign the declaration, confirming the accuracy of the disclosed information.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 5: Insurance Documents",
+        "page": 64
+    },
+    {
+        "questionNumber": 36,
+        "question": "Bank Negara Malaysia has issued Guidelines on Medical and Health Insurance Business, and Guidelines on Product Transparency and Disclosure to\nI. increase competition among private health care providers\nII. reduce mis-selling and misrepresentation to consumers\nIII. enhance access to healthcare through private insurance\nIV. contain costs to promote long-term sustainability of the private health insurance sector",
+        "options": {
+            "A": "I and III",
+            "B": "III and IV",
+            "C": "I, II and III",
+            "D": "II, III and IV"
+        },
+        "answer": "D",
+        "explanation": "The guidelines aim to reduce mis-selling and misrepresentation to consumers, enhance access to healthcare, and contain costs in the private insurance sector. Increasing competition among healthcare providers is not the direct intent of the guidelines.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 5: Medical and Health Insurance",
+        "page": 101
+    },
+    {
+        "questionNumber": 37,
+        "question": "Identify the risk category under medical and health insurance that will be imposed special terms, higher premiums or limitations in coverage or both",
+        "options": {
+            "A": "Decline risk",
+            "B": "Special risk",
+            "C": "Standard risk",
+            "D": "Sub-standard risk"
+        },
+        "answer": "D",
+        "explanation": "Sub-standard risks are those that do not qualify for standard coverage terms. Insurers impose special terms or limitations due to elevated risk factors such as pre-existing conditions.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 5: Medical and Health Insurance",
+        "page": 102
+    },
+    {
+        "questionNumber": 38,
+        "question": "________________ is NOT a method of policy limitation applied to hospital and surgical insurance policies in order to contain rising claims cost.",
+        "options": {
+            "A": "‘AS Charged’ basis",
+            "B": "‘Annual or lifetime’ limits",
+            "C": "‘Cost Sharing’ basis",
+            "D": "Deductibles"
+        },
+        "answer": "A",
+        "explanation": "An 'AS Charged' basis means reimbursement is based on actual expenses incurred, which does not contain rising costs. Deductibles, annual/lifetime limits, and cost sharing are methods to limit liability.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 5: Medical and Health Insurance",
+        "page": 104
+    },
+    {
+        "questionNumber": 39,
+        "question": "Which of the following will NOT terminate a policy?",
+        "options": {
+            "A": "Death of the insured",
+            "B": "On the policy anniversary date following the insured’s maximum eligibility age",
+            "C": "Exhaustion of the annual limit or lifetime limit stipulated",
+            "D": "Sudden disappearance of insured for 5 years"
+        },
+        "answer": "C",
+        "explanation": "Exhaustion of benefits does not terminate a policy; it just limits claims for that period. Policies typically remain active unless other terminating conditions are met.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 5: Medical and Health Insurance",
+        "page": 106
+    },
+    {
+        "questionNumber": 40,
+        "question": "Occupational hazard increases the chance of work-related injuries and diseases which turn in affect the premium rates, particularly for",
+        "options": {
+            "A": "hospital and surgical insurance",
+            "B": "disability income insurance",
+            "C": "hospital income insurance",
+            "D": "critical illness insurance"
+        },
+        "answer": "B",
+        "explanation": "Disability income insurance is particularly sensitive to occupational hazards as it provides income replacement when an individual cannot work due to illness or injury sustained at work.",
+        "textbook": "PCEIA",
+        "chapter": "Chapter 5: Medical and Health Insurance",
+        "page": 108
+    },
+    {
+        "questionNumber": 41,
+        "question": "A ______________ if known by the insurer, would lead to the refusal to issue a life policy on the life proposed.",
+        "options": {
+            "A": "simple fact",
+            "B": "material fact",
+            "C": "common fact",
+            "D": "special fact"
+        },
+        "answer": "B",
+        "explanation": "A material fact is any fact that would influence the judgment of a prudent insurer in deciding whether to accept a risk and on what terms.",
+        "textbook": "PCEIA",
+        "chapter": "Principles of Insurance",
+        "page": 27
+    },
+    {
+        "questionNumber": 42,
+        "question": "An employer has insurable interest in the life of a key employee (shareholder or partner) whose ______________ could adversely affect the sustainability of the business.",
+        "options": {
+            "A": "premature resignation",
+            "B": "early retirement",
+            "C": "premature death",
+            "D": "immediate termination"
+        },
+        "answer": "C",
+        "explanation": "Insurable interest exists where the employer stands to suffer financial loss from the premature death of a key employee.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 51
+    },
+    {
+        "questionNumber": 43,
+        "question": "Select from the following what a life insurer would do if, after the policy has been in force for three years, it is found the life insured’s age is different from what was stated in the life policy.",
+        "options": {
+            "A": "The life insurer will terminate the policy",
+            "B": "The life insurer will vary sum assured, premium and bonuses to reflect the actual age",
+            "C": "The life insurer will charge the life assured in court",
+            "D": "The life insurer will take no action"
+        },
+        "answer": "B",
+        "explanation": "If age is misstated, the insurer may adjust the sum assured or premium to reflect the correct age.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 50
+    },
+    {
+        "questionNumber": 44,
+        "question": "Identify when insurable interest needs to be present.",
+        "options": {
+            "A": "Before the death of the life assured",
+            "B": "At the inception of the policy",
+            "C": "During the death of the life assured",
+            "D": "At the maturity of the policy"
+        },
+        "answer": "B",
+        "explanation": "In life insurance, insurable interest is required only at the time of policy inception.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 50
+    },
+    {
+        "questionNumber": 45,
+        "question": "Policyholder Mr A decides to surrender his standard life policy after 4 years. He has no outstanding premium and the policy is in force. The surrender value he is entitled to is",
+        "options": {
+            "A": "a sum allocated towards savings and the earnings less a surrender charge",
+            "B": "a sum allocated towards savings and earnings and with no other charges deducted",
+            "C": "the total sum assured with no deductions",
+            "D": "a sum allocated towards savings less a surrender charge"
+        },
+        "answer": "A",
+        "explanation": "Surrender value is the savings element and accrued earnings after deducting surrender charges.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 54
+    },
+    {
+        "questionNumber": 46,
+        "question": "Policy monies payable under a life policy or monies payable on the surrender of a life policy shall be paid",
+        "options": {
+            "A": "without the consent of persons entitled",
+            "B": "only upon death or maturity of the policy",
+            "C": "less deduction for the medical expenses",
+            "D": "without any deduction for monies not due under the policy"
+        },
+        "answer": "D",
+        "explanation": "According to FSA 2013, life policy proceeds must be paid without deduction for any unrelated charges.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 56
+    },
+    {
+        "questionNumber": 47,
+        "question": "With regard to a life insurance proposal, _________________ is a material fact which, if known by the insurer, would have been declined, imposed higher premium loadings or limited policy coverage.",
+        "options": {
+            "A": "engagement in professional sports",
+            "B": "diagnosis of a terminal illness",
+            "C": "suspension of driving license",
+            "D": "active engagement in politics"
+        },
+        "answer": "B",
+        "explanation": "A terminal illness greatly increases the risk to the insurer and must be disclosed.",
+        "textbook": "PCEIA",
+        "chapter": "Principles of Insurance",
+        "page": 27
+    },
+    {
+        "questionNumber": 48,
+        "question": "If a policy owner wants to surrender a life policy, the life insurance company will determine the surrender value entitlement",
+        "options": {
+            "A": "I, II and III",
+            "B": "I, II and IV",
+            "C": "I, III and IV",
+            "D": "II, III and IV"
+        },
+        "answer": "A",
+        "explanation": "Surrender values must follow actuarial principles, fair treatment, and ethical business conduct.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 54
+    },
+    {
+        "questionNumber": 49,
+        "question": "The main purpose of life insurance is to provide________________ for dependents.",
+        "options": {
+            "A": "medical expenses",
+            "B": "emotional protection",
+            "C": "credit facility",
+            "D": "financial protection"
+        },
+        "answer": "D",
+        "explanation": "Life insurance ensures that dependents receive financial support upon the death of the breadwinner.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 48
+    },
+    {
+        "questionNumber": 50,
+        "question": "______________ insurance is the earliest and simplest form of life insurance for a fixed term or period and is not permanent.",
+        "options": {
+            "A": "Endowment",
+            "B": "Whole life",
+            "C": "Term",
+            "D": "Investment-linked"
+        },
+        "answer": "C",
+        "explanation": "Term insurance provides pure protection for a limited time with no savings element.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 49
+    },
+    {
+        "questionNumber": 51,
+        "question": "Non-participating life policyholders have no right to share in the ________________ of the insurer’s life insurance fund.",
+        "options": {
+            "A": "distributable profits",
+            "B": "investment returns",
+            "C": "operating expenses",
+            "D": "divisible surplus"
+        },
+        "answer": "D",
+        "explanation": "Only participating policyholders share in the divisible surplus declared by insurers.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 52
+    },
+    {
+        "questionNumber": 52,
+        "question": "_______________ is/are the investments that a life office has made from the premiums it has received after meeting its outgoes in the form of claims and expenses.",
+        "options": {
+            "A": "Surplus",
+            "B": "The market value",
+            "C": "Liability",
+            "D": "Assets"
+        },
+        "answer": "D",
+        "explanation": "Assets represent what the insurer owns, typically invested premiums after meeting liabilities.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 47
+    },
+    {
+        "questionNumber": 53,
+        "question": "Group term life insurance is a benefit frequently offered by employers either on a contributory or non-contributory basis. ‘Non-contributory basis ’ means premiums are",
+        "options": {
+            "A": "subsidized by the employer",
+            "B": "paid entirely by the employer",
+            "C": "paid by the government",
+            "D": "paid entirely by the employee"
+        },
+        "answer": "B",
+        "explanation": "Under a non-contributory plan, the employer fully pays the premiums.",
+        "textbook": "CEILLI",
+        "chapter": "Group Insurance",
+        "page": 136
+    },
+    {
+        "questionNumber": 54,
+        "question": "Which of the following statements best describes the investment-linked life insurance policy?",
+        "options": {
+            "A": "Protection and investment",
+            "B": "Protection for the whole of life",
+            "C": "Retirement fund and pension",
+            "D": "Saving and protection"
+        },
+        "answer": "A",
+        "explanation": "Investment-linked policies combine insurance protection and unit-linked investments.",
+        "textbook": "CEILLI",
+        "chapter": "Introduction to Investment-linked Insurance",
+        "page": 15
+    },
+    {
+        "questionNumber": 55,
+        "question": "In planning for his retirement, Tom purchased a deferred annuity which guaranteed him a stream of income after retirement. Unfortunately, Tom died midway through the 10-year contribution period. The premiums paid by Tom will be",
+        "options": {
+            "A": "returned with or without interest",
+            "B": "deferred to the next of kin or estate",
+            "C": "converted to an automatic premium loan",
+            "D": "considered as earned by the insurer"
+        },
+        "answer": "A",
+        "explanation": "Deferred annuities return the accumulated value or premium paid if the annuitant dies during the accumulation period, depending on contract terms.",
+        "textbook": "CEILLI",
+        "chapter": "Annuities",
+        "page": 108
+    },
+    {
+        "questionNumber": 56,
+        "question": "The eligibility criteria to automatically add new employees to a group life policy from the date of recruitment is:",
+        "options": {
+            "A": "All employees selected by an internal recruitment process",
+            "B": "Healthy employees under a contract of service regardless of age",
+            "C": "Permanent employees between the ages of 16 and 60",
+            "D": "Permanent and temporary workers with valid work permits"
+        },
+        "answer": "C",
+        "explanation": "Eligibility is usually limited to permanent employees within a specific age range, typically 16–60 years.",
+        "textbook": "CEILLI",
+        "chapter": "Group Insurance",
+        "page": 137
+    },
+    {
+        "questionNumber": 57,
+        "question": "The term “level premium system” as applied to life insurance contracts means premiums are",
+        "options": {
+            "A": "increased to commensurate with the increase in the amount of benefits",
+            "B": "lower initially and then level off at the end of the contract",
+            "C": "guaranteed to remain the same throughout the contract",
+            "D": "levelled to reflect the increase in the risk as policy matures"
+        },
+        "answer": "C",
+        "explanation": "Level premium system means premiums remain unchanged throughout the policy term.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 49
+    },
+    {
+        "questionNumber": 58,
+        "question": "Group life insurance premium is calculated differently compared to individual life insurance premium. It is",
+        "options": {
+            "A": "multiple rated",
+            "B": "lenient rated",
+            "C": "group rated",
+            "D": "experience rated"
+        },
+        "answer": "C",
+        "explanation": "Group life insurance uses group rating based on average risk and demographics.",
+        "textbook": "CEILLI",
+        "chapter": "Group Insurance",
+        "page": 138
+    },
+    {
+        "questionNumber": 59,
+        "question": "Identify why although life insurance companies use the same factors to determine premium rates, premiums differ.",
+        "options": {
+            "A": "Because of different asset valuation methods and provisions for liabilities",
+            "B": "Because of different capital reserve structures and investment methods",
+            "C": "Because of different cost structures, assessment of risk and investment returns",
+            "D": "Because of different distribution channels, branding and target markets"
+        },
+        "answer": "C",
+        "explanation": "Premiums differ due to insurers’ different cost structures, risk assessment practices, and expected returns.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 47
+    },
+    {
+        "questionNumber": 60,
+        "question": "Which of the following is NOT among the sources of information for the life insurer in making a proper assessment of risk?",
+        "options": {
+            "A": "Agents’s report",
+            "B": "Medical examiners report",
+            "C": "Police report",
+            "D": "Proposal form"
+        },
+        "answer": "C",
+        "explanation": "Police reports are not a standard source of underwriting information in life insurance.",
+        "textbook": "PCEIA",
+        "chapter": "Life Insurance",
+        "page": 50
+    },
+    {
+        "questionNumber": 61,
+        "question": "In the assumption of risk by a life insurer, the life insurer",
+        "options": {
+            "A": "must have underwritten the risk",
+            "B": "must have received acknowledgment from the client that they have received the policy document",
+            "C": "may allow a backdating of the commencement date of insurance in some cases to take advantage of a reduced premium",
+            "D": "must have received the total yearly premium after the issuance of the acceptance letter"
+        },
+        "answer": "D",
+        "explanation": "Acceptance takes place when the insurer issues the acceptance letter and receives the first premium, or in some cases, the full yearly premium after the issuance of the acceptance letter.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 5: Underwriting Life Insurance",
+        "page": "97"
+    },
+    {
+        "questionNumber": 62,
+        "question": "The following is NOT one of the methods of accepting sub-standard lives:",
+        "options": {
+            "A": "Charging the same premium but decreasing the death benefit",
+            "B": "Declining coverage limitation",
+            "C": "Charging a single premium",
+            "D": "Charging an extra premium"
+        },
+        "answer": "C",
+        "explanation": "Methods of charging for substandard lives include charging an extra premium, rating up the age, lien, and charging the same premium but decreasing the death benefit. Declining coverage is also a method. Charging a single premium is a premium payment method, not a method of accepting sub-standard lives for additional risk.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 5: Underwriting Life Insurance",
+        "page": "99-100"
+    },
+    {
+        "questionNumber": 63,
+        "question": "Following the death of the insured, a claimant must ____ to begin the claim and pay-out process.",
+        "options": {
+            "A": "notify the insurance company or agent",
+            "B": "submit the death certificate",
+            "C": "complete a claim form",
+            "D": "make a police report"
+        },
+        "answer": "A",
+        "explanation": "The claimant must notify the insurance company (or agent) of the insured’s death to begin the claim and pay-out process.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 6: Claims Management",
+        "page": "105"
+    },
+    {
+        "questionNumber": 64,
+        "question": "Before paying a maturity claim under an endowment insurance, the life office requires",
+        "options": {
+            "A": "proof of age of the life insured",
+            "B": "proof of the death of the life assured",
+            "C": "the name of the trustees",
+            "D": "the name of the beneficiaries"
+        },
+        "answer": "A",
+        "explanation": "For a maturity claim, proof of age of the life insured is required.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 6: Claims Management",
+        "page": "105"
+    },
+    {
+        "questionNumber": 65,
+        "question": "Which of the following statements about the payment of policies monies under a life policy is true?",
+        "options": {
+            "A": "Where the policy owner dies without having made a nomination, the insurer will pay the policy monies to the lawful executor or administrator of the estate",
+            "B": "If there is no lawful executor or administrator and no nomination, the insurer will pay the policy monies to the trustee",
+            "C": "A nomination by a Muslim policy owner creates a trust in favour of the nominee",
+            "D": "Monies payable upon the death of a policy owner form part of the estate of the insured and subject to his or her debts"
+        },
+        "answer": "A",
+        "explanation": "Where there is no nomination, the insurer shall pay the policy monies to the lawful executor or administrator of the estate of the deceased policy owner.Policy monies payable upon the death of a policy owner do not form part of the estate of the insured and are not subject to his or her debts if there is a nomination under the FSA 2013.A nomination by a Muslim policy owner acts as an 'executor' or 'wasi' and does not create a trust.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 6: Claims Management",
+        "page": "106-107"
+    },
+    {
+        "questionNumber": 66,
+        "question": "In obtaining underwriting information, an insurance agent should ensure the completion of the proposal form and the________________.",
+        "options": {
+            "A": "credibility of the medical report",
+            "B": "accuracy of relevant records",
+            "C": "integrity of personal data",
+            "D": "relevance of questions"
+        },
+        "answer": "D",
+        "explanation": "When obtaining underwriting information, the agent must ensure that the proposal form is properly completed and that all questions asked are relevant to the risk being underwritten.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 7: The Role of the Agent",
+        "page": "113"
+    },
+    {
+        "questionNumber": 67,
+        "question": "A life insurance agent must ensure that the policy proposed is suitable to the needs and is within the_______________ of the prospective policy owner.",
+        "options": {
+            "A": "ability",
+            "B": "authority",
+            "C": "desires",
+            "D": "resources"
+        },
+        "answer": "A",
+        "explanation": "Agents must ensure that the insurance plans proposed are suitable to the needs and within the financial ability of the prospective policy owner.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 7: The Role of the Agent",
+        "page": "113"
+    },
+    {
+        "questionNumber": 68,
+        "question": "In relation to existing policyholders,",
+        "options": {
+            "A": "agents shall render all reasonable assistance help the client secure the next life insurance policy applied for",
+            "B": "agents shall render all reasonable assistance to clients and their family members including financial assistance needed by the clients’ children",
+            "C": "agents shall render all reasonable assistance to claimants in filing claims forms and complying with the requirement related to claim settlement",
+            "D": "agents shall render all reasonable financial resources to assist clients in all circumstances including paying the life insurance premium"
+        },
+        "answer": "C",
+        "explanation": "Agents shall render all reasonable assistance to claimants in filing claims forms and complying with the requirements relating to claim settlement.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 7: The Role of the Agent",
+        "page": "114"
+    },
+    {
+        "questionNumber": 69,
+        "question": "If a group life insurance is arranged for persons in relation to whom the group policy owner has no insurable interest, it is NOT necessary for the agent to disclose to each of the insured persons",
+        "options": {
+            "A": "the premium charged by the licensed insurer",
+            "B": "the policy terms offered by a competitor",
+            "C": "the name of the licensed insurer",
+            "D": "his relationship with the insurer"
+        },
+        "answer": "B",
+        "explanation": "When a group life insurance is arranged for persons in relation to whom the group policy owner has no insurable interest, the agent must disclose to each of the insured persons the name of the licensed insurer, the premium charged, and his relationship with the insurer. Information about a competitor's policy terms is not a mandatory disclosure in this context.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 7: The Role of the Agent",
+        "page": "114"
+    },
+    {
+        "questionNumber": 70,
+        "question": "In drawing attention to the consequences of failure to disclose all material facts, the agent should _______________.",
+        "options": {
+            "A": "warrant that all answers given in the proposal form are accurate and no information is hidden",
+            "B": "make it clear that all answers or statements are the proposer’s own responsibility",
+            "C": "assist the proposer in answering the questions in the proposal form to the best of his ability",
+            "D": "make a statutory declaration that the statements made in the proposal form ae true and to the best of his knowledge"
+        },
+        "answer": "A",
+        "explanation": "In drawing attention to the consequences of failure to disclose all material facts, the agent should ensure that all answers given in the proposal form are accurate and no information is hidden.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 7: The Role of the Agent",
+        "page": "113"
+    },
+    {
+        "questionNumber": 71,
+        "question": "Investment-linked insurance is also available in USA and it is named______________ life insurance.",
+        "options": {
+            "A": "multinational",
+            "B": "universal",
+            "C": "international",
+            "D": "variable"
+        },
+        "answer": "D",
+        "explanation": "In the USA, investment-linked life insurance is also known as Variable Life Insurance.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 8: Investment-Linked Insurance",
+        "page": "119"
+    },
+    {
+        "questionNumber": 72,
+        "question": "Choose the statement that is correct regarding a regular premium investment-linked policy.",
+        "options": {
+            "A": "Regular premium investment-linked insurance is more inclined towards protection than investment",
+            "B": "Regular premium investment-linked insurance is more inclined towards investment than protection",
+            "C": "100% of the premium received for regular premium investment-linked insurance is used to purchase fund units in the first year",
+            "D": "80% of the premium received by the insurer for regular premium investment-linked insurance is used to purchase fund units in the first year"
+        },
+        "answer": "A",
+        "explanation": "The regular premium investment-linked insurance is more inclined towards protection than investment.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 8: Investment-Linked Insurance",
+        "page": "121"
+    },
+    {
+        "questionNumber": 73,
+        "question": "The statement below is correct about regular premium investment-linked insurance:",
+        "options": {
+            "A": "The minimum annual premium allowed by insurers is RM5,000",
+            "B": "Bank Negara Malaysia guidelines regarding minimum annual premium allowed must be followed",
+            "C": "Bank Negara Malaysia guidelines do not stipulate the minimum annual premium",
+            "D": "The maximum annual premium allowed by insurers is RM10,000"
+        },
+        "answer": "B",
+        "explanation": "Bank Negara Malaysia (BNM) does not stipulate the minimum annual premium, however, insurers must follow BNM guidelines on minimum death benefit to determine the minimum annual premium allowed.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 8: Investment-Linked Insurance",
+        "page": "121"
+    },
+    {
+        "questionNumber": 74,
+        "question": "On the tenth year of the investment-linked policy, the account value is insufficient to cover the cost of insurance. Select the statement that explains what will happen to the policy in this case",
+        "options": {
+            "A": "The policy will be terminated",
+            "B": "The policy will be frozen",
+            "C": "The policy will lapse",
+            "D": "The no-lapse guarantee period will trigger"
+        },
+        "answer": "C",
+        "explanation": "If the account value is insufficient to cover the cost of insurance and other necessary charges, and the policy is no longer within its no-lapse guarantee period (if applicable), the policy will lapse.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 8: Investment-Linked Insurance",
+        "page": "124"
+    },
+    {
+        "questionNumber": 75,
+        "question": "One of the particularly important conditions to be satisfied before an investment-linked policy can be considered as not lapsed even if the account value is insufficient to cover the COI and other necessary charge is",
+        "options": {
+            "A": "the regular premium has been paid without fail",
+            "B": "investment requests like fund switching have been made",
+            "C": "the premium holiday has been effected only once",
+            "D": "partial withdrawal from the account value has been made"
+        },
+        "answer": "A",
+        "explanation": "A no-lapse guarantee is a condition that ensures the policy will not lapse for a specified period (e.g., 5, 7, or 10 years) as long as the regular premiums have been paid without fail.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 8: Investment-Linked Insurance",
+        "page": "124"
+    },
+    {
+        "questionNumber": 76,
+        "question": "Donald, aged 56, wants to purchase an investment-linked policy from Triple Ace Insurance Berhad. If his basic regular premium is RM6,000, he will be covered for a minimum of",
+        "options": {
+            "A": "RM360,000",
+            "B": "RM600,000",
+            "C": "RM60,000",
+            "D": "RM90,000"
+        },
+        "answer": "D",
+        "explanation": "For regular premium investment-linked policies for lives aged 55 and above, the minimum death benefit is 15 times the basic regular premium. [span_17](start_span)For Donald (aged 56) with a basic regular premium of RM6,000, the minimum coverage would be RM6,000 x 15 = RM90,000.[span_17](end_span)",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 8: Investment-Linked Insurance",
+        "page": "121"
+    },
+    {
+        "questionNumber": 77,
+        "question": "For single premium investment-linked life insurance, once the account value exceeds the basic sum assured, the death benefit will be the",
+        "options": {
+            "A": "basic sum assured plus account value",
+            "B": "account value",
+            "C": "basic sum assured",
+            "D": "account value minus basic sum assured"
+        },
+        "answer": "B",
+        "explanation": "For single premium investment-linked life insurance, the death benefit is the basic sum assured plus the account value, or the account value if it exceeds the basic sum assured."
+    },
+    {
+        "questionNumber": 77,
+        "question": "For single premium investment-linked life insurance, once the account value exceeds the basic sum assured, the death benefit will be the",
+        "options": {
+            "A": "basic sum assured plus account value",
+            "B": "account value",
+            "C": "basic sum assured",
+            "D": "account value minus basic sum assured"
+        },
+        "answer": "A",
+        "explanation": "According to the textbook, for single premium investment-linked life insurance, the death benefit is generally the higher of the basic sum assured or the account value.[span_24](end_span) This would imply that if the account value exceeds the basic sum assured, the death benefit would be the account value. However, your provided answer is 'A. basic sum assured plus account value'. This option suggests an additive calculation that is not explicitly described as the general rule in the provided study material when the account value exceeds the basic sum assured. Some specific product designs might feature such a benefit structure, but it's not the generic rule stated in the textbook for this specific scenario.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 8: Investment-Linked Insurance",
+        "page": "121"
+    },
+    {
+        "questionNumber": 78,
+        "question": "The following statement is correct regarding the deduction of the cost of insurance (COI) for single premium investment-linked policies:",
+        "options": {
+            "A": "Deduction of COI is to cover the shortfall between the account value and the sum assured",
+            "B": "The COI will still be deducted even though the account value exceeds the basic sum assured",
+            "C": "Deduction of COI will be made annually in any circumstances",
+            "D": "The COI is used to cover the basic sum assured and future premium in advance"
+        },
+        "answer": "A",
+        "explanation": "The Cost of Insurance (COI) is deducted from the account value to pay for the insurance coverage.[span_25](end_span) [span_26](start_span)The COI charges are calculated based on the net amount at risk, which is the difference between the sum assured and the account value.[span_26](end_span) While COI is for 'insurance coverage', its calculation basis being the 'shortfall' (net amount at risk) can lead to the interpretation that its purpose is related to covering that risk.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 8: Investment-Linked Insurance",
+        "page": "123"
+    },
+    {
+        "questionNumber": 79,
+        "question": "Identify which of the following is NOT benefit of purchasing an investment-linked policy.",
+        "options": {
+            "A": "Less diversification",
+            "B": "Flexibility",
+            "C": "Managed by professional fund managers",
+            "D": "Transparency"
+        },
+        "answer": "A",
+        "explanation": "Key benefits of investment-linked insurance include flexibility, transparency, and the fact that funds are managed by professional fund managers.[span_27](end_span) Investment-linked policies generally offer diversification opportunities through various fund options, so 'less diversification' is not a benefit but rather a potential drawback, or simply not a characteristic benefit.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 8: Investment-Linked Insurance",
+        "page": "120-121"
+    },
+    {
+        "questionNumber": 80,
+        "question": "Select the statement that is true of an investment-linked policy.",
+        "options": {
+            "A": "Premiums paid will only be used for specific investment funds of the policy owner’s choice from the range of funds available",
+            "B": "The cash value is 100% guaranteed by the insurer and any losses incurred during the policy tenure will be borne by the insurer",
+            "C": "Premiums paid provide life insurance cover and are also invested in specific investment funds of the policy owner’s choice",
+            "D": "The maturity benefit is equal to 60 times of the total premium paid during the tenure of the policy"
+        },
+        "answer": "C",
+        "explanation": "Investment-linked insurance policies combine both protection and investment. The premiums paid are used to provide life insurance coverage and are also invested in investment-linked funds chosen by the policy owner.The cash value of an investment-linked policy is not 100% guaranteed, and the investment risk is borne by the policy owner.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 8: Investment-Linked Insurance",
+        "page": "119, 120"
+    },
+    {
+        "questionNumber": 81,
+        "question": "Identify the flexibility offered by an investment-linked policy which is NOT available with a whole life policy.",
+        "options": {
+            "A": "Availability for those aged 16",
+            "B": "Guaranteed cash value",
+            "C": "Policy loan",
+            "D": "Premium holiday"
+        },
+        "answer": "D",
+        "explanation": "Investment-linked policies offer flexibility features such as premium holidays.Whole life policies typically have fixed premiums and do not offer premium holidays.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 8: Investment-Linked Insurance",
+        "page": "120"
+    },
+    {
+        "questionNumber": 82,
+        "question": "The administration fee, insurance charge, fund management fee, etc. of an investment-linked life insurance policy are usually ______________.",
+        "options": {
+            "A": "not guaranteed",
+            "B": "fixed",
+            "C": "decided by Bank Negara Malaysia",
+            "D": "guaranteed"
+        },
+        "answer": "A",
+        "explanation": "The charges associated with investment-linked policies, such as administration fees, insurance charges, and fund management fees, are usually not guaranteed and may be varied by the insurer.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 8: Investment-Linked Insurance",
+        "page": "123"
+    },
+    {
+        "questionNumber": 83,
+        "question": "Investors also have secondary objectives that are closer to their hearts, that are more focused on specific needs, one example is",
+        "options": {
+            "A": "ensuring a comfortable standard of living",
+            "B": "guaranteeing a successful business operation",
+            "C": "ensuring a comfortable annual holiday for the family",
+            "D": "saving up for funds for their children’s future business"
+        },
+        "answer": "A",
+        "explanation": "Secondary objectives for investors are focused on specific needs, including ensuring a comfortable standard of living after retirement, saving for children’s education, or accumulating funds for old age.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": "127"
+    },
+    {
+        "questionNumber": 84,
+        "question": "To ascertain the correct mix of objectives that client has and to realise the completion of these objectives, the agent has to make sure that clients are given a sound understanding of how ___________________ .",
+        "options": {
+            "A": "investments work",
+            "B": "to achieve high return",
+            "C": "to do technical analysis",
+            "D": "the expert decides"
+        },
+        "answer": "A",
+        "explanation": "Agents must ensure clients have a sound understanding of how investments work to help ascertain their objectives and facilitate their completion.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": "128"
+    },
+    {
+        "questionNumber": 85,
+        "question": "Clients must be told that there is a________________ trade-off and they must be able to accept this before venturing into a high-risk portfolio.",
+        "options": {
+            "A": "offer-acceptance",
+            "B": "buy-sell",
+            "C": "low-high",
+            "D": "risk-return"
+        },
+        "answer": "D",
+        "explanation": "Clients need to understand and accept the risk-return trade-off before investing in a high-risk portfolio.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 129
+    },
+    {
+        "questionNumber": 86,
+        "question": "Based on Kamal’s cash flow statement as given below, identify his surplus.",
+        "options": {
+            "A": "RM700",
+            "B": "RM800",
+            "C": "RM900",
+            "D": "RM1,000"
+        },
+        "answer": "D",
+        "explanation": "Surplus is calculated as Total Income minus Total Expenditure. Kamal's total income is RM5,000 (Salary) + RM500 (Rental) + RM1,000 (Commissions) + RM1,000 (Others) = RM7,500. His total expenditure is RM1,000 (Rental/Housing Loan) + RM750 (Groceries and Utilities) + RM500 (Childcare/Parent’s allowance) + RM250 (Education Expenses) + RM2,000 (Loan) + RM500 (Insurance Premiums) + RM500 (Savings) + RM1,000 (Misc) = RM6,500. Therefore, the surplus is RM7,500 - RM6,500 = RM1,000.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": "133, Table 9.4"
+    },
+    {
+        "questionNumber": 87,
+        "question": "“If the company defaults, the investor has no security and thus is in the same position as all the other unsecured creditors of the company. Investors may or may not get back their capital, depending on the company’s performance.” This statement is true of______________ stocks.",
+        "options": {
+            "A": "loan",
+            "B": "ordinary",
+            "C": "debenture",
+            "D": "convertible"
+        },
+        "answer": "A",
+        "explanation": "The provided statement accurately describes characteristics of **ordinary stocks (equities)**, where investors are owners and have no security, standing as unsecured creditors if the company defaults.For ordinary stocks, capital recovery depends entirely on company performance.Loan stocks (debentures) represent debt, where investors are creditors and typically have a higher claim on assets than equity holders. Given the provided answer is 'A. loan', there appears to be a discrepancy with the direct description in the textbook.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 136
+    },
+    {
+        "questionNumber": 88,
+        "question": "In the discount market, the difference between the discounted price and the par value is represented as the______________.",
+        "options": {
+            "A": "profit",
+            "B": "interest",
+            "C": "coupon",
+            "D": "yield"
+        },
+        "answer": "D",
+        "explanation": "In the discount market, particularly for instruments like Treasury bills, the difference between the discounted price and the par value represents the yield.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 137
+    },
+    {
+        "questionNumber": 89,
+        "question": "A capital guaranteed fund works in the following way:",
+        "options": {
+            "A": "The fund guarantees the invested capital while on the other hand, the return is decided by the investor at a specific rate",
+            "B": "The fund guarantees a profit while on the other hand, the return is capped at a specific rate although the actual investment experience may be lower",
+            "C": "The fund guarantees the invested capital while on the other hand, the return is decided at a specific rate although the actual investment experience may be lower",
+            "D": "The fund guarantees the invested capital while on the other hand, the return is capped at a specific rate although the actual investment experience may be higher"
+        },
+        "answer": "D",
+        "explanation": "A capital guaranteed fund ensures the invested capital, but the return is typically capped at a specific rate, even if the actual investment performance is higher.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 139
+    },
+    {
+        "questionNumber": 90,
+        "question": "Commodities, whether related to food, energy or metals, represent an avenue for investors to venture out of stocks or bonds with the objective of gaining from price movements and the popular way to do so is by",
+        "options": {
+            "A": "investing directly into commodities-based stocks",
+            "B": "purchasing stocks listed on Bursa Malaysia",
+            "C": "purchasing a futures contract",
+            "D": "purchasing a company involved in commodities"
+        },
+        "answer": "C",
+        "explanation": "A popular method for investors to gain from commodity price movements is by purchasing a futures contract.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 139
+    },
+    {
+        "questionNumber": 91,
+        "question": "Which of the following statement is NOT true regarding treasury bills?",
+        "options": {
+            "A": "Institutional investors are the main buyers of treasury bills",
+            "B": "Treasury bills are long-term government funding vehicles",
+            "C": "The difference between the discounted price and the par value represents the yield",
+            "D": "Treasury bills are issued by Bank Negara Malaysia"
+        },
+        "answer": "B",
+        "explanation": "Treasury bills are described as short-term government funding vehicles, making the statement that they are long-term 'NOT true'.Other statements such as institutional investors being main buyers, the yield being the difference between discounted price and par value, and issuance by Bank Negara Malaysia are true characteristics of Treasury bills.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 137
+    },
+    {
+        "questionNumber": 92,
+        "question": "The main activity of a property fund is",
+        "options": {
+            "A": "buying and selling of property in the secondary market",
+            "B": "buying and selling of property development companies",
+            "C": "investing of all the fund into real estate",
+            "D": "acquiring stocks in development companies"
+        },
+        "answer": "C",
+        "explanation": "The primary activity of a property fund is investing the entire fund into real estate.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 138
+    },
+    {
+        "questionNumber": 93,
+        "question": "The following statement about equities is correct:",
+        "options": {
+            "A": "Equity prices can be very steady when the stock market faces a downturn over an extended period",
+            "B": "Equity prices can rise against the mainstream when the stock market faces a downturn over an extended period",
+            "C": "Return potentials for equities can be significantly lower, especially during periods of market buoyancy",
+            "D": "Return potentials for equities can be significantly higher, especially during periods of market buoyancy"
+        },
+        "answer": "D",
+        "explanation": "Return potentials for equities can be significantly higher, particularly during periods of strong market performance or buoyancy.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 9: The Investment Process",
+        "page": 136
+    },
+    {
+        "questionNumber": 94,
+        "question": "The BNM Guidelines on Investment-Linked Business state that the initial offer period (of a new fund) must not",
+        "options": {
+            "A": "be less than two months",
+            "B": "exceed one month",
+            "C": "be less than one month",
+            "D": "exceed two months"
+        },
+        "answer": "D",
+        "explanation": "According to the BNM Guidelines on Investment-Linked Business, the initial offer period for a new fund must not exceed two months.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 10: Regulatory Requirements",
+        "page": 143
+    },
+    {
+        "questionNumber": 95,
+        "question": "The following is stated in the BNM Guidelines on Investment-Linked Business regarding the requirement for minimum death benefits and top-up premiums:",
+        "options": {
+            "A": "The requirement for minimum death benefits does not apply to top-up premiums; thus, the whole of the top-up premiums can be used to purchase units",
+            "B": "The requirement for minimum death benefits does not apply to top-up premiums but some of top-up premiums must be used to purchase the leverage premium",
+            "C": "The requirement for minimum death benefits applies to top-up premiums; thus, the whole of the top-up premiums cannot be used to purchase units",
+            "D": "There is a special requirement for minimum death benefits for top-up premiums which is half of the basic requirement; thus, some of the top-up premiums must be used to pay the cost of insurance"
+        },
+        "answer": "A",
+        "explanation": "BNM Guidelines on Investment-Linked Business state that the requirement for minimum death benefits does not apply to top-up premiums, allowing the entire top-up premium to be used for purchasing units.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 10: Regulatory Requirements",
+        "page": 144
+    },
+    {
+        "questionNumber": 96,
+        "question": "When meeting with a prospective policy owner, the first and most important act of the life insurance agent is to",
+        "options": {
+            "A": "share with the prospective policy owner the benefits available if he/she decides to purchase the investment-linked products and the cost involved",
+            "B": "share with the prospective policy owner the disadvantages of competitors’ products",
+            "C": "make it known which insurance company he represents and produce his Registered Intermediary Authorisation Card to identify himself",
+            "D": "make known to the prospect his position in the company, the product he is selling to the prospective policy owner and the cost involved"
+        },
+        "answer": "C",
+        "explanation": "The first and most important act of the agent is to make known the insurance company he represents and produce his Registered Intermediary Authorisation Card to identify himself. Additionally, the agent should inform the prospective policy owner about his position in the company, the product being sold, and its cost",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+        "page": 147
+    },
+    {
+        "questionNumber": 97,
+        "question": "The following is a consequence of replacing a policy of the same type:",
+        "options": {
+            "A": "The insured will enjoy a lower premium",
+            "B": "The new policy will provide better benefits to the policy owner",
+            "C": "Any replacement of the same type of policy will be at a higher premium rate as the insured’s age will have increased",
+            "D": "The new policy will be an improved one and be cheaper, benefitting the policy owner"
+        },
+        "answer": "C",
+        "explanation": "A consequence of replacing a policy of the same type is that the new policy will generally come with a higher premium rate due to the insured's increased age.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+        "page": 149
+    },
+    {
+        "questionNumber": 98,
+        "question": "Select from the following how the objective of satisfying a customer’s requirements can be achieved. I. Conducting a financial needs analysis II. Understanding the sales illustrations provided by the company III. Understanding the product information as provided by the company IV. Showing customers the agent’s income statement to impress them",
+        "options": {
+            "A": "I, II and III",
+            "B": "I, II and IV",
+            "C": "II, III and IV",
+            "D": "I, II,III and IV"
+        },
+        "answer": "A",
+        "explanation": "Satisfying customer requirements involves conducting a financial needs analysis, understanding sales illustrations, and understanding product information provided by the company.Showing an agent's income statement is not a method mentioned for achieving this objective.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+        "page": 147
+    },
+    {
+        "questionNumber": 99,
+        "question": "When an intermediary is supplied with an illustration by the insurer, the intermediary should",
+        "options": {
+            "A": "keep the illustration in the proposal form and only provide a verbal explanation of the illustration to the proposer",
+            "B": "highlight only the part of the illustration that will attract the proposer",
+            "C": "use the whole illustration and show it to the proposer and not add to it or hide any part of it",
+            "D": "be creative and produce an enhanced version of the illustration to attract the proposer"
+        },
+        "answer": "C",
+        "explanation": "Intermediaries are required to use the entire illustration provided by the insurer, present it completely to the proposer, and refrain from adding to or hiding any part of it.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+        "page": 148
+    },
+    {
+        "questionNumber": 100,
+        "question": "Identify what happens if a policy owner lapses a policy and purchases a new one",
+        "options": {
+            "A": "The proposer may opt to transfer the old premium to the new policy",
+            "B": "The suicide clause and incontestable clause begin anew in a new policy",
+            "C": "The suicidal and incontestability clause will not be disrupted as the proposer is the same person",
+            "D": "The new policy may be rejected because the old policy is still active"
+        },
+        "answer": "B",
+        "explanation": "If a policy owner lapses an existing policy and purchases a new one, the suicide clause and incontestable clause in the new policy will begin anew.",
+        "textbook": "CEILLI New Edition Textbook (English)",
+        "chapter": "Chapter 11: The Agent and Investment-Linked Business",
+        "page": 149
+    }
 ]
